@@ -6,9 +6,19 @@
             "status": "AVAILABLE"
         },
         {
-            "resourceId": "58a57eb7-a716-4b1c-8e56-333826594ead",
-            "type": "INVOICE_FINANCING",
+            "resourceId": "85e6e8a4-34e6-4019-b467-bb2a4e1321bb",
+            "type": "LOAN",
             "status": "AVAILABLE"
+        },
+        {
+            "resourceId": "c30ac506-6f3a-4672-8d58-dee27bf7fbd7",
+            "type": "FINANCING",
+            "status": "AVAILABLE"
+        },
+        {
+            "resourceId": "NA",
+            "type": "INVOICE_FINANCING",
+            "status": "UNAVAILABLE"
         },
         {
             "resourceId": "NA",
@@ -17,17 +27,7 @@
         },
         {
             "resourceId": "NA",
-            "type": "LOAN",
-            "status": "TEMPORARILY_UNAVAILABLE"
-        },
-        {
-            "resourceId": "NA",
             "type": "UNARRANGED_ACCOUNT_OVERDRAFT",
-            "status": "UNAVAILABLE"
-        },
-        {
-            "resourceId": "NA",
-            "type": "FINANCING",
             "status": "UNAVAILABLE"
         }
     ],

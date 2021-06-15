@@ -1,23 +1,23 @@
 {
     "data": [
         {
-            "resourceId": "5250435f-e456-419e-af92-a960a0fbca51",
-            "type": "CREDIT_CARD_ACCOUNT",
-            "status": "AVAILABLE"
-        },
-        {
-            "resourceId": "58a57eb7-a716-4b1c-8e56-333826594ead",
-            "type": "INVOICE_FINANCING",
+            "resourceId": "e4132a2d-9607-e911-80e0-d4ae52aa818f",
+            "type": "LOAN",
             "status": "AVAILABLE"
         },
         {
             "resourceId": "NA",
-            "type": "ACCOUNT",
+            "type": "INVOICE_FINANCING",
             "status": "UNAVAILABLE"
         },
         {
             "resourceId": "NA",
-            "type": "LOAN",
+            "type": "CREDIT_CARD_ACCOUNT",
+            "status": "UNAVAILABLE"
+        },
+        {
+            "resourceId": "NA",
+            "type": "ACCOUNT",
             "status": "TEMPORARILY_UNAVAILABLE"
         },
         {
@@ -35,8 +35,8 @@
         "self": "https://api.banco.com.br/open-banking/resources/v1/resources"
     },
     "meta": {
-        "totalRecords": 6,
-        "totalPages": 1,
-        "requestDateTime": "2021-06-15T11:40:00Z"
+        "totalRecords": 30,
+        "totalPages": 2,
+        "requestDateTime": "2021-06-15T14:35:00Z"
     }
 }

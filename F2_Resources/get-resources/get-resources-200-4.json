@@ -6,9 +6,9 @@
             "status": "AVAILABLE"
         },
         {
-            "resourceId": "58a57eb7-a716-4b1c-8e56-333826594ead",
+            "resourceId": "NA",
             "type": "INVOICE_FINANCING",
-            "status": "AVAILABLE"
+            "status": "UNAVAILABLE"
         },
         {
             "resourceId": "NA",

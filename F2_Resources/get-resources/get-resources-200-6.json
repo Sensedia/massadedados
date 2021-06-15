@@ -1,18 +1,18 @@
 {
     "data": [
         {
-            "resourceId": "5250435f-e456-419e-af92-a960a0fbca51",
-            "type": "CREDIT_CARD_ACCOUNT",
-            "status": "AVAILABLE"
-        },
-        {
-            "resourceId": "58a57eb7-a716-4b1c-8e56-333826594ead",
-            "type": "INVOICE_FINANCING",
+            "resourceId": "ef85f6dd-699f-42ea-b62f-ed1a697ee2d2",
+            "type": "ACCOUNT",
             "status": "AVAILABLE"
         },
         {
             "resourceId": "NA",
-            "type": "ACCOUNT",
+            "type": "INVOICE_FINANCING",
+            "status": "UNAVAILABLE"
+        },
+        {
+            "resourceId": "NA",
+            "type": "CREDIT_CARD_ACCOUNT",
             "status": "UNAVAILABLE"
         },
         {

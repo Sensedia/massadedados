@@ -1,0 +1,137 @@
+{
+    "data": [
+        {
+            "resourceId": "5d18c5fe-ba69-3a9e-a343-dca4d2a1cf6c",
+            "type": "LOAN",
+            "status": "AVAILABLE"
+        },
+        {
+            "resourceId": "331491ea-4d1c-3418-b0db-c8a069362d2d",
+            "type": "LOAN",
+            "status": "AVAILABLE"
+        },
+        {
+            "resourceId": "318bddb2-dd30-4abb-8368-9271aa567480",
+            "type": "LOAN",
+            "status": "AVAILABLE"
+        },
+        {
+            "resourceId": "3b433f92-4570-495a-a54e-1f9bebca9292",
+            "type": "LOAN",
+            "status": "AVAILABLE"
+        },
+        {
+            "resourceId": "e7489b77-fca7-37e7-8a5a-d3efb3595a3a",
+            "type": "LOAN",
+            "status": "AVAILABLE"
+        },
+        {
+            "resourceId": "db8d9fb4-0e8d-4628-a655-527dc9632583",
+            "type": "LOAN",
+            "status": "AVAILABLE"
+        },
+        {
+            "resourceId": "1ff29059-3105-43cd-a55a-20652d73604b",
+            "type": "LOAN",
+            "status": "AVAILABLE"
+        },
+        {
+            "resourceId": "54584bb4-06da-48b8-b4c8-a93cafbb5e00",
+            "type": "LOAN",
+            "status": "AVAILABLE"
+        },
+        {
+            "resourceId": "77d4f82a-fa60-4cd2-ab78-78d7b9b25011",
+            "type": "LOAN",
+            "status": "AVAILABLE"
+        },
+        {
+            "resourceId": "f380c14f-4c2c-4b0a-9ad3-a3abfebe434b",
+            "type": "LOAN",
+            "status": "AVAILABLE"
+        },
+        {
+            "resourceId": "a18bc10f-e13c-4264-a4eb-f2e99b979fd5",
+            "type": "LOAN",
+            "status": "AVAILABLE"
+        },
+        {
+            "resourceId": "2e3a4adc-e94f-46e2-bcca-b8103fee3664",
+            "type": "LOAN",
+            "status": "AVAILABLE"
+        },
+        {
+            "resourceId": "8fbf362c-4d41-4032-b738-32dc7bd18ee7",
+            "type": "LOAN",
+            "status": "AVAILABLE"
+        },
+        {
+            "resourceId": "bdc20942-2b0d-43eb-a78e-496095f0864b",
+            "type": "LOAN",
+            "status": "AVAILABLE"
+        },
+        {
+            "resourceId": "939ab458-6f1d-e911-80e0-d4ae52aa818f",
+            "type": "LOAN",
+            "status": "AVAILABLE"
+        },
+        {
+            "resourceId": "08c0414f-481b-e911-80e0-d4ae52aa818f",
+            "type": "LOAN",
+            "status": "AVAILABLE"
+        },
+        {
+            "resourceId": "a50a46f7-f608-e911-80e0-d4ae52aa818f",
+            "type": "LOAN",
+            "status": "AVAILABLE"
+        },
+        {
+            "resourceId": "bd0166a5-3c13-e911-80e0-d4ae52aa818f",
+            "type": "LOAN",
+            "status": "AVAILABLE"
+        },
+        {
+            "resourceId": "27674be8-3609-e911-80e0-d4ae52aa818f",
+            "type": "LOAN",
+            "status": "AVAILABLE"
+        },
+        {
+            "resourceId": "376569f0-6bfc-e811-80e0-d4ae52aa818f",
+            "type": "LOAN",
+            "status": "AVAILABLE"
+        },
+        {
+            "resourceId": "3ed64bf8-3609-e911-80e0-d4ae52aa818f",
+            "type": "LOAN",
+            "status": "AVAILABLE"
+        },
+        {
+            "resourceId": "7dc12b07-3709-e911-80e0-d4ae52aa818f",
+            "type": "LOAN",
+            "status": "AVAILABLE"
+        },
+        {
+            "resourceId": "06fde383-3309-e911-80e0-d4ae52aa818f",
+            "type": "LOAN",
+            "status": "AVAILABLE"
+        },
+        {
+            "resourceId": "3a9faa33-f708-e911-80e0-d4ae52aa818f",
+            "type": "LOAN",
+            "status": "AVAILABLE"
+        },
+        {
+            "resourceId": "1a44390d-9907-e911-80e0-d4ae52aa818f",
+            "type": "LOAN",
+            "status": "AVAILABLE"
+        }
+    ],
+    "links": {
+        "self": "https://api.banco.com.br/open-banking/resources/v1/resources"
+    },
+    "meta": {
+        "totalRecords": 30,
+        "totalPages": 2,
+        "requestDateTime": "2021-06-15T11:40:00Z"
+    }
+}

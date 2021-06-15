@@ -1,14 +1,24 @@
 {
     "data": [
         {
-            "resourceId": "5250435f-e456-419e-af92-a960a0fbca51",
+            "resourceId": "NA",
             "type": "CREDIT_CARD_ACCOUNT",
-            "status": "AVAILABLE"
+            "status": "UNAVAILABLE"
         },
         {
-            "resourceId": "58a57eb7-a716-4b1c-8e56-333826594ead",
+            "resourceId": "NA",
+            "type": "LOAN",
+            "status": "UNAVAILABLE"
+        },
+        {
+            "resourceId": "NA",
+            "type": "FINANCING",
+            "status": "UNAVAILABLE"
+        },
+        {
+            "resourceId": "NA",
             "type": "INVOICE_FINANCING",
-            "status": "AVAILABLE"
+            "status": "UNAVAILABLE"
         },
         {
             "resourceId": "NA",
@@ -17,17 +27,7 @@
         },
         {
             "resourceId": "NA",
-            "type": "LOAN",
-            "status": "TEMPORARILY_UNAVAILABLE"
-        },
-        {
-            "resourceId": "NA",
             "type": "UNARRANGED_ACCOUNT_OVERDRAFT",
-            "status": "UNAVAILABLE"
-        },
-        {
-            "resourceId": "NA",
-            "type": "FINANCING",
             "status": "UNAVAILABLE"
         }
     ],
