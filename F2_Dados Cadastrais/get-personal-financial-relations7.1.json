@@ -29,15 +29,14 @@
         "type": "CONTA_DEPOSITO_A_VISTA",
         "subtype": "INDIVIDUAL"
       },
-	  {
-        "compeCode": "77",
-        "branchCode": "8522",
-        "number": "25663125",
-        "checkDigit": "1",
-        "type": "CONTA_POUPANCA",
-        "subtype": "INDIVIDUAL"
+      {
+          "compeCode": "77",
+          "branchCode": "8522",
+          "number": "25663125",
+          "checkDigit": "1",
+          "type": "CONTA_POUPANCA",
+          "subtype": "INDIVIDUAL"
       }
-	  
     ]
   },
   "links": {
