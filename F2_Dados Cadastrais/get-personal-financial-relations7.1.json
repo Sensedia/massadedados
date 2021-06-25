@@ -3,13 +3,12 @@
     "updateDateTime": "2021-05-20T08:30:00Z",
     "startDate": "2010-04-05T08:30:00Z",
     "productsServicesType": [
-	  "CONTA_DEPOSITO_A_VISTA",
+	  "CONTA_POUPANCA",
 	  "CARTAO_CREDITO",
 	  "OPERACAO_CREDITO",
 	  "SEGURO",
 	  "PREVIDENCIA",
-	  "OPERACOES_CAMBIO",
-	  "CONTA_SALARIO"
+	  "OPERACOES_CAMBIO"
     ],
     "productsServicesTypeAdditionalInfo": "Informações adicionais do tipo de serviço.",
     "procurators": [
@@ -21,14 +20,6 @@
       }
     ],
     "accounts": [
-      {
-        "compeCode": "77",
-        "branchCode": "8559",
-        "number": "898756654",
-        "checkDigit": "1",
-        "type": "CONTA_DEPOSITO_A_VISTA",
-        "subtype": "INDIVIDUAL"
-      },
       {
           "compeCode": "77",
           "branchCode": "8522",

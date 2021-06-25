@@ -1,15 +1,6 @@
 {
     "data": [
       {
-        "brandName": "Banco Inter S.A.", //??????
-        "companyCnpj": "00416968000101",
-        "type": "CONTA_DEPOSITO_A_VISTA",
-        "compeCode": "77",
-        "branchCode": "8559",
-        "number": "898756654",
-        "checkDigit": "1"
-      },
-      {
         "brandName": "Banco Inter S.A.",
         "companyCnpj": "00416968000101",
         "type": "CONTA_POUPANCA",
