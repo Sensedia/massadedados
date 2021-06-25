@@ -1,6 +1,6 @@
 {
     "data": {
-        "consentId": "urn:bb:BB96825411",
+        "consentId": "urn:banrisul:57699540",
         "creationDateTime": "2021-05-28T10:30:00Z",
         "status": "AUTHORISED",
         "statusUpdateDateTime": "2021-05-28T10:45:00Z",
@@ -16,7 +16,7 @@
         "transactionToDateTime": "2021-09-01T00:00:00Z"
     },
     "links": {
-        "self": "https://api.bb.com.br/open-banking/consents/v1/consents/urn:bb:BB96825411"
+        "self": "http://openbanking.banrisul.com.br/open-banking/consents/v1/consents/urn:bb:BB96825411"
     },
     "meta": {
         "totalRecords": 1,
