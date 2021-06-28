@@ -1,0 +1,22 @@
+{
+    "data": [
+      {
+        "creditCardAccountId": "da1s8651-3f03-3c4e-b00a-521sd54sd1nm",
+        "brandName": "Banco Bradesco S.A",
+        "companyCnpj": "60746948000112",
+        "name": "Mastercard Platinum",
+        "productType": "PLATINUM",
+        "productAdditionalInfo": "NA",
+        "creditCardNetwork": "MASTERCARD",
+        "networkAdditionalInfo": "NA"
+      }
+    ],
+    "links": {
+      "self": "https://api.bradesco.com.br/open-banking/credit-cards-accounts/v1/accounts"
+    },
+    "meta": {
+      "totalRecords": 1,
+      "totalPages": 1,
+      "requestDateTime": "2021-10-01T00:00:00Z"
+    }
+}

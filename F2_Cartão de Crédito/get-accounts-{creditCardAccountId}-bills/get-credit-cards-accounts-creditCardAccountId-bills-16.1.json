@@ -1,0 +1,38 @@
+{
+    "data": [
+      {
+        "billId": "a5ye1n3r-3f03-3c4e-b00a-r8o8p1v5a2mn",
+        "dueDate": "2021-10-10",
+        "billTotalAmount": 10500.2780,
+        "billTotalAmountCurrency": "BRL",
+        "billMinimumAmount": 5500.2780,
+        "billMinimumAmountCurrency": "BRL",
+        "isInstalment": true,
+        "financeCharges": [
+          {
+            "type": "JUROS_REMUNERATORIOS_ATRASO_PAGAMENTO_FATURA",
+            "additionalInfo": "NA",
+            "amount": 10500.2780,
+            "currency": "BRL"
+          }
+        ],
+        "payments": [
+          {
+            "valueType": "VALOR_PAGAMENTO_FATURA_PARCELADO",
+            "paymentDate": "2021-10-10",
+            "paymentMode": "DEBITO_CONTA_CORRENTE",
+            "amount": 10500.2780,
+            "currency": "BRL"
+          }
+        ]
+      }
+    ],
+    "links": {
+      "self": "https://api.bradesco.com.br/open-banking/credit-cards-accounts/v1/da1s8651-3f03-3c4e-b00a-521sd54sd1nm/bills"
+    },
+    "meta": {
+      "totalRecords": 1,
+      "totalPages": 1,
+      "requestDateTime": "2021-10-01T00:00:00Z"
+    }
+}
