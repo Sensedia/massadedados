@@ -1,0 +1,80 @@
+{
+    "data": [
+      {
+        "updateDateTime": "2021-05-20T08:30:00Z",
+        "businessId": "10a4bc66-5742-4b11-8129-e51f229f8926",
+        "brandName": "Banco Bradesco S.A",
+        "companyName": "Natali Joalheria Ltda",
+        "tradeName": "Natali Joalheria",
+        "incorporationDate": "2005-02-01T00:00:00Z",
+        "cnpjNumber": "37091138000153",
+        "companyCnpjNumber": [
+        ],
+        "otherDocuments": [
+        ],
+        "parties": [
+          {
+            "personType": "PESSOA_NATURAL",
+            "type": "ADMINISTRADOR",
+            "civilName": "Natali Gael Campos",
+            "socialName": "Natali Gael Campos",
+            "companyName": "Natali Joalheria Ltda",
+            "tradeName": "Natali Joalheria",
+            "startDate": "2021-05-10T08:30:00Z",
+            "shareholding": "1",
+            "documentType": "CPF",
+            "documentNumber": "37799610166",
+            "documentAdditionalInfo": "NA",
+            "documentCountry": "BRA",
+            "documentExpirationDate": "2025-04-01",
+            "documentIssueDate": "2015-04-01"
+          }
+        ],
+        "contacts": {
+          "postalAddresses": [
+            {
+              "isMain": true,
+              "address": "Rua Francisco Rodrigues de Castro, 612",
+              "additionalInfo": "NA",
+              "districtName": "Doutor Sílvio Botelho",
+              "townName": "Boa Vista",
+              "ibgeTownCode": "1400100",
+              "countrySubDivision": "RR",
+              "postCode": "69314540",
+              "country": "Brasil",
+              "countryCode": "BRA",
+              "geographicCoordinates": {
+                "latitude": "-2.8212314",
+                "longitude": "-60.6882633"
+              }
+            }
+          ],
+          "phones": [
+            {
+              "isMain": true,
+              "type": "FIXO",
+              "additionalInfo": "NA",
+              "countryCallingCode": "55",
+              "areaCode": "95",
+              "number": "34888919",
+              "phoneExtension": "NA"
+            }
+          ],
+          "emails": [
+            {
+              "isMain": true,
+              "email": "natali-joalheiria@email.com"
+            }
+          ]
+        }
+      }
+    ],
+    "links": {
+      "self": "https://api.bradesco.com.br/open-banking/customers/v1/business/identifications"
+    },
+    "meta": {
+      "totalRecords": 1,
+      "totalPages": 1,
+      "requestDateTime": "2021-05-21T08:30:00Z"
+    }
+}

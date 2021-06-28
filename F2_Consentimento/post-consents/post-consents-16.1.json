@@ -2,17 +2,18 @@
     "data": {
     "loggedUser": {
       "document": {
-        "identification": "34083740078",
+        "identification": "37581505073",
         "rel": "CPF"
       }
 	},
         "businessEntity": {
             "document": {
-                "identification": "07123288000130",
+                "identification": "37091138000153",
                 "rel": "CNPJ"
             }
         },
         "permissions": [
+            
             "CREDIT_CARDS_ACCOUNTS_READ",
             "CREDIT_CARDS_ACCOUNTS_BILLS_READ",
             "CREDIT_CARDS_ACCOUNTS_BILLS_TRANSACTIONS_READ",
