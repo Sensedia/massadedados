@@ -1,31 +1,31 @@
 {
-    "data": {
-      "updateDateTime": "2021-05-21T08:30:00Z",
-      "companyCnpj": "50685362000135",
-      "occupationCode": "RECEITA_FEDERAL",
-      "occupationDescription": "01",
-      "informedIncome": {
-        "frequency": "DIARIA",
-        "amount": 100000.04,
-        "currency": "BRL",
-        "date": "2021-05-21"
-      },
-      "informedPatrimony": {
-        "amount": 100000.04,
-        "currency": "BRL",
-        "year": 2010
+  "data": {
+    "updateDateTime": "2021-05-20T08:30:00Z",
+    "economicActivities": [
+      {
+        "code": 3211602,
+        "isMain": true
       }
+    ],
+    "informedRevenue": {
+      "frequency": "MENSAL",
+      "frequencyAdditionalInfo": "NA",
+      "amount": 157523.85,
+      "currency": "BRL",
+      "year": 2021
     },
-    "links": {
-      "self": "https://api.banco.com.br/open-banking/api/v1/resource",
-      "first": "https://api.banco.com.br/open-banking/api/v1/resource",
-      "prev": "https://api.banco.com.br/open-banking/api/v1/resource",
-      "next": "https://api.banco.com.br/open-banking/api/v1/resource",
-      "last": "https://api.banco.com.br/open-banking/api/v1/resource"
-    },
-    "meta": {
-      "totalRecords": 1,
-      "totalPages": 1,
-      "requestDateTime": "2021-05-21T08:30:00Z"
+    "informedPatrimony": {
+      "amount": 15151581.21,
+      "currency": "BRL",
+      "date": "2021-05-21"
     }
+  },
+  "links": {
+    "self": "https://api.bradesco.com.br/open-banking/customers/v1/business/qualifications"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2021-05-21T08:30:00Z"
+  }
 }
