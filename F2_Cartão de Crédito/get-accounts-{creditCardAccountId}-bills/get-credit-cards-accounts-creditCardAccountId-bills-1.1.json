@@ -3,16 +3,16 @@
         {
             "billId": "4c772fcd-5a10-4468-aad2-c58eff0bcc40",
             "dueDate": "2021-06-10",
-            "billTotalAmount": 5245.88,
+            "billTotalAmount": 5245.8800,
             "billTotalAmountCurrency": "BRL",
-            "billMinimumAmount": 1.049.18,
+            "billMinimumAmount": 1049.1800,
             "billMinimumAmountCurrency": "BRL",
             "isInstalment": true,
             "financeCharges": [
                 {
                     "type": "JUROS_REMUNERATORIOS_ATRASO_PAGAMENTO_FATURA",
                     "additionalInfo": "NA",
-                    "amount": 52.46,
+                    "amount": 52.4600,
                     "currency": "BRL"
                 }
             ],
@@ -21,7 +21,7 @@
                     "valueType": "OUTRO_VALOR_PAGO_FATURA",
                     "paymentDate": "2021-06-10",
                     "paymentMode": "BOLETO_BANCARIO",
-                    "amount": 2.622,94,
+                    "amount": 2.622,9400,
                     "currency": "BRL"
                 }
             ]
@@ -29,9 +29,9 @@
 		{
             "billId": "c7d2f7a4-c23c-4319-9926-0fece3016650",
             "dueDate": "2021-05-10",
-            "billTotalAmount": 4852.25,
+            "billTotalAmount": 4852.2500,
             "billTotalAmountCurrency": "BRL",
-            "billMinimumAmount": 970.45,
+            "billMinimumAmount": 970.4500,
             "billMinimumAmountCurrency": "BRL",
             "isInstalment": true,
             "financeCharges": [
@@ -47,15 +47,15 @@
                     "valueType": "OUTRO_VALOR_PAGO_FATURA",
                     "paymentDate": "2021-05-09",
                     "paymentMode": "BOLETO_BANCARIO",
-                    "amount": 4852.25,
+                    "amount": 4852.2500,
                     "currency": "BRL"
         },
 		{
 			"billId": "d3422c82-aae4-4ab5-93b2-5c06e9a8a0e1",
 			"dueDate": "2021-04-10",
-			"billTotalAmount": 5498.98,
+			"billTotalAmount": 5498.9800,
 			"billTotalAmountCurrency": "BRL",
-			"billMinimumAmount": 970.45,
+			"billMinimumAmount": 970.4500,
 			"billMinimumAmountCurrency": "BRL",
 			"isInstalment": true,
 			"financeCharges": [
@@ -71,15 +71,15 @@
 					"valueType": "OUTRO_VALOR_PAGO_FATURA",
 					"paymentDate": "2021-04-09",
 					"paymentMode": "BOLETO_BANCARIO",
-					"amount": 5498.98,
+					"amount": 5498.9800,
 					"currency": "BRL"
 				},
 		{
 			"billId": "e766a53a-15f0-4d87-b526-b1995bf0e5af",
 			"dueDate": "2021-04-10",
-			"billTotalAmount": 1905.00,
+			"billTotalAmount": 1905.0000,
 			"billTotalAmountCurrency": "BRL",
-			"billMinimumAmount": 95.25,
+			"billMinimumAmount": 95.2500,
 			"billMinimumAmountCurrency": "BRL",
 			"isInstalment": true,
 			"financeCharges": [
@@ -95,7 +95,7 @@
 					"valueType": "OUTRO_VALOR_PAGO_FATURA",
 					"paymentDate": "2021-04-09",
 					"paymentMode": "BOLETO_BANCARIO",
-					"amount": 1905.00,
+					"amount": 1905.0000,
 					"currency": "BRL"
 				}
             ]
