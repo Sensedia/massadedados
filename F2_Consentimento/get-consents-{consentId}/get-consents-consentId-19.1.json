@@ -16,7 +16,7 @@
         "transactionToDateTime": "2021-10-01T00:00:00Z"
     },
     "links": {
-        "self": "https://api.baninter.com/open-banking/consents/v1/consents/urn:bb:BB96825411"
+        "self": "https://api.baninter.com/open-banking/consents/v1/consents/urn:bb:BIT24652995"
     },
     "meta": {
         "totalRecords": 1,
