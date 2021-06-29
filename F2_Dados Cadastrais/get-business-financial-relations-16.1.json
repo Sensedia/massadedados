@@ -1,6 +1,6 @@
 {
   "data": {
-    "updateDateTime": "2020-07-20T08:30:00Z",
+    "updateDateTime": "2021-10-01T00:00:00Z",
     "startDate": "2020-07-10T08:30:00Z",
     "productsServicesType": [
       "CONTA_DEPOSITO_A_VISTA", 
@@ -11,11 +11,23 @@
     ],
     "procurators": [
       {
-        "type": "PROCURADOR",
-        "cnpjCpfNumber": "89250029144",
-        "civilName": "Daniela Marli Dias",
-        "socialName": "Daniela Marli Dias"
-      }
+        "type": "REPRESENTANTE_LEGAL",
+        "cnpjCpfNumber": "37799610166",
+        "civilName": "Natali Gael Campos",
+        "socialName": "Natali Gael Campos"
+      },
+      {
+        "type": "REPRESENTANTE_LEGAL",
+        "cnpjCpfNumber": "17349285060",
+        "civilName": "Ricardo Otávio Leonardo Souza",
+        "socialName": "Ricardo Otávio Leonardo Souza"
+      },
+      {
+        "type": "REPRESENTANTE_LEGAL",
+        "cnpjCpfNumber": "50498732746",
+        "civilName": "Cecília Sara Larissa Lopes",
+        "socialName": "Cecília Sara Larissa Lopess"
+      },
     ],
     "accounts": [
       {
@@ -54,6 +66,6 @@
   "meta": {
     "totalRecords": 1,
     "totalPages": 1,
-    "requestDateTime": "2021-05-21T08:30:00Z"
+    "requestDateTime": "2021-10-01T00:00:00Z"
   }
 }
