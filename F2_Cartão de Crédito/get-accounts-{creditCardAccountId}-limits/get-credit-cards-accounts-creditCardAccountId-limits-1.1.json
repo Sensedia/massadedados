@@ -8,11 +8,11 @@
             "lineNameAdditionalInfo": "NA",
             "isLimitFlexible": true,
             "limitAmountCurrency": "BRL",
-            "limitAmount": 23000.00,
+            "limitAmount": 23000.0000,
             "usedAmountCurrency": "BRL",
-            "usedAmount": 3394.46,
+            "usedAmount": 3394.4600,
             "availableAmountCurrency": "BRL",
-            "availableAmount": 16605.54
+            "availableAmount": 16605.5400
         }
     ],
     "links": {
