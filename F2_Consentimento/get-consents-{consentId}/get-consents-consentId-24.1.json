@@ -26,7 +26,7 @@
         "transactionToDateTime": "2022-03-23T00:00:00Z"
     },
     "links": {
-        "self": "https://api.caixa.gov.br/open-banking/consents/v1/consents/urn:bb:BB96825411"
+        "self": "https://api.caixa.gov.br/open-banking/consents/v1/consents/urn:CEF84595719"
     },
     "meta": {
         "totalRecords": 1,
