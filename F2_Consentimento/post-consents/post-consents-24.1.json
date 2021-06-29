@@ -13,7 +13,6 @@
             }
         },
         "permissions": [
-            
 			"CREDIT_CARDS_ACCOUNTS_READ", 
 			"CREDIT_CARDS_ACCOUNTS_BILLS_READ", 
 			"CREDIT_CARDS_ACCOUNTS_BILLS_TRANSACTIONS_READ",
@@ -27,7 +26,6 @@
 			"LOANS_SCHEDULED_INSTALMENTS_READ",
 			"LOANS_PAYMENTS_READ", 
 			"LOANS_WARRANTIES_READ"
-			
         ],
         "expirationDateTime": "2022-03-23T00:00:00Z",
         "transactionFromDateTime": "2021-09-01T00:00:00Z",
