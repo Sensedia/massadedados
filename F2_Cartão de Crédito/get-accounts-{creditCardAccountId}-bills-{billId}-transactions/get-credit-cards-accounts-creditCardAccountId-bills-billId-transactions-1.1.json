@@ -117,7 +117,7 @@
         }
     ],
     "links": {
-        "self": "https://api.bb.com.br/open-banking/credit-cards-accounts/v1/accounts/PIITR3459087/bills/4c772fcd-5a10-4468-aad2-c58eff0bcc40/transactions"
+        "self": "https://opendata.api.bb.com.br/open-banking/credit-cards-accounts/v1/accounts/PIITR3459087/bills/4c772fcd-5a10-4468-aad2-c58eff0bcc40/transactions"
     },
     "meta": {
         "totalRecords": 5,

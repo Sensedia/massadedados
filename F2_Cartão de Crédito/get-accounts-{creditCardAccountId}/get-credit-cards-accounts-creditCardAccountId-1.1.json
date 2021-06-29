@@ -11,7 +11,7 @@
     }
   },
   "links": {
-    "self": "https://api.bb.com.br/open-banking/credit-cards-accounts/v1/accounts/PIITR3459087"
+    "self": "https://opendata.api.bb.com.br/open-banking/credit-cards-accounts/v1/accounts/PIITR3459087"
   },
   "meta": {
     "totalRecords": 1,
