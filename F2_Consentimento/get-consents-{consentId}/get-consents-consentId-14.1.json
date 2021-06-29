@@ -16,7 +16,7 @@
         "transactionToDateTime": "2021-09-01T00:00:00Z"
     },
     "links": {
-        "self": "http://openbanking.banrisul.com.br/open-banking/consents/v1/consents/urn:bb:BB96825411"
+        "self": "http://openbanking.banrisul.com.br/open-banking/consents/v1/consents/urn:banrisul:57699540"
     },
     "meta": {
         "totalRecords": 1,
