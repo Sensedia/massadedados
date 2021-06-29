@@ -8,7 +8,7 @@
     "automaticallyInvestedAmountCurrency": "BRL"
   },
   "links": {
-    "self": "https://api.bb.com.br/open-banking/accounts/v1/accounts/291e5a29-49ed-401f-a583-193caa7ac79d/balances"
+    "self": "https://opendata.api.bb.com.br/open-banking/accounts/v1/accounts/291e5a29-49ed-401f-a583-193caa7ac79d/balances"
   },
   "meta": {
     "totalRecords": 1,
