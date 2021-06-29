@@ -2,7 +2,7 @@
     "data": [
         {
             "brandName": "Banco do Brasil S.A",
-            "companyCnpj": "00.000.000/0001-91",
+            "companyCnpj": "00000000000191",
             "type": "CONTA_DEPOSITO_A_VISTA",
             "compeCode": "001",
             "branchCode": "1478",
@@ -12,7 +12,7 @@
         },
 		{
             "brandName": "Banco do Brasil S.A",
-            "companyCnpj": "00.000.000/0001-91",
+            "companyCnpj": "00000000000191",
             "type": "CONTA_POUPANCA",
             "compeCode": "001",
             "branchCode": "1478",
@@ -22,7 +22,7 @@
         }
     ],
     "links": {
-        "self": "https://api.bb.com.br/open-banking/accounts/v1/accounts"
+        "self": "https://opendata.api.bb.com.br/open-banking/accounts/v1/accounts"
     },
     "meta": {
         "totalRecords": 2,

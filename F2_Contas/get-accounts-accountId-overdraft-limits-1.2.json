@@ -8,7 +8,7 @@
         "unarrangedOverdraftAmountCurrency": "BRL"
     },
     "links": {
-        "self": "https://api.bb.com.br/open-banking/accounts/v1/accounts/79113c2d-978d-43c6-a5a3-05484695e90d/overdraft-limits"
+        "self": "https://opendata.api.bb.com.br/open-banking/accounts/v1/accounts/79113c2d-978d-43c6-a5a3-05484695e90d/overdraft-limits"
     },
     "meta": {
         "totalRecords": 1,

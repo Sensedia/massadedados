@@ -21,7 +21,7 @@
                     "valueType": "OUTRO_VALOR_PAGO_FATURA",
                     "paymentDate": "2021-06-10",
                     "paymentMode": "BOLETO_BANCARIO",
-                    "amount": 2.622,9400,
+                    "amount": 2.622.9400,
                     "currency": "BRL"
                 }
             ]
