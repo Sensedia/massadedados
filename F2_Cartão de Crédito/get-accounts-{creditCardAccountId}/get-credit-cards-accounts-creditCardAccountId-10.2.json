@@ -1,0 +1,21 @@
+{
+  "data": {
+    "name": "Gold Mastercard",
+    "productType": "GOLD",
+    "productAdditionalInfo": "NA",
+    "creditCardNetwork": "MASTERCARD",
+    "networkAdditionalInfo": "NA",
+    "paymentMethod": {
+      "identificationNumber": "0896",
+      "isMultipleCreditCard": true
+    }
+  },
+  "links": {
+    "self": "https://openbanking.banrisul.com.br/open-banking/credit-cards-accounts/v1/accounts/50f0e17d-2dcb-3bf0-b6b9-5a9c078c80c0"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2021-06-29T09:51:00Z"
+  }
+}

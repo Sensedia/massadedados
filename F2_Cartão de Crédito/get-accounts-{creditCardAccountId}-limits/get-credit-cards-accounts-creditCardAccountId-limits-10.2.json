@@ -3,16 +3,16 @@
         {
             "creditLineLimitType": "LIMITE_CREDITO_TOTAL",
             "consolidationType": "INDIVIDUAL",
-            "identificationNumber": "1250",
+            "identificationNumber": "0896",
             "lineName": "CREDITO_A_VISTA",
             "lineNameAdditionalInfo": "NA",
-            "isLimitFlexible": true,
+            "isLimitFlexible": false,
             "limitAmountCurrency": "BRL",
-            "limitAmount": 4000.0000,
+            "limitAmount": 2000.0000,
             "usedAmountCurrency": "BRL",
             "usedAmount": 2368.4870,
             "availableAmountCurrency": "BRL",
-            "availableAmount": 1631.5130
+            "availableAmount": 631.513
         }
     ],
     "links": {
