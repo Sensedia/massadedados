@@ -1,14 +1,16 @@
 {
     "data": {
         "consentId": "urn:baninter:BIT418548546",
-        "creationDateTime": "2021-06-11T09:37:00Z",
+        "creationDateTime": "2021-11-15T00:00:00Z",
         "status": "AUTHORISED",
-        "statusUpdateDateTime": "2021-06-14T09:42:00Z",
+        "statusUpdateDateTime": "2021-11-15T00:00:00Z",
         "permissions": [
             "ACCOUNTS_READ",
             "ACCOUNTS_BALANCES_READ",
             "ACCOUNTS_TRANSACTIONS_READ",
             "ACCOUNTS_OVERDRAFT_LIMITS_READ",
+            "CUSTOMERS_PERSONAL_IDENTIFICATIONS_READ",
+            "CUSTOMERS_PERSONAL_ADITTIONALINFO_READ",
             "UNARRANGED_ACCOUNTS_OVERDRAFT_READ",
             "UNARRANGED_ACCOUNTS_OVERDRAFT_WARRANTIES_READ",
             "UNARRANGED_ACCOUNTS_OVERDRAFT_SCHEDULED_INSTALMENTS_READ",
@@ -24,6 +26,6 @@
     "meta": {
         "totalRecords": 1,
         "totalPages": 1,
-        "requestDateTime": "2021-06-15T09:48:00Z"
+        "requestDateTime": "2021-11-15T00:00:00Z"
     }
 }
