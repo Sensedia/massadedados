@@ -10,17 +10,31 @@
             "limitAmountCurrency": "BRL",
             "limitAmount": 2000.0000,
             "usedAmountCurrency": "BRL",
-            "usedAmount": 2368.4870,
+            "usedAmount": 0.0000,
             "availableAmountCurrency": "BRL",
-            "availableAmount": 631.513
+            "availableAmount": 2000.0000
+        },
+        {
+            "creditLineLimitType": "LIMITE_CREDITO_MODALIDADE_OPERACAO",
+            "consolidationType": "INDIVIDUAL",
+            "identificationNumber": "0896",
+            "lineName": "SAQUE_CREDITO_BRASIL",
+            "lineNameAdditionalInfo": "NA",
+            "isLimitFlexible": false,
+            "limitAmountCurrency": "BRL",
+            "limitAmount": 500.0000,
+            "usedAmountCurrency": "BRL",
+            "usedAmount": 0.0000,
+            "availableAmountCurrency": "BRL",
+            "availableAmount": 500.0000
         }
     ],
     "links": {
-        "self": "https://api.itau/open-banking/credit-cards-accounts/v1/accounts/87684e13-3f03-3c4e-b00a-2b9f2f8215c0/limits"
+        "self": "https://api.itau/open-banking/credit-cards-accounts/v1/accounts/50f0e17d-2dcb-3bf0-b6b9-5a9c078c80c0/limits"
     },
     "meta": {
-        "totalRecords": 1,
+        "totalRecords": 2,
         "totalPages": 1,
-        "requestDateTime": "2021-06-24T16:32:59Z"
+        "requestDateTime": "2021-12-10T16:32:59Z"
     }
 }

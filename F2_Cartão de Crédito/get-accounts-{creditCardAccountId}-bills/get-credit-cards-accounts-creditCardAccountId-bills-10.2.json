@@ -3,7 +3,7 @@
         {
             "billId": "43a15d0f-b61e-36ea-9dc7-9b2377db9dd5",
             "dueDate": "2021-06-10",
-            "billTotalAmount": 750.0496,
+            "billTotalAmount": 1018.5096,
             "billTotalAmountCurrency": "BRL",
             "billMinimumAmount": 305.9683,
             "billMinimumAmountCurrency": "BRL",
@@ -39,7 +39,7 @@
                     "valueType": "OUTRO_VALOR_PAGO_FATURA",
                     "paymentDate": "2021-06-09",
                     "paymentMode": "DEBITO_CONTA_CORRENTE",
-                    "amount": 1004.1129,
+                    "amount": 1272.5729,
                     "currency": "BRL"
                 }
             ]
@@ -47,7 +47,7 @@
         {
             "billId": "f9672f09-3b9d-3d8b-9487-7df5626cdf00",
             "dueDate": "2021-05-10",
-            "billTotalAmount": 320.6417,
+            "billTotalAmount": 328.4517,
             "billTotalAmountCurrency": "BRL",
             "billMinimumAmount": 59.9821,
             "billMinimumAmountCurrency": "BRL",
@@ -77,6 +77,6 @@
     "meta": {
         "totalRecords": 2,
         "totalPages": 1,
-        "requestDateTime": "2021-06-29T09:56:47Z"
+        "requestDateTime": "2021-12-10T09:56:47Z"
     }
 }
