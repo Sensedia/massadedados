@@ -1,0 +1,79 @@
+{
+    "data": [
+        {
+            "amount": 5999.1981,
+            "partieCompeCode": "001",
+            "partieBranchCode": "5429",
+            "partieNumber": "12583783",
+            "partieCheckDigit": "7",
+            "partiePersonType": "PESSOA_JURIDICA",
+            "partieCnpjCpf": "79317559000108",
+            "completedAuthorisedPaymentType": "TRANSACAO_EFETIVADA",
+            "creditDebitType": "CREDITO",
+            "type": "DEPOSITO",
+            "transactionCurrency": "BRL",
+            "transactionDate": "2022-04-04",
+            "transactionId": "89dad763-edd9-4ecc-83fd-0aafa34a3663",
+            "transactionName": "89dad763-edd9-4ecc-83fd-0aafa34a3663"
+        },
+        {
+            "amount": 9431.8536,
+            "partieCompeCode": "001",
+            "partieBranchCode": "5429",
+            "partieNumber": "12583783",
+            "partieCheckDigit": "7",
+            "partiePersonType": "PESSOA_JURIDICA",
+            "partieCnpjCpf": "79317559000108",
+            "completedAuthorisedPaymentType": "TRANSACAO_EFETIVADA",
+            "creditDebitType": "DEBITO",
+            "type": "ENCARGOS_JUROS_CHEQUE_ESPECIAL",
+            "transactionCurrency": "BRL",
+            "transactionDate": "2021-10-25",
+            "transactionId": "e004e8f8-1a91-4383-bd57-e9b6c6e4bde7",
+            "transactionName": "e004e8f8-1a91-4383-bd57-e9b6c6e4bde7"
+        },
+        {
+            "amount": 8144.5664,
+            "partieCompeCode": "001",
+            "partieBranchCode": "5429",
+            "partieNumber": "12583783",
+            "partieCheckDigit": "7",
+            "partiePersonType": "PESSOA_JURIDICA",
+            "partieCnpjCpf": "79317559000108",
+            "completedAuthorisedPaymentType": "TRANSACAO_EFETIVADA",
+            "creditDebitType": "DEBITO",
+            "type": "TRANSFERENCIA_MESMA_INSTITUICAO",
+            "transactionCurrency": "BRL",
+            "transactionDate": "2022-03-20",
+            "transactionId": "f68b8036-42ca-4070-b6b9-53acc95980cf",
+            "transactionName": "f68b8036-42ca-4070-b6b9-53acc95980cf"
+        },
+        {
+            "amount": 9256.6959,
+            "partieCompeCode": "001",
+            "partieBranchCode": "5429",
+            "partieNumber": "12583783",
+            "partieCheckDigit": "7",
+            "partiePersonType": "PESSOA_JURIDICA",
+            "partieCnpjCpf": "79317559000108",
+            "completedAuthorisedPaymentType": "TRANSACAO_EFETIVADA",
+            "creditDebitType": "DEBITO",
+            "type": "SAQUE",
+            "transactionCurrency": "BRL",
+            "transactionDate": "2021-11-12",
+            "transactionId": "436da47e-913d-4106-aab3-11bb09869a51",
+            "transactionName": "436da47e-913d-4106-aab3-11bb09869a51"
+        }
+    ],
+    "links": {
+        "first": "https://opendata.api.bb.com.bropen-banking/accounts/v1/accounts/0e49a20b-33c3-42ac-876c-567c78673abd/transactions?page=1&page-size=10",
+        "last": "https://opendata.api.bb.com.bropen-banking/accounts/v1/accounts/0e49a20b-33c3-42ac-876c-567c78673abd/transactions?page=6&page-size=4",
+        "prev": "https://opendata.api.bb.com.bropen-banking/accounts/v1/accounts/0e49a20b-33c3-42ac-876c-567c78673abd/transactions?page=5&page-size=10",
+        "self": "https://opendata.api.bb.com.bropen-banking/accounts/v1/accounts/0e49a20b-33c3-42ac-876c-567c78673abd/transactions?page=6&page-size=4"
+    },
+    "meta": {
+        "totalRecords": 4,
+        "totalPages": 6,
+        "requestDateTime": "2022-03-28T00:00:00Z"
+    }
+}
