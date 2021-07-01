@@ -1,0 +1,21 @@
+{
+    "data": {
+        "typeNumberOfInstalments": "SEM_PRAZO_TOTAL",
+        "totalNumberOfInstalments": 0,
+        "typeContractRemaining": "SEM_PRAZO_REMANESCENTE",
+        "contractRemainingNumber": 0,
+        "paidInstalments": 0,
+        "dueInstalments": 0,
+        "pastDueInstalments": 0,
+        "balloonPayments": [
+        ]
+    },
+    "links": {
+        "self": "https://super.api.santander.com.br/open-banking/loans/v1/contracts/15thr536-9607-e911-80e0-1asoi1p5c650/scheduled-instalments"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2021-07-05T00:00:00Z"
+    }
+}

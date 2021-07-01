@@ -1,0 +1,112 @@
+{
+    "data": {
+        "paidInstalments": 2,
+        "contractOutstandingBalance": 0.0000,
+        "releases": [
+            {
+                "paymentId": "f1wa65f5-b7cd-4729-89c1-dc15ew563w0p",
+                "isOverParcelPayment": false,
+                "instalmentId": "35erb15s-b064-4f60-9f27-d7f45b6a93e4",
+                "paidDate": "2020-02-24",
+                "currency": "BRL",
+                "paidAmount": 25000.0000,
+                "overParcel": {
+                    "fees": [
+                        {
+                            "feeName": "NA",
+                            "feeCode": "NA",
+                            "feeAmount": 0
+                        }
+                    ],
+                    "charges": [
+                        {
+                            "chargeType": "NA",
+                            "chargeAdditionalInfo": "NA",
+                            "chargeAmount": 0
+                        }
+                    ]
+                }
+            },
+            {
+                "paymentId": "514gr5z6-78a2-4358-aa1e-nm15d6wy50qc",
+                "isOverParcelPayment": false,
+                "instalmentId": "2w1r356v-36ca-4be7-81bc-0a2eca6e35d2",
+                "paidDate": "2020-06-24",
+                "currency": "BRL",
+                "paidAmount": 25000.0000,
+                "overParcel": {
+                    "fees": [
+                        {
+                            "feeName": "NA",
+                            "feeCode": "NA",
+                            "feeAmount": 0
+                        }
+                    ],
+                    "charges": [
+                        {
+                            "chargeType": "NA",
+                            "chargeAdditionalInfo": "NA",
+                            "chargeAmount": 0
+                        }
+                    ]
+                }
+            },
+            {
+                "paymentId": "5df51e6z-57c2-440f-94f8-2uio1t3f12h4",
+                "isOverParcelPayment": true,
+                "instalmentId": "wa126v32-af65-48dd-923c-c2cc4b6f6b26",
+                "paidDate": "2019-12-30",
+                "currency": "BRL",
+                "paidAmount": 17500.0000,
+                "overParcel": {
+                    "fees": [
+                        {
+                            "feeName": "NA",
+                            "feeCode": "NA",
+                            "feeAmount": 0
+                        }
+                    ],
+                    "charges": [
+                        {
+                            "chargeType": "NA",
+                            "chargeAdditionalInfo": "NA",
+                            "chargeAmount": 0
+                        }
+                    ]
+                }
+            },
+            {
+                "paymentId": "b5d15e68-2e7a-461a-a6b8-3nfg2ge65y5u",
+                "isOverParcelPayment": true,
+                "instalmentId": "w6u85bbc-89be-4786-a092-95135bc49595",
+                "paidDate": "2020-07-19",
+                "currency": "BRL",
+                "paidAmount": 7500.0000,
+                "overParcel": {
+                    "fees": [
+                        {
+                            "feeName": "NA",
+                            "feeCode": "NA",
+                            "feeAmount": 0
+                        }
+                    ],
+                    "charges": [
+                        {
+                            "chargeType": "NA",
+                            "chargeAdditionalInfo": "NA",
+                            "chargeAmount": 0
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "links": {
+        "self": "https://super.api.santander.com.br/open-banking/loans/v1/contracts/377aa88d-8905-3847-ad8f-c80d9e47f907/payments"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2021-07-05T00:00:00Z"
+    }
+}
