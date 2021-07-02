@@ -7,10 +7,10 @@
         "productSubType": "ADIANTAMENTO_A_DEPOSITANTES",
         "contractDate": "2020-05-15",
         "disbursementDate": "2021-05-15",
-        "settlementDate": "2020-10-30",
+        "settlementDate": "2020-10-17",
         "contractAmount": 10000.0000,
         "currency": "BRL",
-        "dueDate": "2020-10-30",
+        "dueDate": "2020-10-15",
         "instalmentPeriodicity": "QUINZENAL",
         "instalmentPeriodicityAdditionalInfo": "NA",
         "firstInstalmentDueDate": "2020-05-30",
@@ -68,6 +68,6 @@
     "meta": {
         "totalRecords": 1,
         "totalPages": 1,
-        "requestDateTime": "2021-12-27T16:19:00Z"
+        "requestDateTime": "2021-07-02T08:54:00Z"
     }
 }

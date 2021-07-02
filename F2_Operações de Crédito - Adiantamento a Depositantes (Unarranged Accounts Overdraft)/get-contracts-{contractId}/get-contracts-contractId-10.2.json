@@ -7,10 +7,10 @@
         "productSubType": "ADIANTAMENTO_A_DEPOSITANTES",
         "contractDate": "2021-01-06",
         "disbursementDate": "2021-01-10",
-        "settlementDate": "2021-03-30",
+        "settlementDate": "2021-03-26",
         "contractAmount": 13000.0000,
         "currency": "BRL",
-        "dueDate": "2021-04-30",
+        "dueDate": "2021-03-24",
         "instalmentPeriodicity": "SEMANAL",
         "instalmentPeriodicityAdditionalInfo": "NA",
         "firstInstalmentDueDate": "2021-01-13",
@@ -83,6 +83,6 @@
     "meta": {
         "totalRecords": 1,
         "totalPages": 1,
-        "requestDateTime": "2021-12-27T16:19:00Z"
+        "requestDateTime": "2021-07-02T08:54:00Z"
     }
 }
