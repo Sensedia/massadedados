@@ -1,0 +1,61 @@
+{
+    "data": {
+        "contractNumber": "16510",
+        "ipocCode": "00000000010117652588200116510",
+        "productName": "Conta Garantida",
+        "productType": "EMPRESTIMOS",
+        "productSubType": "CONTA_GARANTIDA",
+        "contractDate": "1996-08-10",
+        "disbursementDate": "1996-08-14",
+        "settlementDate": "1998-08-12",
+        "contractAmount": 150000.0000,
+        "currency": "BRL",
+        "dueDate": "1998-08-10",
+        "instalmentPeriodicity": "ANUAL",
+        "instalmentPeriodicityAdditionalInfo": "NA",
+        "firstInstalmentDueDate": "1996-09-10",
+        "CET": 0.0612,
+        "amortizationScheduled": "PRICE",
+        "amortizationScheduledAdditionalInfo": "NA",
+        "cnpjConsignee": "00000000000191",
+        "interestRates": [
+            {
+                "taxType": "EFETIVA",
+                "interestRateType": "SIMPLES",
+                "taxPeriodicity": "AA",
+                "calculation": "30/365",
+                "referentialRateIndexerType": "OUTROS_INDEXADORES",
+                "referentialRateIndexerSubType": "OUTROS_INDICES",
+                "referentialRateIndexerAdditionalInfo": "NA",
+                "preFixedRate": 0.0139,
+                "postFixedRate": 0.0348,
+                "additionalInfo": "NA"
+            }
+        ],
+        "contractedFees": [
+            {
+                "feeName": "Taxa de manutenção",
+                "feeCode": "CADASTRO",
+                "feeChargeType": "UNICA",
+                "feeCharge": "MAXIMO",
+                "feeAmount": 90.0000,
+                "feeRate": 0.0000
+            }
+        ],
+        "contractedFinanceCharges": [
+            {
+                "chargeType": "JUROS_REMUNERATORIOS_POR_ATRASO",
+                "chargeAdditionalInfo": "NA",
+                "chargeRate": 0.0865
+            }
+        ]
+    },
+    "links": {
+        "self": "https://opendata.api.bb.com.br/open-banking/loans/v1/contracts/1a44390d-9907-e911-80e0-d4ae52aa818f"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2021-12-04T14:15:00Z"
+    }
+}
