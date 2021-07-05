@@ -39,7 +39,7 @@
                 "feeChargeType": "POR_PARCELA",
                 "feeCharge": "Percentual",
                 "feeAmount": 0.0000,
-                "feeRate": 0.0150
+                "feeRate": 0.0020
             }
         ],
         "contractedFinanceCharges": [

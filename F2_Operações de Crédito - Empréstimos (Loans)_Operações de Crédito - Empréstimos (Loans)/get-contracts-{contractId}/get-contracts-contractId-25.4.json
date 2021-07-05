@@ -34,7 +34,7 @@
         ],
         "contractedFees": [
             {
-                "feeName": "Taxa de manutenção",
+                "feeName": "Taxa de cadastro",
                 "feeCode": "CADASTRO",
                 "feeChargeType": "UNICA",
                 "feeCharge": "MAXIMO",

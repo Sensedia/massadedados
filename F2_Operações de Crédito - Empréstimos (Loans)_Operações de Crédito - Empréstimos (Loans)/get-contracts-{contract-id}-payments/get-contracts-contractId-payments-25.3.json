@@ -1,0 +1,66 @@
+{
+    "data": {
+        "paidInstalments": 52,
+        "contractOutstandingBalance": 1188560.3778,
+        "releases": [
+            {
+                "paymentId": "a6c701ce-4bce-36f0-91d9-311c3eb33ce2",
+                "isOverParcelPayment": false,
+                "instalmentId": "a59967cf-e7f4-33c8-a8b3-3481e4779561",
+                "paidDate": "2019-06-21",
+                "currency": "BRL",
+                "paidAmount": 44020.7547,
+                "overParcel": {
+                    "fees": [
+                        {
+                            "feeName": "Taxa de manutenção",
+                            "feeCode": "MANUTENCAO",
+                            "feeAmount": 88.0415
+                        }
+                    ],
+                    "charges": [
+                        {
+                            "chargeType": "IOF_POR_ATRASO",
+                            "chargeAdditionalInfo": "NA",
+                            "chargeAmount": 0.0000
+                        }
+                    ]
+                }
+            },
+            {
+                "paymentId": "a6c701ce-4bce-36f0-91d9-411c3eb33ce2",
+                "isOverParcelPayment": true,
+                "instalmentId": "a59967cf-e7f4-33c8-a8b3-4481e4779561",
+                "paidDate": "2019-06-06",
+                "currency": "BRL",
+                "paidAmount": 10000.0000,
+                "overParcel": {
+                    "fees": [
+                        {
+                            "feeName": "Taxa de manutenção",
+                            "feeCode": "MANUTENCAO",
+                            "feeAmount": 20.0000
+                        }
+                    ],
+                    "charges": [
+                        {
+                            "chargeType": "IOF_POR_ATRASO",
+                            "chargeAdditionalInfo": "NA",
+                            "chargeAmount": 0.0000
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "links": {
+        "self": "https://opendata.api.bb.com.br/open-banking/loans/v1/contracts/1ff29059-3105-43cd-a55a-20652d73604b/payments?page=3&page-size=25",
+        "first": "https://opendata.api.bb.com.br/open-banking/loans/v1/contracts/1ff29059-3105-43cd-a55a-20652d73604b/payments?page=1&page-size=25",
+        "prev": "https://opendata.api.bb.com.br/open-banking/loans/v1/contracts/1ff29059-3105-43cd-a55a-20652d73604b/payments?page=2&page-size=25"
+    },
+    "meta": {
+        "totalRecords": 52,
+        "totalPages": 3,
+        "requestDateTime": "2021-12-26T00:00:00Z"
+    }
+}

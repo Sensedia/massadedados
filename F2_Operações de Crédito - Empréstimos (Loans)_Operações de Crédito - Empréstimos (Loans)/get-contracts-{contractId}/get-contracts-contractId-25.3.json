@@ -13,7 +13,7 @@
         "dueDate": "1998-08-10",
         "instalmentPeriodicity": "ANUAL",
         "instalmentPeriodicityAdditionalInfo": "NA",
-        "firstInstalmentDueDate": "1996-09-10",
+        "firstInstalmentDueDate": "1997-08-10",
         "CET": 0.0612,
         "amortizationScheduled": "PRICE",
         "amortizationScheduledAdditionalInfo": "NA",
@@ -35,7 +35,7 @@
         "contractedFees": [
             {
                 "feeName": "Taxa de manutenção",
-                "feeCode": "CADASTRO",
+                "feeCode": "MANUTENCAO",
                 "feeChargeType": "UNICA",
                 "feeCharge": "MAXIMO",
                 "feeAmount": 90.0000,
