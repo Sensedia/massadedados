@@ -26,8 +26,8 @@
                 "referentialRateIndexerType": "FLUTUANTES",
                 "referentialRateIndexerSubType": "OUTRAS_TAXAS_FLUTUANTES",
                 "referentialRateIndexerAdditionalInfo": "NA",
-                "preFixedRate": 0.0390,
-                "postFixedRate": 0.0390,
+                "preFixedRate": 0.0000,
+                "postFixedRate": 0.0290,
                 "additionalInfo": "NA"
             }
         ],
