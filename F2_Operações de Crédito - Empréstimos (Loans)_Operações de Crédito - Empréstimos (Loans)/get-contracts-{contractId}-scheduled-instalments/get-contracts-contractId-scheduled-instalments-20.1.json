@@ -1,13 +1,33 @@
 {
     "data": {
-        "typeNumberOfInstalments": "SEM_PRAZO_TOTAL",
-        "totalNumberOfInstalments": 0,
-        "typeContractRemaining": "SEM_PRAZO_REMANESCENTE",
-        "contractRemainingNumber": 0,
-        "paidInstalments": 0,
+        "typeNumberOfInstalments": "MES",
+        "totalNumberOfInstalments": 4,
+        "typeContractRemaining": "DIA",
+        "contractRemainingNumber": 32,
+        "paidInstalments": 4,
         "dueInstalments": 0,
         "pastDueInstalments": 0,
         "balloonPayments": [
+            {
+                "dueDate": "2018-10-14",
+                "currency": "BRL",
+                "amount": 20000.0000
+            },
+            {
+                "dueDate": "2018-09-14",
+                "currency": "BRL",
+                "amount": 5000.0000
+            },
+            {
+                "dueDate": "2018-08-14",
+                "currency": "BRL",
+                "amount": 5000.0000
+            },
+            {
+                "dueDate": "2018-07-14",
+                "currency": "BRL",
+                "amount": 5000.0000
+            }
         ]
     },
     "links": {

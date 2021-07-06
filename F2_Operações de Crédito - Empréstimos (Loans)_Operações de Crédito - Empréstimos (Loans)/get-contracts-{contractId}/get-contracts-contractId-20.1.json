@@ -5,16 +5,16 @@
         "productName": "Cheque Especial",
         "productType": "EMPRESTIMOS",
         "productSubType": "CHEQUE_ESPECIAL",
-        "contractDate": "2018-06-04",
+        "contractDate": "2018-06-14",
         "disbursementDate": "2018-06-14",
-        "settlementDate": "2031-06-04",
+        "settlementDate": "NA",
         "contractAmount": 35000.0000,
         "currency": "BRL",
-        "dueDate": "2031-06-04",
+        "dueDate": "2018-10-14",
         "instalmentPeriodicity": "MENSAL",
         "instalmentPeriodicityAdditionalInfo": "NA",
         "firstInstalmentDueDate": "2018-07-14",
-        "CET": 0.06,
+        "CET": 0.0600,
         "amortizationScheduled": "PRICE",
         "amortizationScheduledAdditionalInfo": "NA",
         "cnpjConsignee": "NA",
@@ -27,7 +27,7 @@
                 "referentialRateIndexerType": "PRE_FIXADO",
                 "referentialRateIndexerSubType": "TJLP",
                 "referentialRateIndexerAdditionalInfo": "NA",
-                "preFixedRate": 0.0239,
+                "preFixedRate": 0.0000,
                 "postFixedRate": 0.0148,
                 "additionalInfo": "NA"
             }
@@ -38,7 +38,7 @@
                 "feeCode": "CADASTRO",
                 "feeChargeType": "UNICA",
                 "feeCharge": "FIXO",
-                "feeAmount": 150,
+                "feeAmount": 150.0000,
                 "feeRate": 0.0000
             }
         ],
