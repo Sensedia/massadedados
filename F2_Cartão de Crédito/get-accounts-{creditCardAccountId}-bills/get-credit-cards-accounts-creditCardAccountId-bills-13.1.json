@@ -42,7 +42,7 @@
             "isInstalment": false,
             "financeCharges": [
                 {
-                    "type": "MULTA_ATRASO_PAGAMENTO_FATURA",
+                    "type": "SEM_ENCARGO",
                     "additionalInfo": "NA",
                     "amount": 0.0000,
                     "currency": "BRL"

@@ -7,7 +7,7 @@
             "transactionName": "NA",
             "billId": "68e14se1-4ed0-30e7-8add-dbd32985c359",
             "creditDebitType": "DEBITO",
-            "transactionType": "PAGAMENTO DE FATURA",
+            "transactionType": "PAGAMENTO",
             "transactionalAdditionalInfo": "NA",
             "paymentType": "A_VISTA",
             "feeType": "SMS",

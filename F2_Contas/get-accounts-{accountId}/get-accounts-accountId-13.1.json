@@ -3,7 +3,7 @@
         "compeCode": "001",
         "branchCode": "0001",
         "number": "12578",
-        "checkDigit": "3",
+        "checkDigit": "2",
         "type": "CONTA_DEPOSITO_A_VISTA",
         "subtype": "INDIVIDUAL",
         "currency": "BRL"        

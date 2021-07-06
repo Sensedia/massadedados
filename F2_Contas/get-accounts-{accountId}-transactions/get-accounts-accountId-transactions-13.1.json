@@ -3,7 +3,7 @@
         {
             "transactionId": "0bf5258d-4ebf-4bf2-b289-5108a1d30875",
             "completedAuthorisedPaymentType": "TRANSACAO_EFETIVADA",
-            "creditDebitType": "CREDITO",
+            "creditDebitType": "DEBITO",
             "transactionName": "PAGAMENTO",
             "type": "CARTAO",
             "amount": 250000.0000,
@@ -20,7 +20,7 @@
             "transactionId": "07f76f7a-d205-44aa-936f-1653a2c5a502",
             "completedAuthorisedPaymentType": "TRANSACAO_EFETIVADA",
             "creditDebitType": "CREDITO",
-            "transactionName": "TRANSAFERENCIA",
+            "transactionName": "TRANSFERENCIA",
             "type": "PIX",
             "amount": 6302.6581,
             "transactionCurrency": "BRL",
