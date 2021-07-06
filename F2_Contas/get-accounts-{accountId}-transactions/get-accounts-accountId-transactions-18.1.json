@@ -162,13 +162,13 @@
         }
     ],
     "links": {
-        "first": "https://opendata.api.bb.com.bropen-banking/accounts/v1/accounts/0e49a20b-33c3-42ac-876c-567c78673abd/transactions?page=1&page-size=6",
-        "last": "https://opendata.api.bb.com.bropen-banking/accounts/v1/accounts/0e49a20b-33c3-42ac-876c-567c78673abd/transactions?page=6&page-size=6",
-        "next": "https://opendata.api.bb.com.bropen-banking/accounts/v1/accounts/0e49a20b-33c3-42ac-876c-567c78673abd/transactions?page=2&page-size=6",
-        "self": "https://opendata.api.bb.com.bropen-banking/accounts/v1/accounts/0e49a20b-33c3-42ac-876c-567c78673abd/transactions?page=1&page-size=6"
+        "first": "https://opendata.api.bb.com.bropen-banking/accounts/v1/accounts/0e49a20b-33c3-42ac-876c-567c78673abd/transactions?page=1&page-size=10",
+        "last": "https://opendata.api.bb.com.bropen-banking/accounts/v1/accounts/0e49a20b-33c3-42ac-876c-567c78673abd/transactions?page=6&page-size=10",
+        "next": "https://opendata.api.bb.com.bropen-banking/accounts/v1/accounts/0e49a20b-33c3-42ac-876c-567c78673abd/transactions?page=2&page-size=10",
+        "self": "https://opendata.api.bb.com.bropen-banking/accounts/v1/accounts/0e49a20b-33c3-42ac-876c-567c78673abd/transactions?page=1&page-size=10"
     },
     "meta": {
-        "totalRecords": 10,
+        "totalRecords": 54,
         "totalPages": 6,
         "requestDateTime": "2022-03-28T00:00:00Z"
     }
