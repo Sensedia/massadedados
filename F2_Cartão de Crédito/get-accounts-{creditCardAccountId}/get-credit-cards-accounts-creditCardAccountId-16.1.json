@@ -13,7 +13,7 @@
       ]
     },
     "links": {
-      "self": "https://api.bradesco.com.br/open-banking/credit-cards-accounts/v1/accounts/da1s8651-3f03-3c4e-b00a-521sd54sd1nm",
+      "self": "https://api.bradesco.com/open-banking/credit-cards-accounts/v1/accounts/da1s8651-3f03-3c4e-b00a-521sd54sd1nm",
     "meta": {
       "totalRecords": 1,
       "totalPages": 1,

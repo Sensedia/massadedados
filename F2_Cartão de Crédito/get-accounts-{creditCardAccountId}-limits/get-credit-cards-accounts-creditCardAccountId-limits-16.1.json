@@ -16,7 +16,7 @@
       }
     ],
     "links": {
-      "self": "https://api.bradesco.com.br/open-banking/credit-cards-accounts/v1/accounts/a5ye1n3r-3f03-3c4e-b00a-r8o8p1v5a2mn/limits"
+      "self": "https://api.bradesco.com/open-banking/credit-cards-accounts/v1/accounts/a5ye1n3r-3f03-3c4e-b00a-r8o8p1v5a2mn/limits"
     },
     "meta": {
       "totalRecords": 1,
