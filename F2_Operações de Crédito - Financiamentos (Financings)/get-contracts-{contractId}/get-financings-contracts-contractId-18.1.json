@@ -7,7 +7,7 @@
     "productSubType": "MICROCREDITO",
     "contractDate": "2021-01-01",
     "disbursementDate": "2021-12-31",
-    "settlementDate": "2021-01-01",
+    "settlementDate": "NA",
     "contractAmount": 21000.0000,
     "currency": "BRL",
     "dueDate": "2023-01-01",
