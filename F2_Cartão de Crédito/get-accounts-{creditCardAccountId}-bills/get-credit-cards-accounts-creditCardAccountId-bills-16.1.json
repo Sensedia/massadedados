@@ -12,13 +12,13 @@
           {
             "type": "JUROS_REMUNERATORIOS_ATRASO_PAGAMENTO_FATURA",
             "additionalInfo": "NA",
-            "amount": 10500.2780,
+            "amount": 2100.0556,
             "currency": "BRL"
           }
         ],
         "payments": [
           {
-            "valueType": "VALOR_PAGAMENTO_FATURA_PARCELADO",
+            "valueType": "VALOR_PAGAMENTO_FATURA_REALIZADO",
             "paymentDate": "2021-10-10",
             "paymentMode": "DEBITO_CONTA_CORRENTE",
             "amount": 10500.2780,
