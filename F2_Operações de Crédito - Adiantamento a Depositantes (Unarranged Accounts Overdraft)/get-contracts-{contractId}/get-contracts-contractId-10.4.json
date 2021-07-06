@@ -26,7 +26,7 @@
                 "referentialRateIndexerType": "POS_FIXADO",
                 "referentialRateIndexerSubType": "TJLP",
                 "referentialRateIndexerAdditionalInfo": "NA",
-                "preFixedRate": 0.0690,
+                "preFixedRate": 0.0000,
                 "postFixedRate": 0.0690,
                 "additionalInfo": "NA"
             }
