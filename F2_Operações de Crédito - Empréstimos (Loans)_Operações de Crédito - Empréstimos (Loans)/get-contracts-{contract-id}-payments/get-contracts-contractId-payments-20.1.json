@@ -1,6 +1,6 @@
 {
     "data": {
-        "paidInstalments": 2,
+        "paidInstalments": 4,
         "contractOutstandingBalance": 0.0000,
         "releases": [
             {
@@ -33,7 +33,7 @@
             },
             {
                 "paymentId": "5df51e6z-57c2-440f-94f8-2uio1t3f12h4",
-                "isOverParcelPayment": true,
+                "isOverParcelPayment": false,
                 "instalmentId": "wa126v32-af65-48dd-923c-c2cc4b6f6b26",
                 "paidDate": "2018-08-14",
                 "currency": "BRL",
@@ -47,7 +47,7 @@
             },
             {
                 "paymentId": "b5d15e68-2e7a-461a-a6b8-3nfg2ge65y5u",
-                "isOverParcelPayment": true,
+                "isOverParcelPayment": false,
                 "instalmentId": "w6u85bbc-89be-4786-a092-95135bc49595",
                 "paidDate": "2018-07-14",
                 "currency": "BRL",
