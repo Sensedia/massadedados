@@ -8,13 +8,13 @@
         "contractDate": "2021-06-30",
         "disbursementDate": "2021-06-30",
         "settlementDate": "NA",
-        "contractAmount": 8059.8623,
+        "contractAmount": 8059.8600,
         "currency": "BRL",
         "dueDate": "2022-06-30",
         "instalmentPeriodicity": "MENSAL",
         "instalmentPeriodicityAdditionalInfo": "NA",
         "firstInstalmentDueDate": "2021-07-30",
-        "CET": 0.0929,
+        "CET": 0.0329,
         "amortizationScheduled": "PRICE",
         "amortizationScheduledAdditionalInfo": "NA",
         "interestRates": [
@@ -26,7 +26,7 @@
                 "referentialRateIndexerType": "PRE_FIXADO",
                 "referentialRateIndexerSubType": "PRE_FIXADO",
                 "referentialRateIndexerAdditionalInfo": "NA",
-                "preFixedRate": 0.0600,
+                "preFixedRate": 0.0300,
                 "postFixedRate": 0.0000,
                 "additionalInfo": "NA"
             }

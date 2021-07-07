@@ -14,7 +14,7 @@
         "instalmentPeriodicity": "SEMANAL",
         "instalmentPeriodicityAdditionalInfo": "NA",
         "firstInstalmentDueDate": "2021-01-13",
-        "CET": 0.0629,
+        "CET": 0.0129,
         "amortizationScheduled": "PRICE",
         "amortizationScheduledAdditionalInfo": "NA",
         "interestRates": [

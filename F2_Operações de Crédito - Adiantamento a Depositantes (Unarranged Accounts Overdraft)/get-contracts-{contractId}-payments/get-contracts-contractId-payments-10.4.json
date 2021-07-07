@@ -9,25 +9,25 @@
           "instalmentId": "30a4a7c6-be18-37d6-ae84-a38a64289ca3",
           "paidDate": "2020-02-15",
           "currency": "BRL",
-          "paidAmount": 4500.0000,
+          "paidAmount": 4927.0500,
           "overParcel": {
             "fees": [
               {
-                "feeName": "NA",
-                "feeCode": "NA",
-                "feeAmount": 0.0000
+                "feeName": "Manutenção de Contrato",
+                "feeCode": "MANUTENCAO_CONTRATO",
+                "feeAmount": 19.9000
               }
             ],
             "charges": [
               {
                 "chargeType": "MULTA_ATRASO_PAGAMENTO",
                 "chargeAdditionalInfo": "NA",
-                "chargeAmount": 431.5500
+                "chargeAmount": 472.5041
               },
               {
                 "chargeType": "IOF_CONTRATACAO",
                 "chargeAdditionalInfo": "NA",
-                "chargeAmount": 160.2000
+                "chargeAmount": 175.4030
               }
             ]
           }
@@ -42,9 +42,9 @@
           "overParcel": {
             "fees": [
               {
-                "feeName": "Manutenção de Contrato",
-                "feeCode": "MANUTENCAO_CONTRATO",
-                "feeAmount": 19.9000
+                "feeName": "NA",
+                "feeCode": "NA",
+                "feeAmount": 0.0000
               }
             ],
             "charges": [

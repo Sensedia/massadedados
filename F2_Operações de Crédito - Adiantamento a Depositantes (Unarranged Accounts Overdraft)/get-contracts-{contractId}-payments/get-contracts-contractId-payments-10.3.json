@@ -9,7 +9,7 @@
           "instalmentId": "45b106ee-21d8-3f75-84f2-59aba3d81d01",
           "paidDate": "2020-10-17",
           "currency": "BRL",
-          "paidAmount": 1000.0000,
+          "paidAmount": 1307.0200,
           "overParcel": {
             "fees": [
               {
@@ -22,12 +22,12 @@
               {
                 "chargeType": "MULTA_ATRASO_PAGAMENTO",
                 "chargeAdditionalInfo": "NA",
-                "chargeAmount": 95.9000
+                "chargeAmount": 125.3432
               },
               {
                 "chargeType": "IOF_CONTRATACAO",
                 "chargeAdditionalInfo": "NA",
-                "chargeAmount": 35.6000
+                "chargeAmount": 46.5299
               }
             ]
           }
@@ -38,7 +38,7 @@
           "instalmentId": "99af6a6b-e861-3427-8afa-f7dac13080d7",
           "paidDate": "2021-09-30",
           "currency": "BRL",
-          "paidAmount": 1000.0000,
+          "paidAmount": 1307.0200,
           "overParcel": {
             "fees": [
               {
@@ -67,7 +67,7 @@
           "instalmentId": "18588a4d-4ce7-3a02-94a5-9a01efcd6400",
           "paidDate": "2020-09-15",
           "currency": "BRL",
-          "paidAmount": 1000.0000,
+          "paidAmount": 1307.0200,
           "overParcel": {
             "fees": [
               {
@@ -96,7 +96,7 @@
           "instalmentId": "h36bf8b9-09d2-3b37-9406-7aa3d149a966",
           "paidDate": "2021-08-30",
           "currency": "BRL",
-          "paidAmount": 1000.0000,
+          "paidAmount": 1307.0200,
           "overParcel": {
             "fees": [
               {
@@ -125,7 +125,7 @@
           "instalmentId": "161070c7-67f7-3048-80b4-a889952de08b",
           "paidDate": "2020-08-15",
           "currency": "BRL",
-          "paidAmount": 1000.0000,
+          "paidAmount": 1307.0200,
           "overParcel": {
             "fees": [
               {
@@ -154,7 +154,7 @@
           "instalmentId": "6ba8d5af-d566-3e87-9ce4-414475a90a23",
           "paidDate": "2021-07-30",
           "currency": "BRL",
-          "paidAmount": 1000.0000,
+          "paidAmount": 1307.0200,
           "overParcel": {
             "fees": [
               {
@@ -183,7 +183,7 @@
           "instalmentId": "ge6cf328-dd2b-38eb-b1c1-e83cf43e97fc",
           "paidDate": "2020-07-15",
           "currency": "BRL",
-          "paidAmount": 1000.0000,
+          "paidAmount": 1307.0200,
           "overParcel": {
             "fees": [
               {
@@ -212,7 +212,7 @@
           "instalmentId": "cbd85413-903f-343b-a2fa-192fb3a30e0d",
           "paidDate": "2021-06-30",
           "currency": "BRL",
-          "paidAmount": 1000.0000,
+          "paidAmount": 1307.0200,
           "overParcel": {
             "fees": [
               {
@@ -241,7 +241,7 @@
           "instalmentId": "27a4a7c6-be18-37d6-ae84-a38a64289ca3",
           "paidDate": "2020-06-15",
           "currency": "BRL",
-          "paidAmount": 1000.0000,
+          "paidAmount": 1307.0200,
           "overParcel": {
             "fees": [
               {
@@ -270,7 +270,7 @@
           "instalmentId": "d0bd433e-ff89-355f-aea0-67c3d233427a",
           "paidDate": "2020-05-30",
           "currency": "BRL",
-          "paidAmount": 1000.0000,
+          "paidAmount": 1307.0200,
           "overParcel": {
             "fees": [
               {
