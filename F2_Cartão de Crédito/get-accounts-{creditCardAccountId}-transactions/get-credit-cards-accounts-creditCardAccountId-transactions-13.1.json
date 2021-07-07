@@ -28,7 +28,7 @@
             "lineName": "CREDITO_A_VISTA",
             "transactionName": "NA",
             "billId": "261es86x-1aae-3877-ae3d-f108f4fa7aec",
-            "creditDebitType": "CREDITO",
+            "creditDebitType": "DEBITO",
             "transactionType": "PAGAMENTO",
             "transactionalAdditionalInfo": "NA",
             "paymentType": "A_VISTA",
