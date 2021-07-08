@@ -8,7 +8,7 @@
         "contractDate": "2021-10-01",
         "disbursementDate": "2021-12-31",
         "settlementDate": "NA",
-        "contractAmount": 21000,
+        "contractAmount": 21000.0000,
         "currency": "BRL",
         "dueDate": "2023-10-01",
         "instalmentPeriodicity": "OUTROS",
@@ -49,8 +49,8 @@
                 "feeCode": "TAC",
                 "feeChargeType": "UNICA",
                 "feeCharge": "MINIMO",
-                "feeAmount": 210,
-                "feeRate": 0
+                "feeAmount": 210.0000,
+                "feeRate": 0.0000
             }
         ],
         "contractedFinanceCharges": [
