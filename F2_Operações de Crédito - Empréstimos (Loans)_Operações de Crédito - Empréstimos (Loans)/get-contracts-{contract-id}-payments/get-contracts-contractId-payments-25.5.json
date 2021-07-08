@@ -9,7 +9,7 @@
                 "instalmentId": "35a282ea-0327-3dc1-9ab0-f04e1bab9f01",
                 "paidDate": "1998-08-12",
                 "currency": "BRL",
-                "paidAmount": 75000.0000,
+                "paidAmount": 83550.6400,
                 "overParcel": {
                     "fees": [
                         {
@@ -33,7 +33,7 @@
                 "instalmentId": "25a282ea-0327-3dc1-9ab0-f04e1bab9f01",
                 "paidDate": "1997-08-10",
                 "currency": "BRL",
-                "paidAmount": 75000.0000,
+                "paidAmount": 83625.6400,
                 "overParcel": {
                     "fees": [
                         {

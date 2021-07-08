@@ -14,7 +14,7 @@
         "instalmentPeriodicity": "ANUAL",
         "instalmentPeriodicityAdditionalInfo": "NA",
         "firstInstalmentDueDate": "1997-08-10",
-        "CET": 0.0612,
+        "CET": 0.0751,
         "amortizationScheduled": "PRICE",
         "amortizationScheduledAdditionalInfo": "NA",
         "cnpjConsignee": "00000000000191",
@@ -27,8 +27,8 @@
                 "referentialRateIndexerType": "OUTROS_INDEXADORES",
                 "referentialRateIndexerSubType": "OUTROS_INDICES",
                 "referentialRateIndexerAdditionalInfo": "NA",
-                "preFixedRate": 0.0139,
-                "postFixedRate": 0.0348,
+                "preFixedRate": 0.0751,
+                "postFixedRate": 0.0000,
                 "additionalInfo": "NA"
             }
         ],

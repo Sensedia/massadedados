@@ -14,7 +14,7 @@
         "instalmentPeriodicity": "QUINZENAL",
         "instalmentPeriodicityAdditionalInfo": "NA",
         "firstInstalmentDueDate": "2019-06-21",
-        "CET": 0.0250,
+        "CET": 0.0160,
         "amortizationScheduled": "SAM",
         "amortizationScheduledAdditionalInfo": "NA",
         "cnpjConsignee": "00000000000191",
@@ -27,8 +27,8 @@
                 "referentialRateIndexerType": "CREDITO_RURAL",
                 "referentialRateIndexerSubType": "OUTROS_INDEXADORES",
                 "referentialRateIndexerAdditionalInfo": "NA",
-                "preFixedRate": 0.0390,
-                "postFixedRate": 0.0390,
+                "preFixedRate": 0.0140,
+                "postFixedRate": 0.0000,
                 "additionalInfo": "O percentual da taxa vai acompanhar percentualmente a taxa Selic."
             }
         ],

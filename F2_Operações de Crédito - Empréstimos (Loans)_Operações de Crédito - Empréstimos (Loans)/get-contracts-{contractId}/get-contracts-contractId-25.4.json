@@ -14,7 +14,7 @@
         "instalmentPeriodicity": "ANUAL",
         "instalmentPeriodicityAdditionalInfo": "NA",
         "firstInstalmentDueDate": "1999-02-10",
-        "CET": 0.0512,
+        "CET": 0.0811,
         "amortizationScheduled": "SEM_SISTEMA_AMORTIZACAO",
         "amortizationScheduledAdditionalInfo": "NA",
         "cnpjConsignee": "00000000000191",
@@ -28,7 +28,7 @@
                 "referentialRateIndexerSubType": "TCR_POS",
                 "referentialRateIndexerAdditionalInfo": "NA",
                 "preFixedRate": 0.0000,
-                "postFixedRate": 0.0299,
+                "postFixedRate": 0.0811,
                 "additionalInfo": "NA"
             }
         ],

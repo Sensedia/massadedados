@@ -9,7 +9,7 @@
                 "instalmentId": "35a282ea-0327-3dc1-9ab0-f04e1bab8f01",
                 "paidDate": "2000-01-12",
                 "currency": "BRL",
-                "paidAmount": 225000.0000,
+                "paidAmount": 270720.9053,
                 "overParcel": {
                     "fees": [
                         {
@@ -22,7 +22,7 @@
                         {
                             "chargeType": "JUROS_REMUNERATORIOS_POR_ATRASO",
                             "chargeAdditionalInfo": "NA",
-                            "chargeAmount": 0.5000
+                            "chargeAmount": 17994.1453
                         }
                     ]
                 }
@@ -33,7 +33,7 @@
                 "instalmentId": "26a282ea-0326-3dc1-9ab0-f04e1bab9f01",
                 "paidDate": "1999-02-10",
                 "currency": "BRL",
-                "paidAmount": 225000.0000,
+                "paidAmount": 252726.7600,
                 "overParcel": {
                     "fees": [
                         {
@@ -57,7 +57,7 @@
                 "instalmentId": "26a282ea-1327-3dc1-9ab0-f04e1bab9f01",
                 "paidDate": "1999-01-10",
                 "currency": "BRL",
-                "paidAmount": 50000.0000,
+                "paidAmount": 50075.0000,
                 "overParcel": {
                     "fees": [
                         {

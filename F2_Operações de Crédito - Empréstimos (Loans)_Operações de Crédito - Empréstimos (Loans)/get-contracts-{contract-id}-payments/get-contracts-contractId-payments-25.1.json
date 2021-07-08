@@ -1,7 +1,7 @@
 {
     "data": {
         "paidInstalments": 52,
-        "contractOutstandingBalance": 1188560.3778,
+        "contractOutstandingBalance": 1585978.5000,
         "releases": [
             {
                 "paymentId": "16c701ce-4bce-36f0-91d9-511c3eb33ce2",
@@ -9,13 +9,13 @@
                 "instalmentId": "159967cf-e7f4-33c8-a8b3-2481e4779561",
                 "paidDate": "2021-07-21",
                 "currency": "BRL",
-                "paidAmount": 44020.7547,
+                "paidAmount": 63439.1400,
                 "overParcel": {
                     "fees": [
                         {
                             "feeName": "Taxa de manutenção",
                             "feeCode": "MANUTENCAO",
-                            "feeAmount": 88.0415
+                            "feeAmount": 126.8783
                         }
                     ],
                     "charges": [
@@ -33,13 +33,13 @@
                 "instalmentId": "259967cf-e7f4-33c8-a8b3-2481e4779561",
                 "paidDate": "2021-07-06",
                 "currency": "BRL",
-                "paidAmount": 7000.0000,
+                "paidAmount": 63439.1400,
                 "overParcel": {
                     "fees": [
                         {
                             "feeName": "Taxa de manutenção",
                             "feeCode": "MANUTENCAO",
-                            "feeAmount": 14.0000
+                            "feeAmount": 126.8783
                         }
                     ],
                     "charges": [
@@ -57,13 +57,13 @@
                 "instalmentId": "359967cf-e7f4-33c8-a8b3-2481e4779561",
                 "paidDate": "2021-06-21",
                 "currency": "BRL",
-                "paidAmount": 44020.7547,
+                "paidAmount": 63439.1400,
                 "overParcel": {
                     "fees": [
                         {
                             "feeName": "Taxa de manutenção",
                             "feeCode": "MANUTENCAO",
-                            "feeAmount": 88.0415
+                            "feeAmount": 126.8783
                         }
                     ],
                     "charges": [
@@ -81,13 +81,13 @@
                 "instalmentId": "459967cf-e7f4-33c8-a8b3-2481e4779561",
                 "paidDate": "2021-06-06",
                 "currency": "BRL",
-                "paidAmount": 11000.0000,
+                "paidAmount": 63439.1400,
                 "overParcel": {
                     "fees": [
                         {
                             "feeName": "Taxa de manutenção",
                             "feeCode": "MANUTENCAO",
-                            "feeAmount": 22.0000
+                            "feeAmount": 126.8783
                         }
                     ],
                     "charges": [
@@ -105,13 +105,13 @@
                 "instalmentId": "559967cf-e7f4-33c8-a8b3-2481e4779561",
                 "paidDate": "2021-05-21",
                 "currency": "BRL",
-                "paidAmount": 44020.7547,
+                "paidAmount": 63439.1400,
                 "overParcel": {
                     "fees": [
                         {
                             "feeName": "Taxa de manutenção",
                             "feeCode": "MANUTENCAO",
-                            "feeAmount": 88.0415
+                            "feeAmount": 126.8783
                         }
                     ],
                     "charges": [
@@ -129,13 +129,13 @@
                 "instalmentId": "659967cf-e7f4-33c8-a8b3-2481e4779561",
                 "paidDate": "2021-05-06",
                 "currency": "BRL",
-                "paidAmount": 55000.0000,
+                "paidAmount": 63439.1400,
                 "overParcel": {
                     "fees": [
                         {
                             "feeName": "Taxa de manutenção",
                             "feeCode": "MANUTENCAO",
-                            "feeAmount": 110.0000
+                            "feeAmount": 126.8783
                         }
                     ],
                     "charges": [
@@ -153,13 +153,13 @@
                 "instalmentId": "759967cf-e7f4-33c8-a8b3-2481e4779561",
                 "paidDate": "2021-04-21",
                 "currency": "BRL",
-                "paidAmount": 44020.7547,
+                "paidAmount": 63439.1400,
                 "overParcel": {
                     "fees": [
                         {
                             "feeName": "Taxa de manutenção",
                             "feeCode": "MANUTENCAO",
-                            "feeAmount": 88.0415
+                            "feeAmount": 126.8783
                         }
                     ],
                     "charges": [
@@ -177,13 +177,13 @@
                 "instalmentId": "859967cf-e7f4-33c8-a8b3-2481e4779561",
                 "paidDate": "2021-04-06",
                 "currency": "BRL",
-                "paidAmount": 20000.0000,
+                "paidAmount": 63439.1400,
                 "overParcel": {
                     "fees": [
                         {
                             "feeName": "Taxa de manutenção",
                             "feeCode": "MANUTENCAO",
-                            "feeAmount": 40.0000
+                            "feeAmount": 126.8783
                         }
                     ],
                     "charges": [
@@ -201,13 +201,13 @@
                 "instalmentId": "959967cf-e7f4-33c8-a8b3-2481e4779561",
                 "paidDate": "2021-03-21",
                 "currency": "BRL",
-                "paidAmount": 44020.7547,
+                "paidAmount": 63439.1400,
                 "overParcel": {
                     "fees": [
                         {
                             "feeName": "Taxa de manutenção",
                             "feeCode": "MANUTENCAO",
-                            "feeAmount": 88.0415
+                            "feeAmount": 126.8783
                         }
                     ],
                     "charges": [
@@ -225,13 +225,13 @@
                 "instalmentId": "b59967cf-e7f4-33c8-a8b3-2481e4779561",
                 "paidDate": "2021-03-06",
                 "currency": "BRL",
-                "paidAmount": 15000.0000,
+                "paidAmount": 63439.1400,
                 "overParcel": {
                     "fees": [
                         {
                             "feeName": "Taxa de manutenção",
                             "feeCode": "MANUTENCAO",
-                            "feeAmount": 30.0000
+                            "feeAmount": 126.8783
                         }
                     ],
                     "charges": [
@@ -249,13 +249,13 @@
                 "instalmentId": "c59967cf-e7f4-33c8-a8b3-2481e4779561",
                 "paidDate": "2021-02-21",
                 "currency": "BRL",
-                "paidAmount": 44020.7547,
+                "paidAmount": 63439.1400,
                 "overParcel": {
                     "fees": [
                         {
                             "feeName": "Taxa de manutenção",
                             "feeCode": "MANUTENCAO",
-                            "feeAmount": 88.0415
+                            "feeAmount": 126.8783
                         }
                     ],
                     "charges": [
@@ -273,13 +273,13 @@
                 "instalmentId": "d59967cf-e7f4-33c8-a8b3-2481e4779561",
                 "paidDate": "2021-02-06",
                 "currency": "BRL",
-                "paidAmount": 15000.0000,
+                "paidAmount": 63439.1400,
                 "overParcel": {
                     "fees": [
                         {
                             "feeName": "Taxa de manutenção",
                             "feeCode": "MANUTENCAO",
-                            "feeAmount": 30.0000
+                            "feeAmount": 126.8783
                         }
                     ],
                     "charges": [
@@ -297,13 +297,13 @@
                 "instalmentId": "e59967cf-e7f4-33c8-a8b3-2481e4779561",
                 "paidDate": "2021-01-21",
                 "currency": "BRL",
-                "paidAmount": 44020.7547,
+                "paidAmount": 63439.1400,
                 "overParcel": {
                     "fees": [
                         {
                             "feeName": "Taxa de manutenção",
                             "feeCode": "MANUTENCAO",
-                            "feeAmount": 88.0415
+                            "feeAmount": 126.8783
                         }
                     ],
                     "charges": [
@@ -321,13 +321,13 @@
                 "instalmentId": "f59967cf-e7f4-33c8-a8b3-2481e4779561",
                 "paidDate": "2021-01-06",
                 "currency": "BRL",
-                "paidAmount": 5000.0000,
+                "paidAmount": 63439.1400,
                 "overParcel": {
                     "fees": [
                         {
                             "feeName": "Taxa de manutenção",
                             "feeCode": "MANUTENCAO",
-                            "feeAmount": 10.0000
+                            "feeAmount": 126.8783
                         }
                     ],
                     "charges": [
@@ -345,13 +345,13 @@
                 "instalmentId": "g59967cf-e7f4-33c8-a8b3-2481e4779561",
                 "paidDate": "2020-12-21",
                 "currency": "BRL",
-                "paidAmount": 44020.7547,
+                "paidAmount": 63439.1400,
                 "overParcel": {
                     "fees": [
                         {
                             "feeName": "Taxa de manutenção",
                             "feeCode": "MANUTENCAO",
-                            "feeAmount": 88.0415
+                            "feeAmount": 126.8783
                         }
                     ],
                     "charges": [
@@ -369,13 +369,13 @@
                 "instalmentId": "h59967cf-e7f4-33c8-a8b3-2481e4779561",
                 "paidDate": "2020-12-06",
                 "currency": "BRL",
-                "paidAmount": 40000.0000,
+                "paidAmount": 63439.1400,
                 "overParcel": {
                     "fees": [
                         {
                             "feeName": "Taxa de manutenção",
                             "feeCode": "MANUTENCAO",
-                            "feeAmount": 80.0000
+                            "feeAmount": 126.8783
                         }
                     ],
                     "charges": [
@@ -393,13 +393,13 @@
                 "instalmentId": "i59967cf-e7f4-33c8-a8b3-2481e4779561",
                 "paidDate": "2020-11-21",
                 "currency": "BRL",
-                "paidAmount": 44020.7547,
+                "paidAmount": 63439.1400,
                 "overParcel": {
                     "fees": [
                         {
                             "feeName": "Taxa de manutenção",
                             "feeCode": "MANUTENCAO",
-                            "feeAmount": 88.0415
+                            "feeAmount": 126.8783
                         }
                     ],
                     "charges": [
@@ -417,13 +417,13 @@
                 "instalmentId": "j59967cf-e7f4-33c8-a8b3-2481e4779561",
                 "paidDate": "2020-11-06",
                 "currency": "BRL",
-                "paidAmount": 20000.0000,
+                "paidAmount": 63439.1400,
                 "overParcel": {
                     "fees": [
                         {
                             "feeName": "Taxa de manutenção",
                             "feeCode": "MANUTENCAO",
-                            "feeAmount": 40.0000
+                            "feeAmount": 126.8783
                         }
                     ],
                     "charges": [
@@ -441,13 +441,13 @@
                 "instalmentId": "k59967cf-e7f4-33c8-a8b3-2481e4779561",
                 "paidDate": "2020-10-21",
                 "currency": "BRL",
-                "paidAmount": 44020.7547,
+                "paidAmount": 63439.1400,
                 "overParcel": {
                     "fees": [
                         {
                             "feeName": "Taxa de manutenção",
                             "feeCode": "MANUTENCAO",
-                            "feeAmount": 88.0415
+                            "feeAmount": 126.8783
                         }
                     ],
                     "charges": [
@@ -465,13 +465,13 @@
                 "instalmentId": "l59967cf-e7f4-33c8-a8b3-2481e4779561",
                 "paidDate": "2020-10-06",
                 "currency": "BRL",
-                "paidAmount": 15000.0000,
+                "paidAmount": 63439.1400,
                 "overParcel": {
                     "fees": [
                         {
                             "feeName": "Taxa de manutenção",
                             "feeCode": "MANUTENCAO",
-                            "feeAmount": 30.0000
+                            "feeAmount": 126.8783
                         }
                     ],
                     "charges": [
@@ -489,13 +489,13 @@
                 "instalmentId": "m59967cf-e7f4-33c8-a8b3-2481e4779561",
                 "paidDate": "2020-09-21",
                 "currency": "BRL",
-                "paidAmount": 44020.7547,
+                "paidAmount": 63439.1400,
                 "overParcel": {
                     "fees": [
                         {
                             "feeName": "Taxa de manutenção",
                             "feeCode": "MANUTENCAO",
-                            "feeAmount": 88.0415
+                            "feeAmount": 126.8783
                         }
                     ],
                     "charges": [
@@ -513,13 +513,13 @@
                 "instalmentId": "n59967cf-e7f4-33c8-a8b3-2481e4779561",
                 "paidDate": "2020-09-06",
                 "currency": "BRL",
-                "paidAmount": 5000.0000,
+                "paidAmount": 63439.1400,
                 "overParcel": {
                     "fees": [
                         {
                             "feeName": "Taxa de manutenção",
                             "feeCode": "MANUTENCAO",
-                            "feeAmount": 10.0000
+                            "feeAmount": 126.8783
                         }
                     ],
                     "charges": [
@@ -537,13 +537,13 @@
                 "instalmentId": "o59967cf-e7f4-33c8-a8b3-2481e4779561",
                 "paidDate": "2020-08-21",
                 "currency": "BRL",
-                "paidAmount": 44020.7547,
+                "paidAmount": 63439.1400,
                 "overParcel": {
                     "fees": [
                         {
                             "feeName": "Taxa de manutenção",
                             "feeCode": "MANUTENCAO",
-                            "feeAmount": 88.0415
+                            "feeAmount": 126.8783
                         }
                     ],
                     "charges": [
@@ -561,13 +561,13 @@
                 "instalmentId": "p59967cf-e7f4-33c8-a8b3-2481e4779561",
                 "paidDate": "2020-08-06",
                 "currency": "BRL",
-                "paidAmount": 5000.0000,
+                "paidAmount": 63439.1400,
                 "overParcel": {
                     "fees": [
                         {
                             "feeName": "Taxa de manutenção",
                             "feeCode": "MANUTENCAO",
-                            "feeAmount": 10.0000
+                            "feeAmount": 126.8783
                         }
                     ],
                     "charges": [
@@ -585,13 +585,13 @@
                 "instalmentId": "q59967cf-e7f4-33c8-a8b3-2481e4779561",
                 "paidDate": "2020-07-21",
                 "currency": "BRL",
-                "paidAmount": 44020.7547,
+                "paidAmount": 63439.1400,
                 "overParcel": {
                     "fees": [
                         {
                             "feeName": "Taxa de manutenção",
                             "feeCode": "MANUTENCAO",
-                            "feeAmount": 88.0415
+                            "feeAmount": 126.8783
                         }
                     ],
                     "charges": [
