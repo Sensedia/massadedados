@@ -9,7 +9,7 @@
           "instalmentId": "3ce54635-5e53-3a24-b914-31078dafc801",
           "paidDate": "2021-03-26",
           "currency": "BRL",
-          "paidAmount": 1441.5200,
+          "paidAmount": 1703.0118,
           "overParcel": {
             "fees": [
               {
@@ -449,7 +449,7 @@
           "instalmentId": "17a4a7c6-be18-37d6-ae84-a38a64289ca3",
           "paidDate": "2021-01-13",
           "currency": "BRL",
-          "paidAmount": 1441.5200,
+          "paidAmount": 1521.3200,
           "overParcel": {
             "fees": [
               {

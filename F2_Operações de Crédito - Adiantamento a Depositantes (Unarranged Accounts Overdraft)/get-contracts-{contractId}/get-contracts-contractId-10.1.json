@@ -14,7 +14,7 @@
         "instalmentPeriodicity": "MENSAL",
         "instalmentPeriodicityAdditionalInfo": "NA",
         "firstInstalmentDueDate": "2021-07-30",
-        "CET": 0.0329,
+        "CET": 0.0629,
         "amortizationScheduled": "PRICE",
         "amortizationScheduledAdditionalInfo": "NA",
         "interestRates": [
@@ -25,8 +25,7 @@
                 "calculation": "21/252",
                 "referentialRateIndexerType": "PRE_FIXADO",
                 "referentialRateIndexerSubType": "PRE_FIXADO",
-                "referentialRateIndexerAdditionalInfo": "NA",
-                "preFixedRate": 0.0300,
+                "preFixedRate": 0.0629,
                 "postFixedRate": 0.0000,
                 "additionalInfo": "NA"
             }
@@ -45,7 +44,7 @@
                 "feeCode": "INADIMPLENCIA_RECENTE",
                 "feeChargeType": "POR_PARCELA",
                 "feeCharge": "PERCENTUAL",
-                "feeAmount": 0.0,
+                "feeAmount": 0.0000,
                 "feeRate": 0.0150
             },
             {

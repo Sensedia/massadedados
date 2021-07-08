@@ -14,20 +14,20 @@
         "instalmentPeriodicity": "SEMANAL",
         "instalmentPeriodicityAdditionalInfo": "NA",
         "firstInstalmentDueDate": "2021-01-13",
-        "CET": 0.0129,
+        "CET": 0.0419,
         "amortizationScheduled": "PRICE",
         "amortizationScheduledAdditionalInfo": "NA",
         "interestRates": [
             {
                 "taxType": "EFETIVA",
                 "interestRateType": "COMPOSTO",
-                "taxPeriodicity": "AM",
+                "taxPeriodicity": "AA",
                 "calculation": "30/365",
                 "referentialRateIndexerType": "FLUTUANTES",
                 "referentialRateIndexerSubType": "OUTRAS_TAXAS_FLUTUANTES",
                 "referentialRateIndexerAdditionalInfo": "NA",
                 "preFixedRate": 0.0000,
-                "postFixedRate": 0.0290,
+                "postFixedRate": 0.0419,
                 "additionalInfo": "NA"
             }
         ],

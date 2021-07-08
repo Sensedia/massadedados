@@ -14,7 +14,7 @@
         "instalmentPeriodicity": "SEM_PERIODICIDADE_REGULAR",
         "instalmentPeriodicityAdditionalInfo": "NA",
         "firstInstalmentDueDate": "2020-02-10",
-        "CET": 0.0259,
+        "CET": 0.0949,
         "amortizationScheduled": "SAC",
         "amortizationScheduledAdditionalInfo": "NA",
         "interestRates": [
@@ -27,7 +27,7 @@
                 "referentialRateIndexerSubType": "TJLP",
                 "referentialRateIndexerAdditionalInfo": "NA",
                 "preFixedRate": 0.0000,
-                "postFixedRate": 0.0690,
+                "postFixedRate": 0.0949,
                 "additionalInfo": "NA"
             }
         ],
