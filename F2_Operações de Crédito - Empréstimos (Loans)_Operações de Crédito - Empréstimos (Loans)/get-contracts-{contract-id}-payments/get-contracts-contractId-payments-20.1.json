@@ -12,8 +12,18 @@
                 "paidAmount": 5000.0000,
                 "overParcel": {
                     "fees": [
+                        {
+                            "feeName": "NA",
+                            "feeCode": "NA",
+                            "feeAmount": 0.0000
+                        }
                     ],
                     "charges": [
+                        {
+                            "chargeType": "NA",
+                            "chargeAdditionalInfo": "NA",
+                            "chargeAmount": 0.0000
+                        }
                     ]
                 }
             },
@@ -26,8 +36,18 @@
                 "paidAmount": 5000.0000,
                 "overParcel": {
                     "fees": [
+                        {
+                            "feeName": "NA",
+                            "feeCode": "NA",
+                            "feeAmount": 0.0000
+                        }
                     ],
                     "charges": [
+                        {
+                            "chargeType": "NA",
+                            "chargeAdditionalInfo": "NA",
+                            "chargeAmount": 0.0000
+                        }
                     ]
                 }
             },
@@ -40,8 +60,18 @@
                 "paidAmount": 5000.0000,
                 "overParcel": {
                     "fees": [
+                        {
+                            "feeName": "NA",
+                            "feeCode": "NA",
+                            "feeAmount": 0.0000
+                        }
                     ],
                     "charges": [
+                        {
+                            "chargeType": "NA",
+                            "chargeAdditionalInfo": "NA",
+                            "chargeAmount": 0.0000
+                        }
                     ]
                 }
             },
@@ -61,6 +91,11 @@
                         }
                     ],
                     "charges": [
+                        {
+                            "chargeType": "NA",
+                            "chargeAdditionalInfo": "NA",
+                            "chargeAmount": 0.0000
+                        }
                     ]
                 }
             }
@@ -70,7 +105,7 @@
         "self": "https://super.api.santander.com.br/open-banking/loans/v1/contracts/377aa88d-8905-3847-ad8f-c80d9e47f907/payments"
     },
     "meta": {
-        "totalRecords": 1,
+        "totalRecords": 4,
         "totalPages": 1,
         "requestDateTime": "2021-07-05T00:00:00Z"
     }
