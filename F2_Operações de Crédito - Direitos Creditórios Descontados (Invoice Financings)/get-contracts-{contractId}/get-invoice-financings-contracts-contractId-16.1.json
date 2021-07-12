@@ -26,18 +26,18 @@
         "referentialRateIndexerType": "INDICES_PRECOS",
         "referentialRateIndexerSubType": "IGPM",
         "referentialRateIndexerAdditionalInfo": "NA",
-        "preFixedRate": 0.0690,
-        "postFixedRate": 0.0000,
+        "preFixedRate": 0.0000,
+        "postFixedRate": 0.0690,
         "additionalInfo": "NA"
       }
     ],
     "contractedFees": [
       {
-        "feeName": "Anteciação de Fatura",
-        "feeCode": "ANTECIPA_FATURA_CREDITO",
+        "feeName": "Taxa de cadastro",
+        "feeCode": "CADASTRO",
         "feeChargeType": "UNICA",
-        "feeCharge": "MAXIMO",
-        "feeAmount": 165.0000,
+        "feeCharge": "FIXO",
+        "feeAmount": 150.0000,
         "feeRate": 0.0000
       }
     ],

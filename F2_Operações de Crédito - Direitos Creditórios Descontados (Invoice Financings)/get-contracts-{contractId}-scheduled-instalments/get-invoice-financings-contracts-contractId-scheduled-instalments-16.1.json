@@ -4,14 +4,14 @@
     "totalNumberOfInstalments": 0,
     "typeContractRemaining": "SEM_PRAZO_REMANESCENTE ",
     "contractRemainingNumber": 0,
-    "paidInstalments": 1,
+    "paidInstalments": 0,
     "dueInstalments": 5,
     "pastDueInstalments": 0,
     "balloonPayments": [
       {
-        "dueDate": "2021-06-01",
-        "currency": "BRL",
-        "amount": 320000.0000
+        "dueDate": "NA",
+        "currency": "NA",
+        "amount": 0.0000
       }
     ]
   },

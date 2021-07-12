@@ -1,35 +1,81 @@
 {
   "data": [
     {
-      "transactionId": "as5y1jh6-5a10-4468-aad2-84er1bg185sj",
-      "identificationNumber": "4453",
-      "lineName": "CREDITO_A_VISTA",
-      "transactionName": "PAGAMENTO",
-      "billId": "a5ye1n3r-3f03-3c4e-b00a-r8o8p1v5a2mn",
-      "creditDebitType": "DEBITO",
+      "transactionId": "40wjrw65-gyyd-2w0r-7lt8-delyf5xkz3pr",
+      "identificationNumber": "5620",
+      "lineName": "CREDITO_PARCELADO",
+      "transactionName": "AUR BUFFET",
+      "billId": "39hf1zal-l7r2-opuw-r460-5gn6pe4dum3b",
+      "creditDebitType": "CREDITO",
       "transactionType": "PAGAMENTO",
       "transactionalAdditionalInfo": "NA",
       "paymentType": "A_VISTA",
-      "feeType": "ANUIDADE",
+      "feeType": "NA",
       "feeTypeAdditionalInfo": "NA",
-      "otherCreditsType": "PARCELAMENTO_FATURA",
+      "otherCreditsType": "NA",
       "otherCreditsAdditionalInfo": "NA",
-      "chargeIdentificator": "Isabelly Consultoria Financeira Ltda",
+      "chargeIdentificator": "AUR BUFFET 03/03",
       "chargeNumber": 3,
-      "brazilianAmount": 10500.2780,
+      "brazilianAmount": 3501.6530,
       "amount": 0.0000,
       "currency": "BRL",
-      "transactionDate": "2021-05-21",
-      "billPostDate": "2021-05-21",
-      "payeeMCC": 4783
+      "transactionDate": "2021-04-05",
+      "billPostDate": "2021-04-05",
+      "payeeMCC": 5620
+    },
+    {
+      "transactionId": "6bmhjqno-swce-z70a-qow4-89rzrs50afkx",
+      "identificationNumber": "5620",
+      "lineName": "CREDITO_PARCELADO",
+      "transactionName": "AUR BUFFET",
+      "billId": "b399h4w1-45sw-1e4x-ruy6-ao8486e8c0bu",
+      "creditDebitType": "CREDITO",
+      "transactionType": "PAGAMENTO",
+      "transactionalAdditionalInfo": "NA",
+      "paymentType": "A_VISTA",
+      "feeType": "NA",
+      "feeTypeAdditionalInfo": "NA",
+      "otherCreditsType": "NA",
+      "otherCreditsAdditionalInfo": "NA",
+      "chargeIdentificator": "AUR BUFFET 02/03",
+      "chargeNumber": 3,
+      "brazilianAmount": 3501.6530,
+      "amount": 0.0000,
+      "currency": "BRL",
+      "transactionDate": "2021-03-05",
+      "billPostDate": "2021-03-05",
+      "payeeMCC": 5620
+    },
+    {
+      "transactionId": "17fm2d10-0lm7-dlfu-xf7z-e3ge3yle4502",
+      "identificationNumber": "5620",
+      "lineName": "CREDITO_PARCELADO",
+      "transactionName": "AUR BUFFET",
+      "billId": "hzdx8qp1-4r6o-0fa9-ows7-xi8xj9dkocem",
+      "creditDebitType": "CREDITO",
+      "transactionType": "PAGAMENTO",
+      "transactionalAdditionalInfo": "NA",
+      "paymentType": "A_VISTA",
+      "feeType": "NA",
+      "feeTypeAdditionalInfo": "NA",
+      "otherCreditsType": "NA",
+      "otherCreditsAdditionalInfo": "NA",
+      "chargeIdentificator": "AUR BUFFET 01/03",
+      "chargeNumber": 3,
+      "brazilianAmount": 3501.6530,
+      "amount": 0.0000,
+      "currency": "BRL",
+      "transactionDate": "2021-02-05",
+      "billPostDate": "2021-02-05",
+      "payeeMCC": 5620
     }
   ],
   "links": {
-    "self": "https://api.bradesco.com/open-banking/credit-cards-accounts/v1/accounts/da1s8651-3f03-3c4e-b00a-521sd54sd1nm/transactions"
+    "self": "https://api.bradesco.com/open-banking/credit-cards-accounts/v1/accounts/n7i2bry1-b3nu-lm8o-m4rr-7g6i88n0aodx/transactions"
   },
   "meta": {
-    "totalRecords": 1,
+    "totalRecords": 3,
     "totalPages": 1,
-    "requestDateTime": "2021-10-01T00:00:00Z"
+    "requestDateTime": "2021-04-10T00:00:00Z"
   }
 }

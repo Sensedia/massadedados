@@ -3,20 +3,20 @@
       {
         "creditLineLimitType": "LIMITE_CREDITO_TOTAL",
         "consolidationType": "CONSOLIDADO",
-        "identificationNumber": "4453",
+        "identificationNumber": "5620",
         "lineName": "CREDITO_A_VISTA",
         "lineNameAdditionalInfo": "NA",
         "isLimitFlexible": true,
         "limitAmountCurrency": "BRL",
-        "limitAmount": 10000.0099,
+        "limitAmount": 20000.0000,
         "usedAmountCurrency": "BRL",
         "usedAmount": 7500.0554,
         "availableAmountCurrency": "BRL",
-        "availableAmount": 2499.9545
+        "availableAmount": 12499.9446
       }
     ],
     "links": {
-      "self": "https://api.bradesco.com/open-banking/credit-cards-accounts/v1/accounts/a5ye1n3r-3f03-3c4e-b00a-r8o8p1v5a2mn/limits"
+      "self": "https://api.bradesco.com/open-banking/credit-cards-accounts/v1/accounts/n7i2bry1-b3nu-lm8o-m4rr-7g6i88n0aodx/limits"
     },
     "meta": {
       "totalRecords": 1,

@@ -1,11 +1,11 @@
 {
     "data": [
       {
-        "transactionId": "17fm2d10-0lm7-dlfu-xf7z-e3ge3yle4502",
+        "transactionId": "40wjrw65-gyyd-2w0r-7lt8-delyf5xkz3pr",
         "identificationNumber": "5620",
         "lineName": "CREDITO_PARCELADO",
         "transactionName": "AUR BUFFET",
-        "billId": "hzdx8qp1-4r6o-0fa9-ows7-xi8xj9dkocem",
+        "billId": "39hf1zal-l7r2-opuw-r460-5gn6pe4dum3b",
         "creditDebitType": "CREDITO",
         "transactionType": "PAGAMENTO",
         "transactionalAdditionalInfo": "NA",
@@ -14,18 +14,18 @@
         "feeTypeAdditionalInfo": "NA",
         "otherCreditsType": "NA",
         "otherCreditsAdditionalInfo": "NA",
-        "chargeIdentificator": "AUR BUFFET 01/03",
+        "chargeIdentificator": "AUR BUFFET 03/03",
         "chargeNumber": 3,
         "brazilianAmount": 3501.6530,
         "amount": 0.0000,
         "currency": "BRL",
-        "transactionDate": "2021-02-05",
-        "billPostDate": "2021-02-05",
+        "transactionDate": "2021-04-05",
+        "billPostDate": "2021-04-05",
         "payeeMCC": 5620
       }
     ],
     "links": {
-      "self": "https://api.bradesco.com/open-banking/credit-cards-accounts/v1/accounts/n7i2bry1-b3nu-lm8o-m4rr-7g6i88n0aodx/bills/hzdx8qp1-4r6o-0fa9-ows7-xi8xj9dkocem/transactions"
+      "self": "https://api.bradesco.com/open-banking/credit-cards-accounts/v1/accounts/n7i2bry1-b3nu-lm8o-m4rr-7g6i88n0aodx/bills/39hf1zal-l7r2-opuw-r460-5gn6pe4dum3b/transactions"
     },
     "meta": {
       "totalRecords": 1,

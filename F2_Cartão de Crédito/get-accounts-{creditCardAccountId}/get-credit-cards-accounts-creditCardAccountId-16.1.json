@@ -7,13 +7,13 @@
       "networkAdditionalInfo": "NA",
       "paymentMethod": [
         {
-          "identificationNumber": "4453",
+          "identificationNumber": "5620",
           "isMultipleCreditCard": false
         }
       ]
     },
     "links": {
-      "self": "https://api.bradesco.com/open-banking/credit-cards-accounts/v1/accounts/da1s8651-3f03-3c4e-b00a-521sd54sd1nm",
+      "self": "https://api.bradesco.com/open-banking/credit-cards-accounts/v1/accounts/n7i2bry1-b3nu-lm8o-m4rr-7g6i88n0aodx",
     "meta": {
       "totalRecords": 1,
       "totalPages": 1,
