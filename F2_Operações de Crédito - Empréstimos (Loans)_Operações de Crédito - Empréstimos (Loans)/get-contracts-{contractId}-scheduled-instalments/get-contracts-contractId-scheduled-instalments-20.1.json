@@ -3,7 +3,7 @@
         "typeNumberOfInstalments": "MES",
         "totalNumberOfInstalments": 4,
         "typeContractRemaining": "DIA",
-        "contractRemainingNumber": 32,
+        "contractRemainingNumber": 0,
         "paidInstalments": 4,
         "dueInstalments": 0,
         "pastDueInstalments": 0,
