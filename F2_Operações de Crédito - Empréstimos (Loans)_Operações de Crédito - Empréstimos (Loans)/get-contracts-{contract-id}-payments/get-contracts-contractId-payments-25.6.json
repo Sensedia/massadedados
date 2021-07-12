@@ -7,7 +7,7 @@
                 "paymentId": "35a282ea-0327-3dc1-9ab0-f04e1bab8f00",
                 "isOverParcelPayment": false,
                 "instalmentId": "35a282ea-0327-3dc1-9ab0-f04e1bab8f01",
-                "paidDate": "2000-01-12",
+                "paidDate": "2001-01-12",
                 "currency": "BRL",
                 "paidAmount": 270720.9053,
                 "overParcel": {
@@ -31,15 +31,15 @@
                 "paymentId": "26a282ea-0326-3dc1-9ab0-f04e1bab9f00",
                 "isOverParcelPayment": false,
                 "instalmentId": "26a282ea-0326-3dc1-9ab0-f04e1bab9f01",
-                "paidDate": "1999-02-10",
+                "paidDate": "2000-01-10",
                 "currency": "BRL",
-                "paidAmount": 252726.7600,
+                "paidAmount": 252801.7600,
                 "overParcel": {
                     "fees": [
                         {
-                            "feeName": "NA",
-                            "feeCode": "NA",
-                            "feeAmount": 0.0000
+                            "feeName": "Taxa de cadastro",
+                            "feeCode": "CADASTRO",
+                            "feeAmount": 75.0000
                         }
                     ],
                     "charges": [
@@ -57,13 +57,13 @@
                 "instalmentId": "26a282ea-1327-3dc1-9ab0-f04e1bab9f01",
                 "paidDate": "1999-01-10",
                 "currency": "BRL",
-                "paidAmount": 50075.0000,
+                "paidAmount": 50000.0000,
                 "overParcel": {
                     "fees": [
                         {
                             "feeName": "Taxa de cadastro",
                             "feeCode": "CADASTRO",
-                            "feeAmount": 75.0000
+                            "feeAmount": 0.0000
                         }
                     ],
                     "charges": [
@@ -83,6 +83,6 @@
     "meta": {
         "totalRecords": 3,
         "totalPages": 1,
-        "requestDateTime": "2021-12-26T00:00:00Z"
+        "requestDateTime": "2021-07-21T15:00:00Z"
     }
 }

@@ -607,12 +607,13 @@
     },
     "links": {
         "self": "https://opendata.api.bb.com.br/open-banking/loans/v1/contracts/1ff29059-3105-43cd-a55a-20652d73604b/payments?page=1&page-size=25",
+        "first": "https://opendata.api.bb.com.br/open-banking/loans/v1/contracts/1ff29059-3105-43cd-a55a-20652d73604b/payments?page=1&page-size=25",
         "next": "https://opendata.api.bb.com.br/open-banking/loans/v1/contracts/1ff29059-3105-43cd-a55a-20652d73604b/payments?page=2&page-size=25",
         "last": "https://opendata.api.bb.com.br/open-banking/loans/v1/contracts/1ff29059-3105-43cd-a55a-20652d73604b/payments?page=3&page-size=25"        
     },
     "meta": {
         "totalRecords": 52,
         "totalPages": 3,
-        "requestDateTime": "2021-12-26T00:00:00Z"
+        "requestDateTime": "2021-07-21T15:00:00Z"
     }
 }

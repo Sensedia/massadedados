@@ -25,7 +25,7 @@
                 "taxPeriodicity": "AA",
                 "calculation": "30/365",
                 "referentialRateIndexerType": "OUTROS_INDEXADORES",
-                "referentialRateIndexerSubType": "OUTROS_INDICES",
+                "referentialRateIndexerSubType": "OUTROS_INDEXADORES",
                 "referentialRateIndexerAdditionalInfo": "NA",
                 "preFixedRate": 0.0751,
                 "postFixedRate": 0.0000,

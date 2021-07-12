@@ -153,6 +153,7 @@
     ],
     "links": {
         "self": "https://opendata.api.bb.com.br/open-banking/loans/v1/contracts/5d18c5fe-ba69-3a9e-a343-dca4d2a1cf6c/warranties?page=1&page-size=25",
+        "first": "https://opendata.api.bb.com.br/open-banking/loans/v1/contracts/5d18c5fe-ba69-3a9e-a343-dca4d2a1cf6c/warranties?page=1&page-size=25",
         "next": "https://opendata.api.bb.com.br/open-banking/loans/v1/contracts/5d18c5fe-ba69-3a9e-a343-dca4d2a1cf6c/warranties?page=2&page-size=25",
         "last": "https://opendata.api.bb.com.br/open-banking/loans/v1/contracts/5d18c5fe-ba69-3a9e-a343-dca4d2a1cf6c/warranties?page=3&page-size=25"
     },
