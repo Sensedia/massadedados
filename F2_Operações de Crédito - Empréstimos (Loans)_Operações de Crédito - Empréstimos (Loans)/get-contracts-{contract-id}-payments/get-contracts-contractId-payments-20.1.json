@@ -9,7 +9,7 @@
                 "instalmentId": "35erb15s-b064-4f60-9f27-d7f45b6a93e4",
                 "paidDate": "2018-10-14",
                 "currency": "BRL",
-                "paidAmount": 5000.0000,
+                "paidAmount": 8801.8000,
                 "overParcel": {
                     "fees": [
                         {
@@ -33,7 +33,7 @@
                 "instalmentId": "2w1r356v-36ca-4be7-81bc-0a2eca6e35d2",
                 "paidDate": "2018-09-14",
                 "currency": "BRL",
-                "paidAmount": 5000.0000,
+                "paidAmount": 8801.8000,
                 "overParcel": {
                     "fees": [
                         {
@@ -57,7 +57,7 @@
                 "instalmentId": "wa126v32-af65-48dd-923c-c2cc4b6f6b26",
                 "paidDate": "2018-08-14",
                 "currency": "BRL",
-                "paidAmount": 5000.0000,
+                "paidAmount": 8801.8000,
                 "overParcel": {
                     "fees": [
                         {
@@ -81,7 +81,7 @@
                 "instalmentId": "w6u85bbc-89be-4786-a092-95135bc49595",
                 "paidDate": "2018-07-14",
                 "currency": "BRL",
-                "paidAmount": 20000.0000,
+                "paidAmount": 8951.8000,
                 "overParcel": {
                     "fees": [
                         {

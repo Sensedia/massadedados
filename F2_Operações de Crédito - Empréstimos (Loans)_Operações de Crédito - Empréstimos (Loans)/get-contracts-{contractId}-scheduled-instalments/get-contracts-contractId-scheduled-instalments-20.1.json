@@ -8,6 +8,11 @@
         "dueInstalments": 0,
         "pastDueInstalments": 0,
         "balloonPayments": [
+            {
+                "dueDate": "NA",
+                "currency": "NA",
+                "amount": 0.0000
+            }
         ]
     },
     "links": {
