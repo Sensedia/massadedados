@@ -44,7 +44,7 @@
                     ],
                     "charges": [
                         {
-                            "chargeType": "JUROS_REMUNERATORIOS_POR_ATRASO",
+                            "chargeType": "SEM_ENCARGO",
                             "chargeAdditionalInfo": "NA",
                             "chargeAmount": 0.0000
                         }

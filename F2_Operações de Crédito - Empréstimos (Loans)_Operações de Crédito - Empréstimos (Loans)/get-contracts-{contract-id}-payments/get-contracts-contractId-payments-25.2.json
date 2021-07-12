@@ -20,7 +20,7 @@
                     ],
                     "charges": [
                         {
-                            "chargeType": "IOF_POR_ATRASO",
+                            "chargeType": "SEM_ENCARGO",
                             "chargeAdditionalInfo": "NA",
                             "chargeAmount": 0.0000
                         }
@@ -44,7 +44,7 @@
                     ],
                     "charges": [
                         {
-                            "chargeType": "IOF_POR_ATRASO",
+                            "chargeType": "SEM_ENCARGO",
                             "chargeAdditionalInfo": "NA",
                             "chargeAmount": 0.0000
                         }
@@ -68,7 +68,7 @@
                     ],
                     "charges": [
                         {
-                            "chargeType": "IOF_POR_ATRASO",
+                            "chargeType": "SEM_ENCARGO",
                             "chargeAdditionalInfo": "NA",
                             "chargeAmount": 0.0000
                         }
@@ -92,7 +92,7 @@
                     ],
                     "charges": [
                         {
-                            "chargeType": "IOF_POR_ATRASO",
+                            "chargeType": "SEM_ENCARGO",
                             "chargeAdditionalInfo": "NA",
                             "chargeAmount": 0.0000
                         }
@@ -116,7 +116,7 @@
                     ],
                     "charges": [
                         {
-                            "chargeType": "IOF_POR_ATRASO",
+                            "chargeType": "SEM_ENCARGO",
                             "chargeAdditionalInfo": "NA",
                             "chargeAmount": 0.0000
                         }
@@ -140,7 +140,7 @@
                     ],
                     "charges": [
                         {
-                            "chargeType": "IOF_POR_ATRASO",
+                            "chargeType": "SEM_ENCARGO",
                             "chargeAdditionalInfo": "NA",
                             "chargeAmount": 0.0000
                         }
@@ -164,7 +164,7 @@
                     ],
                     "charges": [
                         {
-                            "chargeType": "IOF_POR_ATRASO",
+                            "chargeType": "SEM_ENCARGO",
                             "chargeAdditionalInfo": "NA",
                             "chargeAmount": 0.0000
                         }
@@ -188,9 +188,9 @@
                     ],
                     "charges": [
                         {
-                            "feeName": "Taxa de manutenção",
-                            "feeCode": "MANUTENCAO",
-                            "feeAmount": 126.8783
+                            "chargeType": "SEM_ENCARGO",
+                            "chargeAdditionalInfo": "NA",
+                            "chargeAmount": 0.0000
                         }
                     ]
                 }
@@ -212,7 +212,7 @@
                     ],
                     "charges": [
                         {
-                            "chargeType": "IOF_POR_ATRASO",
+                            "chargeType": "SEM_ENCARGO",
                             "chargeAdditionalInfo": "NA",
                             "chargeAmount": 0.0000
                         }
@@ -236,7 +236,7 @@
                     ],
                     "charges": [
                         {
-                            "chargeType": "IOF_POR_ATRASO",
+                            "chargeType": "SEM_ENCARGO",
                             "chargeAdditionalInfo": "NA",
                             "chargeAmount": 0.0000
                         }
@@ -260,7 +260,7 @@
                     ],
                     "charges": [
                         {
-                            "chargeType": "IOF_POR_ATRASO",
+                            "chargeType": "SEM_ENCARGO",
                             "chargeAdditionalInfo": "NA",
                             "chargeAmount": 0.0000
                         }
@@ -284,7 +284,7 @@
                     ],
                     "charges": [
                         {
-                            "chargeType": "IOF_POR_ATRASO",
+                            "chargeType": "SEM_ENCARGO",
                             "chargeAdditionalInfo": "NA",
                             "chargeAmount": 0.0000
                         }
@@ -308,7 +308,7 @@
                     ],
                     "charges": [
                         {
-                            "chargeType": "IOF_POR_ATRASO",
+                            "chargeType": "SEM_ENCARGO",
                             "chargeAdditionalInfo": "NA",
                             "chargeAmount": 0.0000
                         }
@@ -332,7 +332,7 @@
                     ],
                     "charges": [
                         {
-                            "chargeType": "IOF_POR_ATRASO",
+                            "chargeType": "SEM_ENCARGO",
                             "chargeAdditionalInfo": "NA",
                             "chargeAmount": 0.0000
                         }
@@ -356,7 +356,7 @@
                     ],
                     "charges": [
                         {
-                            "chargeType": "IOF_POR_ATRASO",
+                            "chargeType": "SEM_ENCARGO",
                             "chargeAdditionalInfo": "NA",
                             "chargeAmount": 0.0000
                         }
@@ -380,7 +380,7 @@
                     ],
                     "charges": [
                         {
-                            "chargeType": "IOF_POR_ATRASO",
+                            "chargeType": "SEM_ENCARGO",
                             "chargeAdditionalInfo": "NA",
                             "chargeAmount": 0.0000
                         }
@@ -404,7 +404,7 @@
                     ],
                     "charges": [
                         {
-                            "chargeType": "IOF_POR_ATRASO",
+                            "chargeType": "SEM_ENCARGO",
                             "chargeAdditionalInfo": "NA",
                             "chargeAmount": 0.0000
                         }
@@ -428,7 +428,7 @@
                     ],
                     "charges": [
                         {
-                            "chargeType": "IOF_POR_ATRASO",
+                            "chargeType": "SEM_ENCARGO",
                             "chargeAdditionalInfo": "NA",
                             "chargeAmount": 0.0000
                         }
@@ -452,7 +452,7 @@
                     ],
                     "charges": [
                         {
-                            "chargeType": "IOF_POR_ATRASO",
+                            "chargeType": "SEM_ENCARGO",
                             "chargeAdditionalInfo": "NA",
                             "chargeAmount": 0.0000
                         }
@@ -476,7 +476,7 @@
                     ],
                     "charges": [
                         {
-                            "chargeType": "IOF_POR_ATRASO",
+                            "chargeType": "SEM_ENCARGO",
                             "chargeAdditionalInfo": "NA",
                             "chargeAmount": 0.0000
                         }
@@ -500,7 +500,7 @@
                     ],
                     "charges": [
                         {
-                            "chargeType": "IOF_POR_ATRASO",
+                            "chargeType": "SEM_ENCARGO",
                             "chargeAdditionalInfo": "NA",
                             "chargeAmount": 0.0000
                         }
@@ -524,7 +524,7 @@
                     ],
                     "charges": [
                         {
-                            "chargeType": "IOF_POR_ATRASO",
+                            "chargeType": "SEM_ENCARGO",
                             "chargeAdditionalInfo": "NA",
                             "chargeAmount": 0.0000
                         }
@@ -548,7 +548,7 @@
                     ],
                     "charges": [
                         {
-                            "chargeType": "IOF_POR_ATRASO",
+                            "chargeType": "SEM_ENCARGO",
                             "chargeAdditionalInfo": "NA",
                             "chargeAmount": 0.0000
                         }
@@ -572,7 +572,7 @@
                     ],
                     "charges": [
                         {
-                            "chargeType": "IOF_POR_ATRASO",
+                            "chargeType": "SEM_ENCARGO",
                             "chargeAdditionalInfo": "NA",
                             "chargeAmount": 0.0000
                         }
@@ -596,7 +596,7 @@
                     ],
                     "charges": [
                         {
-                            "chargeType": "IOF_POR_ATRASO",
+                            "chargeType": "SEM_ENCARGO",
                             "chargeAdditionalInfo": "NA",
                             "chargeAmount": 0.0000
                         }

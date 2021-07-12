@@ -20,7 +20,7 @@
                     ],
                     "charges": [
                         {
-                            "chargeType": "MULTA_ATRASO_PAGAMENTO",
+                            "chargeType": "SEM_ENCARGO",
                             "chargeAdditionalInfo": "NA",
                             "chargeAmount": 0.0000
                         }
