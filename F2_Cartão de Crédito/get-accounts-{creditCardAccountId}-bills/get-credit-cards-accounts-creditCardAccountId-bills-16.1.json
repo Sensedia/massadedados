@@ -1,58 +1,6 @@
 {
   "data": [
     {
-      "billId": "hzdx8qp1-4r6o-0fa9-ows7-xi8xj9dkocem",
-      "dueDate": "2021-04-10",
-      "billTotalAmount": 3501.6530,
-      "billTotalAmountCurrency": "BRL",
-      "billMinimumAmount": 1500.0930,
-      "billMinimumAmountCurrency": "BRL",
-      "isInstalment": true,
-      "financeCharges": [
-        {
-          "type": "IOF",
-          "additionalInfo": "NA",
-          "amount": 1.5600,
-          "currency": "BRL"
-        }
-      ],
-      "payments": [
-        {
-          "valueType": "VALOR_PAGAMENTO_FATURA_REALIZADO",
-          "paymentDate": "2021-04-10",
-          "paymentMode": "DEBITO_CONTA_CORRENTE",
-          "amount": 3501.6530,
-          "currency": "BRL"
-        }
-      ]
-    },
-    {
-      "billId": "b399h4w1-45sw-1e4x-ruy6-ao8486e8c0bu",
-      "dueDate": "2021-03-10",
-      "billTotalAmount": 3501.6530,
-      "billTotalAmountCurrency": "BRL",
-      "billMinimumAmount": 1500.0930,
-      "billMinimumAmountCurrency": "BRL",
-      "isInstalment": true,
-      "financeCharges": [
-        {
-          "type": "IOF",
-          "additionalInfo": "NA",
-          "amount": 1.5600,
-          "currency": "BRL"
-        }
-      ],
-      "payments": [
-        {
-          "valueType": "VALOR_PAGAMENTO_FATURA_REALIZADO",
-          "paymentDate": "2021-03-10",
-          "paymentMode": "DEBITO_CONTA_CORRENTE",
-          "amount": 3501.6530,
-          "currency": "BRL"
-        }
-      ]
-    },
-    {
       "billId": "39hf1zal-l7r2-opuw-r460-5gn6pe4dum3b",
       "dueDate": "2021-02-10",
       "billTotalAmount": 3501.6530,
@@ -83,8 +31,8 @@
     "self": "https://api.bradesco.com/open-banking/credit-cards-accounts/v1/n7i2bry1-b3nu-lm8o-m4rr-7g6i88n0aodx/bills"
   },
   "meta": {
-    "totalRecords": 3,
+    "totalRecords": 1,
     "totalPages": 1,
-    "requestDateTime": "2021-04-10T00:00:00Z"
+    "requestDateTime": "2021-02-10T00:00:00Z"
   }
 }

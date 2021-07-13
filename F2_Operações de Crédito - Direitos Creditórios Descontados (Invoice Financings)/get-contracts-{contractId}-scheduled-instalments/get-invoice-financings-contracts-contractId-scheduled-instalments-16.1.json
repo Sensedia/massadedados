@@ -1,11 +1,11 @@
 {
   "data": {
     "typeNumberOfInstalments": "SEM_PRAZO_TOTAL",
-    "totalNumberOfInstalments": 0,
+    "totalNumberOfInstalments": 4,
     "typeContractRemaining": "SEM_PRAZO_REMANESCENTE ",
-    "contractRemainingNumber": 0,
+    "contractRemainingNumber": 4,
     "paidInstalments": 0,
-    "dueInstalments": 5,
+    "dueInstalments": 1,
     "pastDueInstalments": 0,
     "balloonPayments": [
       {
