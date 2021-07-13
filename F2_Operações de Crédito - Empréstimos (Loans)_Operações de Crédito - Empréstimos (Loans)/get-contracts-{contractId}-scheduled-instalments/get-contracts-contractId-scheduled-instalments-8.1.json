@@ -9,15 +9,15 @@
         "pastDueInstalments": 0,
         "balloonPayments": [
             {
-                "dueDate": "2019-12-30",
-                "currency": "BRL",
-                "amount": 17500.0000
-            },
-            {
                 "dueDate": "2020-07-19",
                 "currency": "BRL",
                 "amount": 7500.0000
-            }
+            },
+            {
+                "dueDate": "2019-12-30",
+                "currency": "BRL",
+                "amount": 17500.0000
+            }            
         ]
     },
     "links": {
