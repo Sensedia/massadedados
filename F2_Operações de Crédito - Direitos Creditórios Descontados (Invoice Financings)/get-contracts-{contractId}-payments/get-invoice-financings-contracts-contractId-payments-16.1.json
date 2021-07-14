@@ -4,11 +4,10 @@
     "contractOutstandingBalance": 342230.0000,
     "releases": [
       {
-        "paymentId": "NA",
         "isOverParcelPayment": false,
         "instalmentId": "bdb90d7c-10a4-351e-b62e-8435d531492c",
-        "paidDate": "NA",
-        "currency": "NA",
+        "paidDate": "2021-06-01",
+        "currency": "BRL",
         "paidAmount": 0.0000,
         "overParcel": {
           "fees": [
@@ -20,7 +19,7 @@
           ],
           "charges": [
             {
-              "chargeType": "NA",
+              "chargeType": "JUROS_REMUNERATORIOS_POR_ATRASO",
               "chargeAdditionalInfo": "NA",
               "chargeAmount": 0.0000
             }

@@ -5,7 +5,7 @@
     "typeContractRemaining": "SEM_PRAZO_REMANESCENTE ",
     "contractRemainingNumber": 4,
     "paidInstalments": 0,
-    "dueInstalments": 1,
+    "dueInstalments": 4,
     "pastDueInstalments": 0,
     "balloonPayments": [
       {
