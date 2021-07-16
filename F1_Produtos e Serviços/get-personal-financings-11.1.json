@@ -1,0 +1,89 @@
+{
+  "data": {
+    "brand": {
+      "name": "Banco Inter S.A.",
+      "companies": [
+        {
+          "cnpjNumber": "00416968000101",
+          "name": "Banco Inter S.A.",
+          "urlComplementaryList": "https://api.baninter.com/complementarylist",
+          "personalFinancings": [
+            {
+              "type": "FINANCIAMENTO_IMOBILIARIO_SISTEMA_FINANCEIRO_HABITACAO_SFH",
+              "fees": {
+                "services": [
+                  {
+                    "name": "Avaliação, Reavaliação e Substituição de Bens Recebidos em Garantia",
+                    "code": "AQBAM009",
+                    "chargingTriggerInfo": "R$ 570.00 Por solicitação",
+                    "prices": [
+                      {
+                        "interval": "1_FAIXA",
+                        "value": "2000.00",
+                        "currency": "BRL",
+                        "customers": {
+                          "rate": "0.0390"
+                        }
+                      },
+                      {
+                        "interval": "1_FAIXA",
+                        "value": "2000.00",
+                        "currency": "BRL",
+                        "customers": {
+                          "rate": "0.0700"
+                        }
+                      }
+                      
+                    ],
+                    "minimum": {
+                      "value": "1350.00",
+                      "currency": "BRL"
+                    },
+                    "maximum": {
+                      "value": "8800.00",
+                      "currency": "BRL"
+                    }
+                  }
+                ]
+              },
+              "interestRates": [
+                {
+                  "referentialRateIndexer": "PRE_FIXADO",
+                  "rate": "0.03",
+                  "applications": [
+                    {
+                      "interval": "1_FAIXA",
+                      "indexer": {
+                        "rate": "0.0390"
+                      },
+                      "customers": {
+                        "rate": "0.0300"
+                      }
+                    }
+                  ],
+                  "minimumRate": "0.0390",
+                  "maximumRate": "0.0700"
+                }
+              ],
+              "requiredWarranties": [
+                "CESSAO_DIREITOS_CREDITORIOS"
+              ],
+              "termsConditions": "https://api.baninter.com/personal_financing"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "links": {
+    "self": "https://api.baninter.com/open-banking/products-services/v1/personal_financing",
+    "first": "https://api.baninter.com/open-banking/products-services/v1/personal_financing",
+    "prev": "string",
+    "next": "string",
+    "last": "https://api.baninter.com/open-banking/products-services/v1/personal_financing"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1
+  }
+}

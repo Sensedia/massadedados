@@ -1,0 +1,76 @@
+{
+  "data": {
+    "brand": {
+      "name": "Banco Inter S.A.",
+      "companies": [
+        {
+          "cnpjNumber": "00416968000101",
+          "name": "Banco Inter S.A.",
+          "urlComplementaryList": "https://api.baninter.com/complementarylist",
+          "personalUnarrangedAccountOverdraft": [
+            {
+              "fees": {
+                "priorityServices": [
+                  {
+                    "name": "CONCESSAO_ADIANTAMENTO_DEPOSITANTE",
+                    "code": "ADIANT_DEPOSITANTE",
+                    "chargingTriggerInfo": "",
+                    "prices": [
+                      {
+                        "interval": "1_FAIXA",
+                        "value": "500.00",
+                        "currency": "BRL",
+                        "customers": {
+                          "rate": "0.1500"
+                        }
+                      }
+                    ],
+                    "minimum": {
+                      "value": "430.00",
+                      "currency": "BRL"
+                    },
+                    "maximum": {
+                      "value": "2200.00",
+                      "currency": "BRL"
+                    }
+                  }
+                ]
+              },
+              "interestRates": [
+                {
+                  "referentialRateIndexer": "PRE_FIXADO",
+                  "rate": "0.65",
+                  "applications": [
+                    {
+                      "interval": "1_FAIXA",
+                      "indexer": {
+                        "rate": "0.0165"
+                      },
+                      "customers": {
+                        "rate": "0.1540"
+                      }
+                    }
+                  ],
+                  "minimumRate": "0.0067",
+                  "maximumRate": "0.8254"
+                }
+              ],
+              "termsConditions": "https://api.baninter.com/personal_unarranged_account_overdraft"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "links": {
+    "self": "https://api.baninter.com/open-banking/products-services/v1/personal_unarranged_account_overdraft",
+    "first": "https://api.baninter.com/open-banking/products-services/v1/personal_unarranged_account_overdraft",
+    "prev": "string",
+    "next": "string",
+    "last": "https://api.baninter.com/open-banking/products-services/v1/personal_unarranged_account_overdraft"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1
+  }
+}

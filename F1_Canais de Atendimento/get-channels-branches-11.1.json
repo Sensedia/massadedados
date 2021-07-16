@@ -1,0 +1,102 @@
+{
+  "data": {
+    "brand": {
+      "name": "Banco Inter S.A.",
+      "companies": [
+        {
+          "name": "Banco Inter S.A.",
+          "cnpjNumber": "45086338000178",
+          "urlComplementaryList": "https://api.baninter.com/branches-banking",
+          "branches": [
+            {
+              "identification": {
+                "type": "UNIDADE_ADMINISTRATIVA_DESMEMBRADA",
+                "code": "0001",
+                "checkDigit": "5",
+                "name": "Matriz",
+                "relatedBranch": "0001",
+                "openingDate": "2008-01-02"
+              },
+              "postalAddress": {
+                "address": "v. Barbacena, 1219",
+                "additionalInfo": "NA",
+                "districtName": "Barro Preto",
+                "townName": "Belo Horizonte",
+                "ibgeCode": "3106200",
+                "countrySubDivision": "MG",
+                "postCode": "30190924",
+                "country": "Brasil",
+                "countryCode": "BRA",
+                "geographicCoordinates": {
+                  "latitude": "-19.9191",
+                  "longitude": "-43.9387"
+                }
+              },
+              "availability": {
+                "standards": [
+                  {
+                    "weekday": "SEGUNDA_FEIRA",
+                    "openingTime": "10:00:57Z",
+                    "closingTime": "16:00:57Z"
+                  },
+                  {
+                    "weekday": "TERCA_FEIRA",
+                    "openingTime": "10:00:57Z",
+                    "closingTime": "16:00:57Z"
+                  },
+                  {
+                    "weekday": "QUARTA_FEIRA",
+                    "openingTime": "10:00:57Z",
+                    "closingTime": "16:00:57Z"
+                  },
+                  {
+                    "weekday": "QUINTA_FEIRA",
+                    "openingTime": "10:00:57Z",
+                    "closingTime": "16:00:57Z"
+                  },
+                  {
+                    "weekday": "SEXTA_FEIRA",
+                    "openingTime": "10:00:57Z",
+                    "closingTime": "16:00:57Z"
+                  }
+                ],
+                "exception": "Exceto feriados municipais, estaduais e nacionais",
+                "isPublicAccessAllowed": true
+              },
+              "phones": [
+                {
+                  "type": "FIXO",
+                  "countryCallingCode": "55",
+                  "areaCode": "31",
+                  "number": " 30034070"
+                }
+              ],
+              "services": [
+                {
+                  "name": "OUTROS_PRODUTOS_SERVICOS",
+                  "code": "Sede Administrativa"
+                },
+                {
+                  "name": "INFORMACOES",
+                  "code": "INFORMACOES",
+                  "additionalInfo": "NA"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "links": {
+    "self": "https://api.baninter.com/open-banking/channels/v1/branches",
+    "first": "https://api.baninter.com/open-banking/channels/v1/branches",
+    "prev": "null",
+    "next": "null",
+    "last": "https://api.baninter.com/open-banking/channels/v1/branches"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "data": {
+    "status": [
+      {
+        "code": "OK",
+        "explanation": "NA",
+        "detectionTime": "NA",
+        "expectedResolutionTime": "NA",
+        "updateTime": "2021-07-13T01:00:00Z",
+        "unavailableEndpoints": [
+          ""
+        ]
+      }
+    ]
+  },
+  "links": {
+    "self": "https://api.baninter.com/open-banking/channels/v1/status",
+    "first": "https://api.baninter.com/open-banking/channels/v1/status",
+    "prev": "string",
+    "next": "string",
+    "last": "https://api.baninter.com/open-banking/channels/v1/status"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1
+  }
+}

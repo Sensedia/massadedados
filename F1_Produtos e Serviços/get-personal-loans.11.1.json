@@ -1,0 +1,97 @@
+{
+  "data": {
+    "brand": {
+      "name": "Banco Inter S.A.",
+      "companies": [
+        {
+          "cnpjNumber": "00416968000101",
+          "name": "Banco Inter S.A.",
+          "urlComplementaryList": "https://api.baninter.com/mobile-banking",
+          "personalLoans": [
+            {
+              "type": "EMPRESTIMO_CREDITO_PESSOAL_CONSIGNADO",
+              "fees": {
+                "services": [
+                  {
+                    "name": "CET",
+                    "code": "NA",
+                    "chargingTriggerInfo": "mínimo de 12,68% e máximo de 28,18% ao ano",
+                    "prices": [
+                      {
+                        "interval": "1_FAIXA",
+                        "value": "2000.00",
+                        "currency": "BRL",
+                        "customers": {
+                          "rate": "0.1500"
+                        }
+                      }
+                ]
+              },
+              "interestRates": [
+                {
+                  "referentialRateIndexer": "PRE_FIXADO",
+                  "rate": "0.15",
+                  "applications": [
+                    {
+                      "interval": "1_FAIXA",
+                      "indexer": {
+                        "rate": "0.8700"
+                      },
+                      "customers": {
+                        "rate": "0.1500"
+                      }
+                    },
+                    {
+                      "interval": "1_FAIXA",
+                      "indexer": {
+                        "rate": "0.8700"
+                      },
+                      "customers": {
+                        "rate": "0.1500"
+                      }
+                    },
+                    {
+                      "interval": "1_FAIXA",
+                      "indexer": {
+                        "rate": "0.8700"
+                      },
+                      "customers": {
+                        "rate": "0.1500"
+                      }
+                    },
+                    {
+                      "interval": "1_FAIXA",
+                      "indexer": {
+                        "rate": "0.8700"
+                      },
+                      "customers": {
+                        "rate": "0.1500"
+                      }
+                    }
+                  ],
+                  "minimumRate": "0.0456",
+                  "maximumRate": "0.6865"
+                }
+              ],
+              "requiredWarranties": [
+                "CESSAO_DIREITOS_CREDITORIOS"
+              ],
+              "termsConditions": "https://empresaa1.com/personal_loans"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "links": {
+    "self": "https://api.baninter.com/open-banking/products-services/v1/<resource>",
+    "first": "https://api.baninter.com/open-banking/products-services/v1/<resource>",
+    "prev": "string",
+    "next": "string",
+    "last": "https://api.baninter.com/open-banking/products-services/v1/<resource>"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1
+  }
+}

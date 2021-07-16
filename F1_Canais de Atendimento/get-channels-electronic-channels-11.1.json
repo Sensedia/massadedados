@@ -1,0 +1,68 @@
+{
+  "data": {
+    "brand": {
+      "name": "Banco Inter S.A.",
+      "companies": [
+        {
+          "name": "Banco Inter S.A.",
+          "cnpjNumber": "00416968000101",
+          "urlComplementaryList": "https://api.baninter.com/branches-banking",
+          "electronicChannels": [
+            {
+              "identification": {
+                "type": "INTERNET_BANKING",
+                "additionalInfo": "NA",
+                "urls": [
+                  "https://bancointer.com.br/internet-banking"
+                ]
+              },
+              "services": [
+                {
+                  "name": "ABERTURA_CONTAS_DEPOSITOS_OU_PAGAMENTO_PRE_PAGA",
+                  "code": "ABRE_CONTA_DEPOSITO_OU_PRE_PAGA",
+                  "additionalInfo": "NA"
+                },
+                {
+                  "name": "RECEBIMENTOS_PAGAMENTOS_QUALQUER_NATUREZA",
+                  "code": "RECEBE_PAGA_QUALQUER_NATUREZA",
+                  "additionalInfo": "NA"
+                },
+                {
+                  "name": "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS_CONTAS_PAGAMENTOS",
+                  "code": "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS_PAGTOS",
+                  "additionalInfo": "NA"
+                },
+                {
+                  "name": "APLICACOES_RESGATES_INVESTIMENTOS",
+                  "code": "APLICA_RESGATA_INVESTIMENTOS",
+                  "additionalInfo": "NA"
+                },
+                {
+                  "name": "EXECUCAO_ATIVA_PASSIVA_ORDENS_PAGAMENTO_SOLICITACAO_CLIENTES_USUARIOS",
+                  "code": "EXECUCAO_ATIVA_PASSIVA_ORDENS_PAGTO",
+                  "additionalInfo": "NA"
+                },
+                {
+                  "name": "OPERACOES_CREDITO_BEM_COMO_OUTROS_SERVICOS_PRESTADOS_ACOMPANHAMENTO_OPERACAO",
+                  "code": "OPERA_CREDITO_OUTROS_SERVICOS_ACOMPANHA_OPERACAO",
+                  "additionalInfo": "NA"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "links": {
+    "self": "https://api.baninter.com/open-banking/channels/v1/electronic-channels",
+    "first": "https://api.baninter.com/open-banking/channels/v1/electronic-channels",
+    "prev": "null",
+    "next": "null",
+    "last": "https://api.baninter.com/open-banking/channels/v1/electronic-channels"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1
+  }
+}

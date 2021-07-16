@@ -1,0 +1,21 @@
+{
+  "data": [
+    {
+      "outageTime": "2021-07-21T02:30:00Z",
+      "duration": "PT2H00M",
+      "isPartial": false,
+      "explanation": "Atualização do certificado de segurança"
+    }
+  ],
+  "links": {
+    "self": "https://api.baninter.com/open-banking/channels/v1/outages",
+    "first": "https://api.baninter.com/open-banking/channels/v1/outages",
+    "prev": "string",
+    "next": "string",
+    "last": "https://api.baninter.com/open-banking/channels/v1/outages"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1
+  }
+}

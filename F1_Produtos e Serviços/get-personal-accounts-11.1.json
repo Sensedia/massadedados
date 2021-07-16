@@ -1,0 +1,179 @@
+{
+  "data": {
+    "brand": {
+      "name": "Banco Inter S.A.",
+      "companies": [
+        {
+          "cnpjNumber": "00416968000101",
+          "name": "Banco Inter S.A.",
+          "urlComplementaryList": "https://api.baninter.com/complementarylist",
+          "personalAccounts": [
+            {
+              "type": "CONTA_DEPOSITO_A_VISTA",
+              "fees": {
+                "priorityServices": [
+                  {
+                    "name": "CONFECCAO_CADASTRO_INICIO_RELACIONAMENTO",
+                    "code": "CADASTRO",
+                    "chargingTriggerInfo": "NA",
+                    "prices": [
+                      {
+                        "interval": "NA",
+                        "value": "0.00",
+                        "currency": "BRL",
+                        "customers": {
+                          "rate": "0.0000"
+                        }
+                      }
+                  },
+				  {
+                    "name": "FORNECIMENTO_2_VIA_CARTAO_FUNCAO_DEBITO",
+                    "code": "2_VIA_CARTAO_DEBITO",
+                    "chargingTriggerInfo": "NA",
+                    "prices": [
+                      {
+                        "interval": "NA",
+                        "value": "0.00",
+                        "currency": "BRL",
+                        "customers": {
+                          "rate": "0.0000"
+                        }
+                      }
+                  },
+				  {
+                    "name": "FORNECIMENTO_EXTRATO_MENSAL_CONTA_DEPOSITOS_A_VISTA_E_POUPANCA_TERMINAL_AUTOATENDIMENTO",
+                    "code": "EXTRATO_MES_P",
+                    "chargingTriggerInfo": "NA",
+                    "prices": [
+                      {
+                        "interval": "NA",
+                        "value": "0.00",
+                        "currency": "BRL",
+                        "customers": {
+                          "rate": "0.0000"
+                        }
+                      }
+                  },
+				  {
+                    "name": "TRANSFERENCIA_TED_INTERNET",
+                    "code": "TED_INTERNET",
+                    "chargingTriggerInfo": "NA",
+                    "prices": [
+                      {
+                        "interval": "NA",
+                        "value": "0.00",
+                        "currency": "BRL",
+                        "customers": {
+                          "rate": "0.0000"
+                        }
+                      }
+                  },
+				  {
+                    "name": "UTILIZACAO_CANAIS_ATENDIMENTO_RETIRADA_ESPECIE_BRASIL",
+                    "code": "SAQUE_CARTAO_BRASIL",
+                    "chargingTriggerInfo": "NA",
+                    "prices": [
+                      {
+                        "interval": "NA",
+                        "value": "0.00",
+                        "currency": "BRL",
+                        "customers": {
+                          "rate": "0.0000"
+                        }
+                      }
+                  }
+                ],
+                "otherServices": [
+                  {
+                    "name": "NA",
+                    "code": "NA",
+                    "chargingTriggerInfo": "NA",
+                    "prices": [
+                      {
+                        "interval": "NA",
+                        "value": "0.00",
+                        "currency": "BRL",
+                        "customers": {
+                          "rate": "0.0000"
+                        }
+                      }
+                    ],
+                    "minimum": {
+                      "value": "0.00",
+                      "currency": "BRL"
+                    },
+                    "maximum": {
+                      "value": "0.00",
+                      "currency": "BRL"
+                    }
+                  }
+                ]
+              },
+              "serviceBundles": [
+                {
+                  "name": "",
+                  "services": [
+                    {
+                      "code": "MOBILE_BANKING",
+                      "chargingTriggerInfo": "NA",
+                      "eventLimitQuantity": "2",
+                      "freeEventQuantity": "1"
+                    }
+                  ],
+                  "prices": [
+                    {
+                      "interval": "NA",
+                      "monthlyFee": "0.00",
+                      "currency": "BRL",
+                      "customers": {
+                        "rate": "0.0000"
+                      }
+                    }
+                  ],
+                  "minimum": {
+                    "value": "0.00",
+                    "currency": "BRL"
+                  },
+                  "maximum": {
+                    "value": "0.00",
+                    "currency": "BRL"
+                  }
+                }
+              ],
+              "openingClosingChannels": [
+                "MOBILE_BANKING"
+              ],
+              "additionalInfo": "NA",
+              "transactionMethods": [
+                "MOVIMENTACAO_ELETRONICA"
+              ],
+              "termsConditions": {
+                "minimumBalance": {
+                  "value": "0.0000",
+                  "currency": "BRL"
+                },
+                "elegibilityCriteriaInfo": "https://api.baninter.com/mobile-banking",
+                "closingProcessInfo": "https://api.baninter.com/mobile-banking"
+              },
+              "incomeRate": {
+                "savingAccount": "NA",
+                "prepaidPaymentAccount": "NA"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "links": {
+    "self": "https://api.baninter.com/open-banking/products-services/v1/personal_accounts",
+    "first": "https://api.baninter.com/open-banking/products-services/v1/personal_accounts",
+    "prev": "string",
+    "next": "string",
+    "last": "https://api.baninter.com/open-banking/products-services/v1/personal_accounts"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1
+  }
+}

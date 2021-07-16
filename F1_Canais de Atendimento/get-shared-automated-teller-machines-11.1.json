@@ -1,0 +1,100 @@
+{
+  "data": {
+    "brand": {
+      "name": "Banco Inter S.A.",
+      "companies": [
+        {
+          "name": "Banco Inter S.A.",
+          "urlComplementaryList": "https://api.baninter.com/complementarylist",
+          "cnpjNumber": "00416968000101",
+          "sharedAutomatedTellerMachines": [
+            {
+              "identification": {
+                "ownerName": "Marina Rodrigues Nunes"
+              },
+              "postalAddress": {
+                "address": "RODOVIA RS 040 KM 18, 3536",
+                "additionalInfo": "NA",
+                "districtName": "AGUAS CLARAS",
+                "townName": "VIAMAO",
+                "ibgeCode": "4323002",
+                "countrySubDivision": "RS",
+                "postCode": "94760970",
+                "country": "Brasil",
+                "countryCode": "BRA",
+                "geographicCoordinates": {
+                  "latitude": "-30.0722",
+                  "longitude": "-51.0970"
+                }
+              },
+              "availability": {
+                "standards": [
+                  {
+                    "weekday": "SEGUNDA_FEIRA",
+                    "openingTime": "08:00:57Z",
+                    "closingTime": "22:00:57Z"
+                  },
+				  {
+                    "weekday": "TERCA_FEIRA",
+                    "openingTime": "08:00:57Z",
+                    "closingTime": "22:00:57Z"
+                  },
+				  ,
+				  {
+                    "weekday": "QUARTA_FEIRA",
+                    "openingTime": "08:00:57Z",
+                    "closingTime": "22:00:57Z"
+                  },
+				  ,
+				  {
+                    "weekday": "QUINTA_FEIRA",
+                    "openingTime": "08:00:57Z",
+                    "closingTime": "22:00:57Z"
+                  },
+				  ,
+				  {
+                    "weekday": "SEXTA_FEIRA",
+                    "openingTime": "08:00:57Z",
+                    "closingTime": "22:00:57Z"
+                  },
+				  ,
+				  {
+                    "weekday": "SABADO",
+                    "openingTime": "08:00:57Z",
+                    "closingTime": "22:00:57Z"
+                  },
+				  ,
+				  {
+                    "weekday": "DOMINGO",
+                    "openingTime": "08:00:57Z",
+                    "closingTime": "22:00:57Z"
+                  }
+                ],
+                "exception": "NA",
+                "isPublicAccessAllowed": true
+              },
+              "services": [
+                {
+                  "name": "SAQUE_MOEDA_EM_ESPECIE",
+                  "code": "SAQUE_MOEDA_EM_ESPECIE",
+                  "additionalInfo": "NA"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "links": {
+    "self": "https://api.baninter.com/open-banking/channels/v1/<resource>",
+    "first": "https://api.baninter.com/open-banking/channels/v1/<resource>",
+    "prev": "string",
+    "next": "string",
+    "last": "https://api.baninter.com/open-banking/channels/v1/<resource>"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1
+  }
+}

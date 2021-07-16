@@ -1,0 +1,110 @@
+{
+  "data": {
+    "brand": {
+      "name": "Banco Inter S.A.",
+      "companies": [
+        {
+          "cnpjNumber": "00416968000101",
+          "name": "Banco Inter S.A.	",
+          "urlComplementaryList": "https://api.baninter.com/complementarylist",
+          "personalCreditCards": [
+            {
+              "name": "Cartão Gold",
+              "identification": {
+                "product": {
+                  "type": "GOLD",
+                  "additionalInfo": "NA"
+                },
+                "creditCard": {
+                  "network": "MASTERCARD",
+                  "additionalInfo": "NA"
+                }
+              },
+              "rewardsProgram": {
+                "hasRewardProgram": true,
+                "rewardProgramInfo": "https://api.baninter.com/credit_cards_rewards"
+              },
+              "fees": {
+                "services": [
+                  {
+                    "name": "ANUIDADE_CARTAO_BASICO_NACIONAL",
+                    "code": "ANUIDADE_NACIONAL",
+                    "chargingTriggerInfo": "",
+                    "prices": [
+                      {
+                        "interval": "NA",
+                        "value": "00.00",
+                        "currency": "BRL",
+                        "customers": {
+                          "rate": "0.0000"
+                        }
+                      }
+                ]
+              },
+              "interest": {
+                "rates": [
+                  {
+                    "referentialRateIndexer": "SEM_INDEXADOR_TAXA",
+                    "rate": "0.0000",
+                    "applications": [
+                      {
+                        "interval": "NA",
+                        "indexer": {
+                          "rate": "0.0000"
+                        }
+					  }
+                    ],
+                    "minimumRate": "0.0456",
+                    "maximumRate": "0.6865"
+                  }
+                ],
+                "instalmentRates": [
+                  {
+                    "referentialRateIndexer": "SEM_INDEXADOR_TAXA",
+                    "rate": "0.15",
+                    "applications": [
+                      {
+                        "interval": "NA",
+                        "indexer": {
+                          "rate": "0.0000"
+                        },
+                        "customers": {
+                          "rate": "0.0000"
+                        }
+                      }
+                    ],
+                    "minimumRate": "0.0000",
+                    "maximumRate": "0.0000"
+                  }
+                ],
+                "otherCredits": [
+                  {
+                    "code": "SAQUE_A_CREDITO",
+                    "additionalInfo": "NA"
+                  }
+                ]
+              },
+              "termsConditions": {
+                "minimumFeeRate": "0.00",
+                "additionalInfo": "NA",
+                "elegibilityCriteriaInfo": "https://api.baninter.com/creditcards_elegibility_criteria",
+                "closingProcessInfo": "https://api.baninter.com/creditcards_closing_process"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "links": {
+    "self": "https://api.baninter.com/open-banking/products-services/v1/credit_cards",
+    "first": "https://api.baninter.com/open-banking/products-services/v1/credit_cards",
+    "prev": "string",
+    "next": "string",
+    "last": "https://api.baninter.com/open-banking/products-services/v1/credit_cards"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1
+  }
+}

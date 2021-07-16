@@ -1,0 +1,73 @@
+{
+  "data": {
+    "brand": {
+      "name": "Banco Inter S.A.",
+      "companies": [
+        {
+          "name": "Banco Inter S.A.",
+          "cnpjNumber": "00416968000101",
+          "urlComplementaryList": "https://api.baninter.com/branches-banking",
+          "phoneChannels": [
+            {
+              "identification": {
+                "type": "CENTRAL_TELEFONICA",
+                "phones": [
+                  {
+                    "countryCallingCode": "55",
+                    "areaCode": "31",
+                    "number": "30034070",
+                    "additionalInfo": "NA"
+                  }
+                ]
+              },
+              "services": [
+                {
+                  "name": "INFORMACOES",
+                  "code": "INFORMACOES"
+                },
+                {
+                  "name": "RECLAMACOES",
+                  "code": "RECLAMACOES"
+                }
+              ]
+            },
+            {
+              "identification": {
+                "type": "SAC",
+                "phones": [
+                  {
+                    "countryCallingCode": "NA",
+                    "areaCode": "NA",
+                    "number": "08009409999",
+                    "additionalInfo": ""
+                  }
+                ]
+              },
+              "services": [
+                {
+                  "name": "RECLAMACOES",
+                  "code": "RECLAMACOES"
+                },
+                {
+                  "name": "INFORMACOES",
+                  "code": "INFORMACOES"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "links": {
+    "self": "https://api.baninter.com/open-banking/channels/v1/phone-channels",
+    "first": "https://api.baninter.com/open-banking/channels/v1/phone-channels",
+    "prev": "null",
+    "next": "null",
+    "last": "https://api.baninter.com/open-banking/channels/v1/phone-channels"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1
+  }
+}
