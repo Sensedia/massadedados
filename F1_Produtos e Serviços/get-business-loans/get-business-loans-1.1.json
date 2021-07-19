@@ -1,0 +1,112 @@
+{
+    "data": {
+        "brand": {
+            "name": "Banco Inter S.A.",
+            "companies": [
+                {
+                    "cnpjNumber": "00416968000101",
+                    "name": "Banco Inter S.A.",
+                    "urlComplementaryList": "https://api.baninter.com/mobile-banking",
+                    "businessLoans": [
+                        {
+                            "type": "EMPRESTIMO_CAPITAL_GIRO_ROTATIVO",
+                            "fees": {
+                                "services": [
+                                    {
+                                        "name": "Taxa de Abertura",
+                                        "code": "NA",
+                                        "chargingTriggerInfo": "1% do valor do contrato",
+                                        "prices": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "value": "1000.0000",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.6500"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "value": "2000.0000",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.1500"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "value": "3000.0000",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.2000"
+                                                }
+                                            }
+                                        ],
+                                        "minimum": {
+                                            "value": "850.0000",
+                                            "currency": "BRL"
+                                        },
+                                        "maximum": {
+                                            "value": "3500.00",
+                                            "currency": "BRL"
+                                        }
+                                    }
+                                ]
+                            },
+                            "interestRates": [
+                                {
+                                    "referentialRateIndexer": "PRE_FIXADO",
+                                    "rate": "0.1000",
+                                    "applications": [
+                                        {
+                                            "interval": "1_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0650"
+                                            },
+                                            "customers": {
+                                                "rate": "0.6500"
+                                            }
+                                        },
+                                        {
+                                            "interval": "2_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0150"
+                                            },
+                                            "customers": {
+                                                "rate": "0.1500"
+                                            }
+                                        },
+                                        {
+                                            "interval": "3_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0200"
+                                            },
+                                            "customers": {
+                                                "rate": "0.2000"
+                                            }
+                                        }
+                                    ],
+                                    "minimumRate": "0.0436",
+                                    "maximumRate": "0.6845"
+                                }
+                            ],
+                            "requiredWarranties": [
+                                "CESSAO_DIREITOS_CREDITORIOS",
+                                "HIPOTECA",
+                                "BENS_ARRENDADOS"
+                            ],
+                            "termsConditions": "https://api.baninter.com/personal_loans"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "links": {
+        "self": "https://api.baninter.com/open-banking/products-services/v1/business-loans"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1
+    }
+}

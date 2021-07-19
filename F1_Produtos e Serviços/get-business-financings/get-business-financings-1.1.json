@@ -1,0 +1,130 @@
+{
+    "data": {
+        "brand": {
+            "name": "Banco Inter S.A.",
+            "companies": [
+                {
+                    "cnpjNumber": "00416968000101",
+                    "name": "Banco Inter S.A.",
+                    "urlComplementaryList": "https://api.baninter.com/complementarylist",
+                    "businessFinancings": [
+                        {
+                            "type": "FINANCIAMENTO_IMOBILIARIO_SISTEMA_FINANCEIRO_HABITACAO_SFH",
+                            "fees": {
+                                "services": [
+                                    {
+                                        "name": "Financiamento de um apartamento para moradia",
+                                        "code": "APTO101",
+                                        "chargingTriggerInfo": "R$ 700.0000 Por solicitação",
+                                        "prices": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "value": "700.0000",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.6500"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "value": "900.0000",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.1500"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "value": "120.0000",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.1500"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "value": "40.0000",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0500"
+                                                }
+                                            }
+                                        ],
+                                        "minimum": {
+                                            "value": "40.0000",
+                                            "currency": "BRL"
+                                        },
+                                        "maximum": {
+                                            "value": "900.0000",
+                                            "currency": "BRL"
+                                        }
+                                    }
+                                ]
+                            },
+                            "interestRates": [
+                                {
+                                    "referentialRateIndexer": "INDICES_PRECOS_IPCA",
+                                    "rate": "0.9000",
+                                    "applications": [
+                                        {
+                                            "interval": "1_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0907"
+                                            },
+                                            "customers": {
+                                                "rate": "0.8000"
+                                            }
+                                        },
+                                        {
+                                            "interval": "2_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.1000"
+                                            },
+                                            "customers": {
+                                                "rate": "0.0500"
+                                            }
+                                        },
+                                        {
+                                            "interval": "3_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.3560"
+                                            },
+                                            "customers": {
+                                                "rate": "0.0500"
+                                            }
+                                        },
+                                        {
+                                            "interval": "4_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.9890"
+                                            },
+                                            "customers": {
+                                                "rate": "0.1000"
+                                            }
+                                        }
+                                    ],
+                                    "minimumRate": "0.9000",
+                                    "maximumRate": "6.2865"
+                                }
+                            ],
+                            "requiredWarranties": [
+                                "CESSAO_DIREITOS_CREDITORIOS",
+                                "CAUCAO",
+                                "PENHOR",
+                                "HIPOTECA"
+                            ],
+                            "termsConditions": "https://api.baninter.com/personal_financing"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "links": {
+        "self": "https://api.baninter.com/open-banking/products-services/v1/business-financings"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1
+    }
+}
