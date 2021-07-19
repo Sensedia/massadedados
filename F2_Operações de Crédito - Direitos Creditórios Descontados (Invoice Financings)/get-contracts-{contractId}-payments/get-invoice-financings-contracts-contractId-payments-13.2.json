@@ -9,13 +9,13 @@
         "instalmentId": "8777e891-e055-3fae-af61-26ba5f3c804f",
         "paidDate": "2021-04-28",
         "currency": "BRL",
-        "paidAmount": 71924.9700,
+        "paidAmount": 71925.8549,
         "overParcel": {
           "fees": [
             {
               "feeName": "Manutenção de Serviço",
               "feeCode": "MANUTENCAO",
-              "feeAmount": 35.9625
+              "feeAmount": 35.9449
             }
           ],
           "charges": [

@@ -2,7 +2,7 @@
   "data": {
     "typeNumberOfInstalments": "MES",
     "totalNumberOfInstalments": 84,
-    "typeContractRemaining": "SEM_PRAZO_REMANESCENTE ",
+    "typeContractRemaining": "SEM_PRAZO_REMANESCENTE",
     "contractRemainingNumber": 79,
     "paidInstalments": 1,
     "dueInstalments": 83,

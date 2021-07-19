@@ -2,7 +2,7 @@
   "data": {
     "typeNumberOfInstalments": "ANO",
     "totalNumberOfInstalments": 1,
-    "typeContractRemaining": "ANO ",
+    "typeContractRemaining": "ANO",
     "contractRemainingNumber": 0,
     "paidInstalments": 1,
     "dueInstalments": 0,

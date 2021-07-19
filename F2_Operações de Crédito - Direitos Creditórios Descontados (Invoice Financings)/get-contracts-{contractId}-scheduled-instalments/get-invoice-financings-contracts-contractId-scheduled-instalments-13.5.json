@@ -2,7 +2,7 @@
   "data": {
     "typeNumberOfInstalments": "SEM_PRAZO_TOTAL",
     "totalNumberOfInstalments": 2,
-    "typeContractRemaining": "SEM_PRAZO_REMANESCENTE ",
+    "typeContractRemaining": "SEM_PRAZO_REMANESCENTE",
     "contractRemainingNumber": 0,
     "paidInstalments": 2,
     "dueInstalments": 0,

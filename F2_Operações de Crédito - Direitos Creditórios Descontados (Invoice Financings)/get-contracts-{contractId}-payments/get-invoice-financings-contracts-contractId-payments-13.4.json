@@ -9,13 +9,13 @@
         "instalmentId": "0320957a-3597-3b38-bea9-08847407e0f5",
         "paidDate": "2020-01-28",
         "currency": "BRL",
-        "paidAmount": 8806.9000,
+        "paidAmount": 8778.9727,
         "overParcel": {
           "fees": [
             {
               "feeName": "Manutenção de Serviço",
               "feeCode": "MANUTENCAO",
-              "feeAmount": 22.0172
+              "feeAmount": 21.8927
             }
           ],
           "charges": [
@@ -33,13 +33,13 @@
         "instalmentId": "0320957a-3597-3b38-bea9-08847407e0f4",
         "paidDate": "2019-11-28",
         "currency": "BRL",
-        "paidAmount": 8806.9000,
+        "paidAmount": 8778.9727,
         "overParcel": {
           "fees": [
             {
               "feeName": "Manutenção de Serviço",
               "feeCode": "MANUTENCAO",
-              "feeAmount": 22.0172
+              "feeAmount": 21.8927
             }
           ],
           "charges": [
@@ -57,13 +57,13 @@
         "instalmentId": "0320957a-3597-3b38-bea9-08847407e0f3",
         "paidDate": "2019-09-29",
         "currency": "BRL",
-        "paidAmount": 9795.2541,
+        "paidAmount": 9745.3096,
         "overParcel": {
           "fees": [
             {
               "feeName": "Manutenção de Serviço",
               "feeCode": "MANUTENCAO",
-              "feeAmount": 22.0172
+              "feeAmount": 21.8927
             }
           ],
           "charges": [
@@ -91,13 +91,13 @@
         "instalmentId": "0320957a-3597-3b38-bea9-08847407e0f2",
         "paidDate": "2019-07-28",
         "currency": "BRL",
-        "paidAmount": 8806.9000,
+        "paidAmount": 8778.9727,
         "overParcel": {
           "fees": [
             {
               "feeName": "Manutenção de Serviço",
               "feeCode": "MANUTENCAO",
-              "feeAmount": 22.0172
+              "feeAmount": 21.8927
             }
           ],
           "charges": [

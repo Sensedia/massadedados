@@ -3,8 +3,8 @@
     {
       "currency": "BRL",
       "warrantyType": "ALIENACAO_FIDUCIARIA",
-      "warrantySubType": "VEICULOS_AUTOMOTORES ",
-      "warrantyAmount": 105000.40
+      "warrantySubType": "VEICULOS_AUTOMOTORES",
+      "warrantyAmount": 105000.4000
     }
   ],
   "links": {

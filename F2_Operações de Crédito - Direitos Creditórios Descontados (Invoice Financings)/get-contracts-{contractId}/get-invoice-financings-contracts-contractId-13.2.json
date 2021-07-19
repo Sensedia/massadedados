@@ -6,7 +6,7 @@
     "productType": "DIREITOS_CREDITORIOS_DESCONTADOS",
     "productSubType": "OUTROS_TITULOS_DESCONTADOS",
     "contractDate": "2020-10-28",
-    "settlementDate": "NA",
+    "settlementDate": "2021-04-28",
     "contractAmount": 70000.0000,
     "currency": "BRL",
     "dueDate": "2021-04-28",
@@ -19,7 +19,7 @@
       {
         "taxType": "EFETIVA",
         "interestRateType": "COMPOSTO",
-        "taxPeriodicity": "AM",
+        "taxPeriodicity": "AA",
         "calculation": "30/365",
         "referentialRateIndexerType": "PRE_FIXADO",
         "referentialRateIndexerSubType": "PRE_FIXADO",

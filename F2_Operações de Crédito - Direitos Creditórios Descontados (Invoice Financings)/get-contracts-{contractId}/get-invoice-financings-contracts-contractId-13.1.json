@@ -20,7 +20,7 @@
       {
         "taxType": "EFETIVA",
         "interestRateType": "COMPOSTO",
-        "taxPeriodicity": "AM",
+        "taxPeriodicity": "AA",
         "calculation": "30/365",
         "referentialRateIndexerType": "PRE_FIXADO",
         "referentialRateIndexerSubType": "PRE_FIXADO",

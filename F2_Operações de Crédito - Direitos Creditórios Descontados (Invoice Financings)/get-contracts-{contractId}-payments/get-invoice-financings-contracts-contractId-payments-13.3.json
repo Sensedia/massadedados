@@ -13,9 +13,9 @@
         "overParcel": {
           "fees": [
             {
-              "feeName": "Manutenção de Serviço",
-              "feeCode": "MANUTENCAO",
-              "feeAmount": 22.0172
+              "feeName": "NA",
+              "feeCode": "NA",
+              "feeAmount": 0.0000
             }
           ],
           "charges": [
