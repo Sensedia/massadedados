@@ -19,7 +19,7 @@
             "LOANS_READ",
             "LOANS_SCHEDULED_INSTALMENTS_READ",
             "LOANS_PAYMENTS_READ",
-            "LOANS_WARRANTIES_READ"   
+            "LOANS_WARRANTIES_READ"
         ],
         "expirationDateTime": "2022-02-27T11:00:00Z"
     },

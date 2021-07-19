@@ -5,8 +5,7 @@
         "status": "AUTHORISED",
         "statusUpdateDateTime": "2021-05-28T10:45:00Z",
         "permissions": [
-			
-			"ACCOUNTS_READ",
+            "ACCOUNTS_READ",
             "ACCOUNTS_BALANCES_READ",
             "ACCOUNTS_TRANSACTIONS_READ",
             "ACCOUNTS_OVERDRAFT_LIMITS_READ",
@@ -15,7 +14,6 @@
             "LOANS_SCHEDULED_INSTALMENTS_READ",
             "LOANS_PAYMENTS_READ",
             "LOANS_WARRANTIES_READ"
-			
         ],
         "expirationDateTime": "2022-01-05T00:00:00Z"
     },

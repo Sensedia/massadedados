@@ -35,7 +35,6 @@
             "RESOURCES_READ"
         ],
         "expirationDateTime": "2022-02-01T00:00:00Z"
-        
     },
     "links": {
         "self": "https://opendata.api.bb.com.br/open-banking/consents/v1/consents/urn:bb:BB96825411"
