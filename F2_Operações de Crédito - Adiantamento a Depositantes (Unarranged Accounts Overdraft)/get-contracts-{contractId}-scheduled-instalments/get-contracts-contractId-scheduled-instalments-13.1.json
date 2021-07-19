@@ -1,11 +1,11 @@
 {
     "data": {
       "typeNumberOfInstalments": "MES",
-      "totalNumberOfInstalments": 12,
+      "totalNumberOfInstalments": 24,
       "typeContractRemaining": "MES",
-      "contractRemainingNumber": 8,
-      "paidInstalments": 4,
-      "dueInstalments": 8,
+      "contractRemainingNumber": 23,
+      "paidInstalments": 1,
+      "dueInstalments": 23,
       "pastDueInstalments": 0,
       "balloonPayments": [
         {
@@ -16,11 +16,11 @@
       ]
     },
     "links": {
-      "self": "https://api.baninter.com.br/open-banking/unarranged-accounts-overdraft/v1/contracts/5ef4185e-f1e5-n196-q51w-d5fv1e51f51s/scheduled-instalments"
+      "self": "https://opendata.api.bb.com.br/open-banking/unarranged-accounts-overdraft/v1/contracts/50232104-cd22-36aa-9a6f-725afdd55288/scheduled-instalments"
     },
     "meta": {
       "totalRecords": 1,
       "totalPages": 1,
-      "requestDateTime": "2021-05-15T00:00:00Z"
+      "requestDateTime": "2021-01-21T17:17:00Z"
     }
 }
