@@ -45,28 +45,28 @@
                         "standards": [
                           {
                             "weekday": "SEGUNDA_FEIRA",
-                            "openingTime": "08:00:57Z",
-                            "closingTime": "15:00:57Z"
+                            "openingTime": "08:00:00Z",
+                            "closingTime": "15:00:00Z"
                           },
                           {
                             "weekday": "TERCA_FEIRA",
-                            "openingTime": "08:00:57Z",
-                            "closingTime": "15:00:57Z"
+                            "openingTime": "08:00:00Z",
+                            "closingTime": "15:00:00Z"
                           },
                           {
                             "weekday": "QUARTA_FEIRA",
-                            "openingTime": "08:00:57Z",
-                            "closingTime": "15:00:57Z"
+                            "openingTime": "08:00:00Z",
+                            "closingTime": "15:00:00Z"
                           },
                           {
                             "weekday": "QUINTA_FEIRA",
-                            "openingTime": "08:00:57Z",
-                            "closingTime": "15:00:57Z"
+                            "openingTime": "08:00:00Z",
+                            "closingTime": "15:00:00Z"
                           },
                           {
                             "weekday": "SEXTA_FEIRA",
-                            "openingTime": "08:00:57Z",
-                            "closingTime": "15:00:57Z"
+                            "openingTime": "08:00:00Z",
+                            "closingTime": "15:00:00Z"
                           }
                         ],
                         "exception": "Exceto feriados municipais, estaduais e nacionais",

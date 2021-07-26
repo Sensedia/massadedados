@@ -6,7 +6,7 @@
         {
           "name": "COOPERATIVA DE CRÉDITO, POUPANÇA E INVESTIMENTO RIO PARANÁ - SICREDI RIO PARANÁ PR/SP",
           "cnpjNumber": "81206039000161",
-          "urlComplementaryList": "https://www.sicredi.com.br/site/localizar-agencia",
+          "urlComplementaryList": "https://www.sicredi.com.br/site/atendimento/telefones",
           "phoneChannels": [
             {
               "identification": {
@@ -20,13 +20,13 @@
                   },
                   {
                     "countryCallingCode": "55",
-                    "areaCode": "51",
+                    "areaCode": "NA",
                     "number": "08007247220",
                     "additionalInfo": "Informações, elogios e reclamações"
                   },
                   {
                     "countryCallingCode": "55",
-                    "areaCode": "51",
+                    "areaCode": "NA",
                     "number": "08007240525",
                     "additionalInfo": "Deficientes auditivos ou de fala"
                   }
@@ -58,7 +58,8 @@
               "services": [
                 {
                   "name": "OUTROS_PRODUTOS_SERVICOS",
-                  "code": "OUTROS_PRODUTOS_SERVICOS"
+                  "code": "OUTROS_PRODUTOS_SERVICOS",
+                  "additionalInfo":"Consultar andamento de reclamações"
                 }
               ]
             },
@@ -91,7 +92,8 @@
                 },
                 {
                   "name": "OUTROS_PRODUTOS_SERVICOS",
-                  "code": "OUTROS_PRODUTOS_SERVICOS"
+                  "code": "OUTROS_PRODUTOS_SERVICOS",
+                  "additionalInfo": "Consultas em geral"
                 }
               ]
             }
@@ -101,10 +103,12 @@
     }
   },
   "links": {
-    "self": "https://api.sicredi.com.br/open-banking/channels/v1/phone-channels?page=1&page-size=1"
+    "self": "https://api.sicredi.com.br/open-banking/channels/v1/phone-channels?page=1&page-size=1",
+    "next": "https://api.sicredi.com.br/open-banking/channels/v1/phone-channels?page=2&page-size=1",
+    "last": "https://api.sicredi.com.br/open-banking/channels/v1/phone-channels?page=50&page-size=1"
   },
   "meta": {
-    "totalRecords": 1,
-    "totalPages": 1
+    "totalRecords": 50,
+    "totalPages": 50
   }
 }
