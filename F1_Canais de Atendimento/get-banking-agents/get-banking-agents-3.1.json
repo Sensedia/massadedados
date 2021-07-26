@@ -124,7 +124,7 @@
   "links": {
     "self": "https://api.sicredi.com.br/open-banking/channels/v1/banking-agents?page=1&page-size=1",
     "next": "https://api.sicredi.com.br/open-banking/channels/v1/banking-agents?page=2&page-size=1",
-    "last": "https://api.sicredi.com.br/open-banking/channels/v1/banking-agents?page=20&page-size=1"
+    "last": "https://api.sicredi.com.br/open-banking/channels/v1/banking-agents?page=100&page-size=1"
   },
   "meta": {
     "totalRecords": 100,
