@@ -91,10 +91,13 @@
         }
     },
     "links": {
-        "self": "https://api.baninter.com/open-banking/channels/v1/banking-agents"
+        "self": "https://api.baninter.com/open-banking/channels/v1/banking-agents?page=1&page-size=1",
+        "first": "https://api.baninter.com/open-banking/channels/v1/banking-agents?page=1&page-size=1",
+        "next": "https://api.baninter.com/open-banking/channels/v1/banking-agents?page=2&page-size=1",
+        "last": "https://api.baninter.com/open-banking/channels/v1/banking-agents?page=7623&page-size=1"
     },
     "meta": {
-        "totalRecords": 1,
-        "totalPages": 1
+        "totalRecords": 7623,
+        "totalPages": 7623
     }
 }

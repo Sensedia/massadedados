@@ -147,10 +147,14 @@
         }
     },
     "links": {
-        "self": "https://api.baninter.com/open-banking/channels/v1/shared-automated-teller-machines"
+        "self": "https://api.baninter.com/open-banking/channels/v1/shared-automated-teller-machines?page=421&page-size=2",
+        "first": "https://api.baninter.com/open-banking/channels/v1/banking-agents?page=1&page-size=2",
+        "prev": "https://api.baninter.com/open-banking/channels/v1/banking-agents?page=420&page-size=2",
+        "next": "https://api.baninter.com/open-banking/channels/v1/banking-agents?page=422&page-size=2",
+        "last": "https://api.baninter.com/open-banking/channels/v1/banking-agents?page=9087&page-size=2"
     },
     "meta": {
-        "totalRecords": 1,
-        "totalPages": 1
+        "totalRecords": 18174,
+        "totalPages": 9087
     }
 }
