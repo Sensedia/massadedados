@@ -13,13 +13,13 @@
                                 "type": "SAC",
                                 "phones": [
                                     {
-                                        "countryCallingCode": "NA",
+                                        "countryCallingCode": "55",
                                         "areaCode": "NA",
                                         "number": "08006461515",
                                         "additionalInfo": "Bloqueios e cancelamentos"
                                     },
                                     {
-                                        "countryCallingCode": "NA",
+                                        "countryCallingCode": "55",
                                         "areaCode": "NA",
                                         "number": "08006481907",
                                         "additionalInfo": "Atendimento para deficientes auditivos e/ou de fala."
@@ -46,7 +46,7 @@
                                 "type": "OUVIDORIA",
                                 "phones": [
                                     {
-                                        "countryCallingCode": "NA",
+                                        "countryCallingCode": "55",
                                         "areaCode": "NA",
                                         "number": "08006442200",
                                         "additionalInfo": "NA"
@@ -78,13 +78,13 @@
                                         "additionalInfo": "Região de Porto Alegre"
                                     },
                                     {
-                                        "countryCallingCode": "NA",
+                                        "countryCallingCode": "55",
                                         "areaCode": "NA",
                                         "number": "08005418855",
                                         "additionalInfo": "Interior do Rio Grande do Sul"
                                     },
                                     {
-                                        "countryCallingCode": "NA",
+                                        "countryCallingCode": "55",
                                         "areaCode": "NA",
                                         "number": "08005418855",
                                         "additionalInfo": "Fora do Estado do Rio Grande do Sul"
@@ -120,7 +120,7 @@
                         },
                         {
                             "identification": {
-                                "type": "CHAT",
+                                "type": "OUTROS",
                                 "additionalInfo": "Whatsapp",
                                 "phones": [
                                     {

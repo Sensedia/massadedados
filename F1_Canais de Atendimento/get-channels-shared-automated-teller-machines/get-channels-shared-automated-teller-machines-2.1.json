@@ -50,17 +50,17 @@
                                         "closingTime": "23:00:00Z"
                                     },
                                     {
-                                        "weekday": "SABADO",
+                                        "weekday": "SEXTA_FEIRA",
                                         "openingTime": "01:00:00Z",
                                         "closingTime": "23:00:00Z"
                                     },
                                     {
-                                        "weekday": "DOMINGO",
+                                        "weekday": "SABADO",
                                         "openingTime": "00:00:00Z",
                                         "closingTime": "23:00:00Z"
                                     },
                                     {
-                                        "weekday": "SEGUNDA_FEIRA",
+                                        "weekday": "DOMINGO",
                                         "openingTime": "00:00:00Z",
                                         "closingTime": "23:00:00Z"
                                     }

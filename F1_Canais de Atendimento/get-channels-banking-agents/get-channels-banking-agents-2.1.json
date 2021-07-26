@@ -195,7 +195,7 @@
     "prev": "https://openbanking.banrisul.com.br/open-banking/channels/v1/banking-agents?page=49&page-size=2",
     "self": "https://openbanking.banrisul.com.br/open-banking/channels/v1/banking-agents?page=50&page-size=2",
     "next": "https://openbanking.banrisul.com.br/open-banking/channels/v1/banking-agents?page=51&page-size=2",
-    "last": "https://openbanking.banrisul.com.br/open-banking/channels/v1/banking-agents?page=425&page-size=2"
+    "last": "https://openbanking.banrisul.com.br/open-banking/channels/v1/banking-agents?page=213&page-size=2"
   },
   "meta": {
     "totalRecords": 425,

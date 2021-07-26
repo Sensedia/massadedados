@@ -12,7 +12,8 @@
                             "identification": {
                                 "type": "MOBILE_BANKING",
                                 "urls": [
-                                    "NA"
+                                    "https://play.google.com/store/apps/details?id=br.com.banrisul&hl=en&gl=US",
+                                    "https://apps.apple.com/br/app/banrisul-digital/id1177452393"
                                 ]
                             },
                             "services": [
@@ -41,14 +42,7 @@
                                     "code": "CANCELAMENTO"
                                 }
                             ]
-                        }
-                    ]
-                },
-                {
-                    "name": "SAC Banrisul",
-                    "cnpjNumber": "92702067000196",
-                    "urlComplementaryList": "https://www.banrisul.com.br/bob/link/bobw00hn_conteudo_detalhe2.aspx?secao_id=2460",
-                    "electronicChannels": [
+                        },
                         {
                             "identification": {
                                 "type": "SAC",
@@ -79,14 +73,7 @@
                                     "code": "CANCELAMENTO"
                                 }
                             ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Ouvidoria Banrisul",
-                    "cnpjNumber": "92702067000196",
-                    "urlComplementaryList": "https://www.banrisul.com.br/bob/link/bobw00hn_conteudo_detalhe2.aspx?secao_id=2461",
-                    "electronicChannels": [
+                        },
                         {
                             "identification": {
                                 "type": "OUVIDORIA",
@@ -100,14 +87,7 @@
                                     "code": "RECLAMACOES"
                                 }
                             ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Whatsapp Banrisul",
-                    "cnpjNumber": "92702067000196",
-                    "urlComplementaryList": "https://www.banrisul.com.br/bob/link/bobw00hn_promocao.aspx?secao_id=1617",
-                    "electronicChannels": [
+                        },
                         {
                             "identification": {
                                 "type": "CHAT",
@@ -130,14 +110,7 @@
                                     "additionalInfo": "Consórcio, Suporte às maquininhas Vero"
                                 }
                             ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Canal de Denúncias",
-                    "cnpjNumber": "92702067000196",
-                    "urlComplementaryList": "https://www.banrisul.com.br/bob/link/bobw00hn_conteudo_detalhe2.aspx?secao_id=3410",
-                    "electronicChannels": [
+                        },
                         {
                             "identification": {
                                 "type": "OUTROS",
@@ -152,14 +125,7 @@
                                     "code": "RECLAMACOES"
                                 }
                             ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Internet Banking",
-                    "cnpjNumber": "92702067000196",
-                    "urlComplementaryList": "https://www.banrisul.com.br/bob/link/bobw00hn_home.aspx?secao_id=15#homebanking",
-                    "electronicChannels": [
+                        },
                         {
                             "identification": {
                                 "type": "INTERNET_BANKING",
@@ -203,7 +169,7 @@
         "self": "https://openbanking.banrisul.com.br/open-banking/channels/v1/electronic-channels"
     },
     "meta": {
-        "totalRecords": 6,
+        "totalRecords": 1,
         "totalPages": 1
     }
 }
