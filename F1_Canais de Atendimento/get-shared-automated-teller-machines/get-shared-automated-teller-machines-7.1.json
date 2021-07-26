@@ -13,7 +13,6 @@
                             },
                             "postalAddress": {
                                 "address": "Av. Tocantins S/N",
-                                "additionalInfo": "NA",
                                 "districtName": "Taquaralto",
                                 "townName": "Palmas",
                                 "ibgeCode": "1721000",
@@ -138,8 +137,7 @@
                             "services": [
                                 {
                                     "name": "SAQUE_MOEDA_EM_ESPECIE",
-                                    "code": "SAQUE_MOEDA_EM_ESPECIE",
-                                    "additionalInfo": "NA"
+                                    "code": "SAQUE_MOEDA_EM_ESPECIE"
                                 }
                             ]
                         }

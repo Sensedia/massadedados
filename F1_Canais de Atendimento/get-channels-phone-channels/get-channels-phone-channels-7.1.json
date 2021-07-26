@@ -18,13 +18,13 @@
                                         "additionalInfo": "DDI '55'; DDD '31', 30034070, 'Capitais e regiões metropolitanas'"
                                     },
                                     {
-                                        "countryCallingCode": "NA",
+                                        "countryCallingCode": "55",
                                         "areaCode": "NA",
                                         "number": "08009400007",
                                         "additionalInfo": "Demais localidades"
                                     },
                                     {
-                                        "countryCallingCode": "NA",
+                                        "countryCallingCode": "55",
                                         "areaCode": "NA",
                                         "number": "08009797099",
                                         "additionalInfo": "Deficiente de fala e audição"
@@ -51,7 +51,7 @@
                                 "type": "SAC",
                                 "phones": [
                                     {
-                                        "countryCallingCode": "NA",
+                                        "countryCallingCode": "55",
                                         "areaCode": "NA",
                                         "number": "08009409999",
                                         "additionalInfo": "NA"
@@ -78,7 +78,7 @@
                                 "type": "OUVIDORIA",
                                 "phones": [
                                     {
-                                        "countryCallingCode": "NA",
+                                        "countryCallingCode": "55",
                                         "areaCode": "NA",
                                         "number": "08009407772",
                                         "additionalInfo": "NA"
