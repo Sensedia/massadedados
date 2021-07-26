@@ -6,7 +6,7 @@
                 {
                     "name": "Banco24Horas",
                     "cnpjNumber": "51427102007808",
-                    "urlComplementaryList": "https://www.banco24horas.com.br/para-voce/encontre-um-caixa/?utm_source=pagina_canais&utm_medium=botao_rede24horas",
+                    "urlComplementaryList": "https://www.sicredi.com.br/site/atendimento/canais",
                     "sharedAutomatedTellerMachines": [
                         {
                             "identification": {
@@ -31,33 +31,33 @@
                                 "standards": [
                                     {
                                         "weekday": "SEGUNDA_FEIRA",
-                                        "openingTime": "09:00:57Z",
-                                        "closingTime": "18:00:57Z"
+                                        "openingTime": "09:00:00Z",
+                                        "closingTime": "18:00:00Z"
                                     },
                                     {
                                         "weekday": "TERCA_FEIRA",
-                                        "openingTime": "09:00:57Z",
-                                        "closingTime": "18:00:57Z"
+                                        "openingTime": "09:00:00Z",
+                                        "closingTime": "18:00:00Z"
                                     },
                                     {
                                         "weekday": "QUARTA_FEIRA",
-                                        "openingTime": "09:00:57Z",
-                                        "closingTime": "18:00:57Z"
+                                        "openingTime": "09:00:00Z",
+                                        "closingTime": "18:00:00Z"
                                     },
                                     {
                                         "weekday": "QUINTA_FEIRA",
-                                        "openingTime": "09:00:57Z",
-                                        "closingTime": "18:00:57Z"
+                                        "openingTime": "09:00:00Z",
+                                        "closingTime": "18:00:00Z"
                                     },
                                     {
                                         "weekday": "SEXTA_FEIRA",
-                                        "openingTime": "09:00:57Z",
-                                        "closingTime": "18:00:57Z"
+                                        "openingTime": "09:00:00Z",
+                                        "closingTime": "18:00:00Z"
                                     },
                                     {
                                         "weekday": "DOMINGO",
-                                        "openingTime": "00:00:57Z",
-                                        "closingTime": "00:00:57Z"
+                                        "openingTime": "00:00:00Z",
+                                        "closingTime": "00:00:00Z"
                                     }
                                 ],
                                 "exception": "Sujeito a alteração pelo estabelecimento sem prévio aviso",
@@ -118,33 +118,33 @@
                                 "standards": [
                                     {
                                         "weekday": "SEGUNDA_FEIRA",
-                                        "openingTime": "08:00:57Z",
-                                        "closingTime": "01:00:57Z"
+                                        "openingTime": "08:00:00Z",
+                                        "closingTime": "01:00:00Z"
                                     },
                                     {
                                         "weekday": "TERCA_FEIRA",
-                                        "openingTime": "08:00:57Z",
-                                        "closingTime": "01:00:57Z"
+                                        "openingTime": "08:00:00Z",
+                                        "closingTime": "01:00:00Z"
                                     },
                                     {
                                         "weekday": "QUARTA_FEIRA",
-                                        "openingTime": "08:00:57Z",
-                                        "closingTime": "01:00:57Z"
+                                        "openingTime": "08:00:00Z",
+                                        "closingTime": "01:00:00Z"
                                     },
                                     {
                                         "weekday": "QUINTA_FEIRA",
-                                        "openingTime": "08:00:57Z",
-                                        "closingTime": "01:00:57Z"
+                                        "openingTime": "08:00:00Z",
+                                        "closingTime": "01:00:00Z"
                                     },
                                     {
                                         "weekday": "SEXTA_FEIRA",
-                                        "openingTime": "08:00:57Z",
-                                        "closingTime": "01:00:57Z"
+                                        "openingTime": "08:00:00Z",
+                                        "closingTime": "01:00:00Z"
                                     },
                                     {
                                         "weekday": "DOMINGO",
-                                        "openingTime": "08:00:57Z",
-                                        "closingTime": "20:00:57Z"
+                                        "openingTime": "08:00:00Z",
+                                        "closingTime": "20:00:00Z"
                                     }
                                 ],
                                 "exception": "Sujeito a alteração pelo estabelecimento sem prévio aviso",
@@ -205,33 +205,33 @@
                                 "standards": [
                                     {
                                         "weekday": "SEGUNDA_FEIRA",
-                                        "openingTime": "08:00:57Z",
-                                        "closingTime": "01:00:57Z"
+                                        "openingTime": "08:00:00Z",
+                                        "closingTime": "01:00:00Z"
                                     },
                                     {
                                         "weekday": "TERCA_FEIRA",
-                                        "openingTime": "08:00:57Z",
-                                        "closingTime": "01:00:57Z"
+                                        "openingTime": "08:00:00Z",
+                                        "closingTime": "01:00:00Z"
                                     },
                                     {
                                         "weekday": "QUARTA_FEIRA",
-                                        "openingTime": "08:00:57Z",
-                                        "closingTime": "01:00:57Z"
+                                        "openingTime": "08:00:00Z",
+                                        "closingTime": "01:00:00Z"
                                     },
                                     {
                                         "weekday": "QUINTA_FEIRA",
-                                        "openingTime": "08:00:57Z",
-                                        "closingTime": "01:00:57Z"
+                                        "openingTime": "08:00:00Z",
+                                        "closingTime": "01:00:00Z"
                                     },
                                     {
                                         "weekday": "SEXTA_FEIRA",
-                                        "openingTime": "08:00:57Z",
-                                        "closingTime": "01:00:57Z"
+                                        "openingTime": "08:00:00Z",
+                                        "closingTime": "01:00:00Z"
                                     },
                                     {
                                         "weekday": "DOMINGO",
-                                        "openingTime": "08:00:57Z",
-                                        "closingTime": "20:00:57Z"
+                                        "openingTime": "08:00:00Z",
+                                        "closingTime": "20:00:00Z"
                                     }
                                 ],
                                 "exception": "Sujeito a alteração pelo estabelecimento sem prévio aviso",

@@ -90,7 +90,9 @@
     "links": {
         "self": "https://api.sicredi.com.br/open-banking/channels/v1/eletronic-channels?page=1&page-size=1",
         "next": "https://api.sicredi.com.br/open-banking/channels/v1/eletronic-channels?page=2&page-size=1",
-        "last": "https://api.sicredi.com.br/open-banking/channels/v1/eletronic-channels?page=1&page-size=5"
+        "last": "https://api.sicredi.com.br/open-banking/channels/v1/eletronic-channels?page=1&page-size=5",
+        "first": "https://api.sicredi.com.br/open-banking/channels/v1/eletronic-channels?page=1&page-size=1"
+        
     },
     "meta": {
         "totalRecords": 5,
