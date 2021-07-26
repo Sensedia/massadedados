@@ -153,10 +153,14 @@
         }
     },
     "links": {
-        "self": "https://openbanking.banrisul.com.br/open-banking/channels/v1/phone-channels"
+        "first": "https://openbanking.banrisul.com.br/open-banking/channels/v1/phone-channels?page=1&page-size=4",
+        "prev": "https://openbanking.banrisul.com.br/open-banking/channels/v1/phone-channels?page=29&page-size=4",
+        "self": "https://openbanking.banrisul.com.br/open-banking/channels/v1/phone-channels?page=30&page-size=4",
+        "next": "https://openbanking.banrisul.com.br/open-banking/channels/v1/phone-channels?page=31&page-size=4",
+        "last": "https://openbanking.banrisul.com.br/open-banking/channels/v1/phone-channels?page=107&page-size=4"
     },
     "meta": {
-        "totalRecords": 4,
-        "totalPages": 1
+        "totalRecords": 428,
+        "totalPages": 107
     }
 }
