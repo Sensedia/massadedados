@@ -57,6 +57,335 @@
                                             "value": "8800.0000",
                                             "currency": "BRL"
                                         }
+                                    },
+                                    {
+                                        "name": "Edição de contrato de câmbio (Export./Import./Financeiro)",
+                                        "code": "Edição de contrato de câmbio (Export./Import./Financeiro)",
+                                        "chargingTriggerInfo": "Por operação",
+                                        "prices": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "value": "2500.0000",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.1500"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "value": "2500.0000",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.3500"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "value": "2500.0000",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.2000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "value": "2500.0000",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.3000"
+                                                }
+                                            }
+                                        ],
+                                        "minimum": {
+                                            "value": "2500.0000",
+                                            "currency": "BRL"
+                                        },
+                                        "maximum": {
+                                            "value": "2500.0000",
+                                            "currency": "BRL"
+                                        }
+                                    },
+                                    {
+                                        "name": "Alteração/Cancelamento/Baixa/Prorrogação",
+                                        "code": "Alteração/Cancelamento/Baixa/Prorrogação",
+                                        "chargingTriggerInfo": "Por operação",
+                                        "prices": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "value": "2500.0000",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.1500"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "value": "2500.0000",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.3500"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "value": "2500.0000",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.2000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "value": "2500.0000",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.3000"
+                                                }
+                                            }
+                                        ],
+                                        "minimum": {
+                                            "value": "2500.0000",
+                                            "currency": "BRL"
+                                        },
+                                        "maximum": {
+                                            "value": "2500.0000",
+                                            "currency": "BRL"
+                                        }
+                                    },
+                                    {
+                                        "name": "Tarifa de Administração (mensal)",
+                                        "code": "Tarifa de Administração (mensal)",
+                                        "chargingTriggerInfo": "Por evento",
+                                        "prices": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "value": "0.0000",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.1500"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "value": "0.0000",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.3500"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "value": "0.0000",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.2000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "value": "0.0000",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.3000"
+                                                }
+                                            }
+                                        ],
+                                        "minimum": {
+                                            "value": "0.0000",
+                                            "currency": "BRL"
+                                        },
+                                        "maximum": {
+                                            "value": "0.0000",
+                                            "currency": "BRL"
+                                        }
+                                    },
+                                    {
+                                        "name": "Segunda via do contrato",
+                                        "code": "Segunda via do contrato",
+                                        "chargingTriggerInfo": "Por evento",
+                                        "prices": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "value": "0.0000",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.1500"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "value": "0.0000",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.3500"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "value": "0.0000",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.2000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "value": "0.0000",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.3000"
+                                                }
+                                            }
+                                        ],
+                                        "minimum": {
+                                            "value": "0.0000",
+                                            "currency": "BRL"
+                                        },
+                                        "maximum": {
+                                            "value": "0.0000",
+                                            "currency": "BRL"
+                                        }
+                                    },
+                                    {
+                                        "name": "Segunda via do termo de liberação do imóvel",
+                                        "code": "Segunda via do termo de liberação do imóvel",
+                                        "chargingTriggerInfo": "Por evento",
+                                        "prices": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "value": "300.0000",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.1500"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "value": "300.0000",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.3500"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "value": "300.0000",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.2000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "value": "300.0000",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.3000"
+                                                }
+                                            }
+                                        ],
+                                        "minimum": {
+                                            "value": "300.0000",
+                                            "currency": "BRL"
+                                        },
+                                        "maximum": {
+                                            "value": "300.0000",
+                                            "currency": "BRL"
+                                        }
+                                    },
+                                    {
+                                        "name": "Segunda via do Demonstrativo do Imposto de Renda",
+                                        "code": "Segunda via do Demonstrativo do Imposto de Renda",
+                                        "chargingTriggerInfo": "Por evento",
+                                        "prices": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "value": "0.0000",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.1500"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "value": "0.0000",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.3500"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "value": "0.0000",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.2000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "value": "0.0000",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.3000"
+                                                }
+                                            }
+                                        ],
+                                        "minimum": {
+                                            "value": "0.0000",
+                                            "currency": "BRL"
+                                        },
+                                        "maximum": {
+                                            "value": "0.0000",
+                                            "currency": "BRL"
+                                        }
+                                    },
+                                    {
+                                        "name": "Segunda via de documentos",
+                                        "code": "Segunda via de documentos",
+                                        "chargingTriggerInfo": "Por evento",
+                                        "prices": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "value": "0.0000",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.1500"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "value": "0.0000",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.3500"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "value": "0.0000",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.2000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "value": "0.0000",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.3000"
+                                                }
+                                            }
+                                        ],
+                                        "minimum": {
+                                            "value": "0.0000",
+                                            "currency": "BRL"
+                                        },
+                                        "maximum": {
+                                            "value": "0.0000",
+                                            "currency": "BRL"
+                                        }
                                     }
                                 ]
                             },
@@ -104,6 +433,703 @@
                                     ],
                                     "minimumRate": "0.0390",
                                     "maximumRate": "0.0700"
+                                },
+                                {
+                                    "referentialRateIndexer": "POS_FIXADO_TR_TBF",
+                                    "rate": "0.07876",
+                                    "applications": [
+                                        {
+                                            "interval": "1_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0907"
+                                            },
+                                            "customers": {
+                                                "rate": "0.1500"
+                                            }
+                                        },
+                                        {
+                                            "interval": "2_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.6600"
+                                            },
+                                            "customers": {
+                                                "rate": "0.3500"
+                                            }
+                                        },
+                                        {
+                                            "interval": "3_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.8234"
+                                            },
+                                            "customers": {
+                                                "rate": "0.2000"
+                                            }
+                                        },
+                                        {
+                                            "interval": "4_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.9865"
+                                            },
+                                            "customers": {
+                                                "rate": "0.3000"
+                                            }
+                                        }
+                                    ],
+                                    "minimumRate": "0.0907",
+                                    "maximumRate": "0.9865"
+                                },
+                                {
+                                    "referentialRateIndexer": "FLUTUANTES_CDI",
+                                    "rate": "0.04312",
+                                    "applications": [
+                                        {
+                                            "interval": "1_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0853"
+                                            },
+                                            "customers": {
+                                                "rate": "0.1500"
+                                            }
+                                        },
+                                        {
+                                            "interval": "2_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.1540"
+                                            },
+                                            "customers": {
+                                                "rate": "0.3500"
+                                            }
+                                        },
+                                        {
+                                            "interval": "3_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.2125"
+                                            },
+                                            "customers": {
+                                                "rate": "0.2000"
+                                            }
+                                        },
+                                        {
+                                            "interval": "4_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.3868"
+                                            },
+                                            "customers": {
+                                                "rate": "0.3000"
+                                            }
+                                        }
+                                    ],
+                                    "minimumRate": "0.0853",
+                                    "maximumRate": "0.3868"
+                                },
+                                {
+                                    "referentialRateIndexer": "FLUTUANTES_SELIC",
+                                    "rate": "0.7610",
+                                    "applications": [
+                                        {
+                                            "interval": "1_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0652"
+                                            },
+                                            "customers": {
+                                                "rate": "0.1500"
+                                            }
+                                        },
+                                        {
+                                            "interval": "2_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.5261"
+                                            },
+                                            "customers": {
+                                                "rate": "0.3500"
+                                            }
+                                        },
+                                        {
+                                            "interval": "3_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.6125"
+                                            },
+                                            "customers": {
+                                                "rate": "0.2000"
+                                            }
+                                        },
+                                        {
+                                            "interval": "4_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.9127"
+                                            },
+                                            "customers": {
+                                                "rate": "0.3000"
+                                            }
+                                        }
+                                    ],
+                                    "minimumRate": "0.0652",
+                                    "maximumRate": "0.9127"
+                                }
+                            ],
+                            "requiredWarranties": [
+                                "CESSAO_DIREITOS_CREDITORIOS"
+                            ],
+                            "termsConditions": "https://www.bancointer.com.br/pra-voce/financiamento-imobiliario/residencial"
+                        },
+                        {
+                            "type": "FINANCIAMENTO_IMOBILIARIO_SISTEMA_FINANCEIRO_HABITACAO_SFI",
+                            "fees": {
+                                "services": [
+                                    {
+                                        "name": "Avaliação, Reavaliação e Substituição de Bens Recebidos em Garantia",
+                                        "code": "AQBAM009",
+                                        "chargingTriggerInfo": "R$ 570.00 Por solicitação",
+                                        "prices": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "value": "25.4000",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.1500"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "value": "35.0000",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.3500"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "value": "52.0000",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.2000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "value": "69.0000",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.3000"
+                                                }
+                                            }
+                                        ],
+                                        "minimum": {
+                                            "value": "1350.0000",
+                                            "currency": "BRL"
+                                        },
+                                        "maximum": {
+                                            "value": "8800.0000",
+                                            "currency": "BRL"
+                                        }
+                                    },
+                                    {
+                                        "name": "Edição de contrato de câmbio (Export./Import./Financeiro)",
+                                        "code": "Edição de contrato de câmbio (Export./Import./Financeiro)",
+                                        "chargingTriggerInfo": "Por operação",
+                                        "prices": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "value": "2500.0000",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.1500"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "value": "2500.0000",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.3500"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "value": "2500.0000",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.2000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "value": "2500.0000",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.3000"
+                                                }
+                                            }
+                                        ],
+                                        "minimum": {
+                                            "value": "2500.0000",
+                                            "currency": "BRL"
+                                        },
+                                        "maximum": {
+                                            "value": "2500.0000",
+                                            "currency": "BRL"
+                                        }
+                                    },
+                                    {
+                                        "name": "Alteração/Cancelamento/Baixa/Prorrogação",
+                                        "code": "Alteração/Cancelamento/Baixa/Prorrogação",
+                                        "chargingTriggerInfo": "Por evento",
+                                        "prices": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "value": "2500.0000",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.1500"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "value": "2500.0000",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.3500"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "value": "2500.0000",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.2000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "value": "2500.0000",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.3000"
+                                                }
+                                            }
+                                        ],
+                                        "minimum": {
+                                            "value": "2500.0000",
+                                            "currency": "BRL"
+                                        },
+                                        "maximum": {
+                                            "value": "2500.0000",
+                                            "currency": "BRL"
+                                        }
+                                    },
+                                    {
+                                        "name": "Tarifa de Administração (mensal)",
+                                        "code": "Tarifa de Administração (mensal)",
+                                        "chargingTriggerInfo": "Por evento",
+                                        "prices": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "value": "0.0000",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.1500"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "value": "0.0000",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.3500"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "value": "0.0000",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.2000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "value": "0.0000",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.3000"
+                                                }
+                                            }
+                                        ],
+                                        "minimum": {
+                                            "value": "0.0000",
+                                            "currency": "BRL"
+                                        },
+                                        "maximum": {
+                                            "value": "0.0000",
+                                            "currency": "BRL"
+                                        }
+                                    },
+                                    {
+                                        "name": "Segunda via do contrato",
+                                        "code": "Segunda via do contrato",
+                                        "chargingTriggerInfo": "Por evento",
+                                        "prices": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "value": "0.0000",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.1500"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "value": "0.0000",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.3500"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "value": "0.0000",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.2000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "value": "0.0000",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.3000"
+                                                }
+                                            }
+                                        ],
+                                        "minimum": {
+                                            "value": "0.0000",
+                                            "currency": "BRL"
+                                        },
+                                        "maximum": {
+                                            "value": "0.0000",
+                                            "currency": "BRL"
+                                        }
+                                    },
+                                    {
+                                        "name": "Segunda via do termo de liberação do imóvel",
+                                        "code": "Segunda via do termo de liberação do imóvel",
+                                        "chargingTriggerInfo": "Por evento",
+                                        "prices": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "value": "300.0000",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.1500"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "value": "300.0000",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.3500"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "value": "300.0000",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.2000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "value": "300.0000",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.3000"
+                                                }
+                                            }
+                                        ],
+                                        "minimum": {
+                                            "value": "300.0000",
+                                            "currency": "BRL"
+                                        },
+                                        "maximum": {
+                                            "value": "300.0000",
+                                            "currency": "BRL"
+                                        }
+                                    },
+                                    {
+                                        "name": "Segunda via do Demonstrativo do Imposto de Renda",
+                                        "code": "Segunda via do Demonstrativo do Imposto de Renda",
+                                        "chargingTriggerInfo": "Por evento",
+                                        "prices": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "value": "0.0000",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.1500"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "value": "0.0000",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.3500"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "value": "0.0000",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.2000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "value": "0.0000",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.3000"
+                                                }
+                                            }
+                                        ],
+                                        "minimum": {
+                                            "value": "0.0000",
+                                            "currency": "BRL"
+                                        },
+                                        "maximum": {
+                                            "value": "0.0000",
+                                            "currency": "BRL"
+                                        }
+                                    },
+                                    {
+                                        "name": "Segunda via de documentos",
+                                        "code": "Segunda via de documentos",
+                                        "chargingTriggerInfo": "Por evento",
+                                        "prices": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "value": "0.0000",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.1500"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "value": "0.0000",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.3500"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "value": "0.0000",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.2000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "value": "0.0000",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.3000"
+                                                }
+                                            }
+                                        ],
+                                        "minimum": {
+                                            "value": "0.0000",
+                                            "currency": "BRL"
+                                        },
+                                        "maximum": {
+                                            "value": "0.0000",
+                                            "currency": "BRL"
+                                        }
+                                    }
+                                ]
+                            },
+                            "interestRates": [
+                                {
+                                    "referentialRateIndexer": "PRE_FIXADO",
+                                    "rate": "0.0300",
+                                    "applications": [
+                                        {
+                                            "interval": "1_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0987"
+                                            },
+                                            "customers": {
+                                                "rate": "0.1500"
+                                            }
+                                        },
+                                        {
+                                            "interval": "2_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.1600"
+                                            },
+                                            "customers": {
+                                                "rate": "0.3500"
+                                            }
+                                        },
+                                        {
+                                            "interval": "3_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.3600"
+                                            },
+                                            "customers": {
+                                                "rate": "0.2000"
+                                            }
+                                        },
+                                        {
+                                            "interval": "4_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.5890"
+                                            },
+                                            "customers": {
+                                                "rate": "0.3000"
+                                            }
+                                        }
+                                    ],
+                                    "minimumRate": "0.0390",
+                                    "maximumRate": "0.0700"
+                                },
+                                {
+                                    "referentialRateIndexer": "POS_FIXADO_TR_TBF",
+                                    "rate": "0.07876",
+                                    "applications": [
+                                        {
+                                            "interval": "1_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0907"
+                                            },
+                                            "customers": {
+                                                "rate": "0.1500"
+                                            }
+                                        },
+                                        {
+                                            "interval": "2_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.6600"
+                                            },
+                                            "customers": {
+                                                "rate": "0.3500"
+                                            }
+                                        },
+                                        {
+                                            "interval": "3_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.8234"
+                                            },
+                                            "customers": {
+                                                "rate": "0.2000"
+                                            }
+                                        },
+                                        {
+                                            "interval": "4_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.9865"
+                                            },
+                                            "customers": {
+                                                "rate": "0.3000"
+                                            }
+                                        }
+                                    ],
+                                    "minimumRate": "0.0907",
+                                    "maximumRate": "0.9865"
+                                },
+                                {
+                                    "referentialRateIndexer": "FLUTUANTES_CDI",
+                                    "rate": "0.04312",
+                                    "applications": [
+                                        {
+                                            "interval": "1_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0853"
+                                            },
+                                            "customers": {
+                                                "rate": "0.1500"
+                                            }
+                                        },
+                                        {
+                                            "interval": "2_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.1540"
+                                            },
+                                            "customers": {
+                                                "rate": "0.3500"
+                                            }
+                                        },
+                                        {
+                                            "interval": "3_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.2125"
+                                            },
+                                            "customers": {
+                                                "rate": "0.2000"
+                                            }
+                                        },
+                                        {
+                                            "interval": "4_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.3868"
+                                            },
+                                            "customers": {
+                                                "rate": "0.3000"
+                                            }
+                                        }
+                                    ],
+                                    "minimumRate": "0.0853",
+                                    "maximumRate": "0.3868"
+                                },
+                                {
+                                    "referentialRateIndexer": "FLUTUANTES_SELIC",
+                                    "rate": "0.7610",
+                                    "applications": [
+                                        {
+                                            "interval": "1_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0652"
+                                            },
+                                            "customers": {
+                                                "rate": "0.1500"
+                                            }
+                                        },
+                                        {
+                                            "interval": "2_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.5261"
+                                            },
+                                            "customers": {
+                                                "rate": "0.3500"
+                                            }
+                                        },
+                                        {
+                                            "interval": "3_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.6125"
+                                            },
+                                            "customers": {
+                                                "rate": "0.2000"
+                                            }
+                                        },
+                                        {
+                                            "interval": "4_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.9127"
+                                            },
+                                            "customers": {
+                                                "rate": "0.3000"
+                                            }
+                                        }
+                                    ],
+                                    "minimumRate": "0.0652",
+                                    "maximumRate": "0.9127"
                                 }
                             ],
                             "requiredWarranties": [

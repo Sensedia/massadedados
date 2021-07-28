@@ -114,7 +114,6 @@
   },
   "links": {
         "self": "https://api.baninter.com/open-banking/products-services/v1/personal-unarranged-account-overdraft"
-    
   },
   "meta": {
     "totalRecords": 1,
