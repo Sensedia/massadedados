@@ -1,0 +1,246 @@
+{
+  "data": {
+    "brand": {
+      "name": "Banco Inter S.A.",
+      "companies": [
+        {
+          "name": "Banco Inter S.A.",
+          "cnpjNumber": "00416968000101",
+          "personalCreditCards": [
+            {
+              "name": "Cartão Gold",
+              "identification": {
+                "product": {
+                  "type": "GOLD"
+                },
+                "creditCard": {
+                  "network": "MASTERCARD"
+                }
+              },
+              "rewardsProgram": {
+                "hasRewardProgram": false,
+                "rewardProgramInfo": "NA"
+              },
+              "fees": {
+                "services": [
+                  {
+                    "name": "ANUIDADE_CARTAO_BASICO_NACIONAL",
+                    "code": "ANUIDADE_NACIONAL",
+                    "chargingTriggerInfo": "Disponibilização de rede de estabelecimentos afiliados, instalada no País, para pagamentos de bens e serviços, cobrada no máximo uma vez a cada doze meses, admitido o parcelamento da cobrança.",
+                    "prices": [
+                      {
+                        "interval": "1_FAIXA",
+                        "value": "0.0000",
+                        "currency": "BRL",
+                        "customers": {
+                          "rate": "0.9500"
+                        }
+                      },
+                      {
+                        "interval": "2_FAIXA",
+                        "value": "0.0000",
+                        "currency": "BRL",
+                        "customers": {
+                          "rate": "0.0000"
+                        }
+                      },
+                      {
+                        "interval": "3_FAIXA",
+                        "value": "0.0000",
+                        "currency": "BRL",
+                        "customers": {
+                          "rate": "0.0000"
+                        }
+                      },
+                      {
+                        "interval": "4_FAIXA",
+                        "value": "0.0000",
+                        "currency": "BRL",
+                        "customers": {
+                          "rate": "0.0500"
+                        }
+                      }
+                    ],
+                    "minimum": {
+                      "value": "0.0000",
+                      "currency": "BRL"
+                    },
+                    "maximum": {
+                      "value": "0.0000",
+                      "currency": "BRL"
+                    }
+                  },
+                  {
+                    "name": "UTILIZACAO_CANAIS_ATENDIMENTO_RETIRADA_ESPECIE_BRASIL",
+                    "code": "SAQUE_CARTAO_BRASIL",
+                    "chargingTriggerInfo": "Disponibilização e utilização pelo cliente de canais de atendimento disponíveis no País para retirada em espécie na função crédito.",
+                    "prices": [
+                      {
+                        "interval": "1_FAIXA",
+                        "value": "0.0000",
+                        "currency": "BRL",
+                        "customers": {
+                          "rate": "0.9500"
+                        }
+                      },
+                      {
+                        "interval": "2_FAIXA",
+                        "value": "0.0000",
+                        "currency": "BRL",
+                        "customers": {
+                          "rate": "0.0000"
+                        }
+                      },
+                      {
+                        "interval": "3_FAIXA",
+                        "value": "0.0000",
+                        "currency": "BRL",
+                        "customers": {
+                          "rate": "0.0000"
+                        }
+                      },
+                      {
+                        "interval": "4_FAIXA",
+                        "value": "0.0000",
+                        "currency": "BRL",
+                        "customers": {
+                          "rate": "0.0500"
+                        }
+                      }
+                    ],
+                    "minimum": {
+                      "value": "0.0000",
+                      "currency": "BRL"
+                    },
+                    "maximum": {
+                      "value": "0.0000",
+                      "currency": "BRL"
+                    }
+                  }
+                ]
+              },
+              "interest": {
+                "rates": [
+                  {
+                    "referentialRateIndexer": "PRE_FIXADO",
+                    "rate": "NA",
+                    "applications": [
+                      {
+                        "interval": "1_FAIXA",
+                        "indexer": {
+                          "rate": "0.0987"
+                        },
+                        "customers": {
+                          "rate": "0.1500"
+                        }
+                      },
+                      {
+                        "interval": "2_FAIXA",
+                        "indexer": {
+                          "rate": "0.1600"
+                        },
+                        "customers": {
+                          "rate": "0.3500"
+                        }
+                      },
+                      {
+                        "interval": "3_FAIXA",
+                        "indexer": {
+                          "rate": "0.3600"
+                        },
+                        "customers": {
+                          "rate": "0.2000"
+                        }
+                      },
+                      {
+                        "interval": "4_FAIXA",
+                        "indexer": {
+                          "rate": "0.5890"
+                        },
+                        "customers": {
+                          "rate": "0.3000"
+                        }
+                      }
+                    ],
+                    "minimumRate": "0.0845",
+                    "maximumRate": "0.9000"
+                  }
+                ],
+                "instalmentRates": [
+                  {
+                    "referentialRateIndexer": "PRE_FIXADO",
+                    "rate": "NA",
+                    "applications": [
+                      {
+                        "interval": "1_FAIXA",
+                        "indexer": {
+                          "rate": "0.0987"
+                        },
+                        "customers": {
+                          "rate": "0.1500"
+                        }
+                      },
+                      {
+                        "interval": "2_FAIXA",
+                        "indexer": {
+                          "rate": "0.1600"
+                        },
+                        "customers": {
+                          "rate": "0.3500"
+                        }
+                      },
+                      {
+                        "interval": "3_FAIXA",
+                        "indexer": {
+                          "rate": "0.3600"
+                        },
+                        "customers": {
+                          "rate": "0.2000"
+                        }
+                      },
+                      {
+                        "interval": "4_FAIXA",
+                        "indexer": {
+                          "rate": "0.5890"
+                        },
+                        "customers": {
+                          "rate": "0.3000"
+                        }
+                      }
+                    ],
+                    "minimumRate": "0.0456",
+                    "maximumRate": "0.0865"
+                  }
+                ],
+                "otherCredits": [
+                  {
+                    "code": "SAQUE_A_CREDITO"
+                  },
+                  {
+                    "code": "PAGAMENTOS_CONTAS"
+                  }
+                ]
+              },
+              "termsConditions": {
+                "minimumFeeRate": "0.3000",
+                "additionalInfo": "NA",
+                "elegibilityCriteriaInfo": "https://www.bancointer.com.br/pra-voce/cartoes/",
+                "closingProcessInfo": "https://ajuda.bancointer.com.br/pt-BR/articles/1520194-como-faco-para-cancelar-a-funcao-credito-do-meu-cartao-mastercard#:~:text=Para%20solicitar%20o%20cancelamento%20da,op%C3%A7%C3%A3o%202%20(demais%20localidades)."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "links": {
+    "self": "https:///api.baninter.com/open-banking/products-services/v1/personal-credit-cards?page=1&page-size=1",
+    "first": "https://api.banco.com.br/open-banking/products-services/v1/personal-credit-cards?page=1&page-size=1",
+    "next": "https://api.banco.com.br/open-banking/products-services/v1/personal-credit-cards?page=2&page-size=1",
+    "last": "https://api.banco.com.br/open-banking/products-services/v1/personal-credit-cards?page=3&page-size=1"
+  },
+  "meta": {
+    "totalRecords": 3,
+    "totalPages": 3
+  }
+}
