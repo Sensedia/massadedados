@@ -1,0 +1,129 @@
+{
+    "data": {
+        "brand": {
+            "name": "Banco Inter S.A.",
+            "companies": [
+                {
+                    "cnpjNumber": "00416968000101",
+                    "name": "Banco Inter S.A.",
+                    "personalFinancings": [
+                        {
+                            "type": "FINANCIAMENTO_IMOBILIARIO_SISTEMA_FINANCEIRO_HABITACAO_SFH",
+                            "fees": {
+                                "services": [
+                                    {
+                                        "name": "Avaliação, Reavaliação e Substituição de Bens Recebidos em Garantia",
+                                        "code": "AQBAM009",
+                                        "chargingTriggerInfo": "R$ 570.00 Por solicitação",
+                                        "prices": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "value": "25.4000",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.1500"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "value": "35.0000",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.3500"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "value": "52.0000",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.2000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "value": "69.0000",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.3000"
+                                                }
+                                            }
+                                        ],
+                                        "minimum": {
+                                            "value": "1350.0000",
+                                            "currency": "BRL"
+                                        },
+                                        "maximum": {
+                                            "value": "8800.0000",
+                                            "currency": "BRL"
+                                        }
+                                    }
+                                ]
+                            },
+                            "interestRates": [
+                                {
+                                    "referentialRateIndexer": "PRE_FIXADO",
+                                    "rate": "0.0300",
+                                    "applications": [
+                                        {
+                                            "interval": "1_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0987"
+                                            },
+                                            "customers": {
+                                                "rate": "0.1500"
+                                            }
+                                        },
+                                        {
+                                            "interval": "2_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.1600"
+                                            },
+                                            "customers": {
+                                                "rate": "0.3500"
+                                            }
+                                        },
+                                        {
+                                            "interval": "3_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.3600"
+                                            },
+                                            "customers": {
+                                                "rate": "0.2000"
+                                            }
+                                        },
+                                        {
+                                            "interval": "4_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.5890"
+                                            },
+                                            "customers": {
+                                                "rate": "0.3000"
+                                            }
+                                        }
+                                    ],
+                                    "minimumRate": "0.0390",
+                                    "maximumRate": "0.0700"
+                                }
+                            ],
+                            "requiredWarranties": [
+                                "CESSAO_DIREITOS_CREDITORIOS"
+                            ],
+                            "termsConditions": "https://www.bancointer.com.br/pra-voce/financiamento-imobiliario/residencial"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "links": {
+        "self": "https:///api.baninter.com/open-banking/products-services/v1/personal-financings?page=1&page-size=1",
+        "first": "https://api.banco.com.br/open-banking/products-services/v1/personal-financings?page=1&page-size=1",
+        "next": "https://api.banco.com.br/open-banking/products-services/v1/personal-financings?page=2&page-size=1",
+        "last": "https://api.banco.com.br/open-banking/products-services/v1/personal-financings?page=2&page-size=1"
+    },
+    "meta": {
+        "totalRecords": 2,
+        "totalPages": 2
+    }
+}
