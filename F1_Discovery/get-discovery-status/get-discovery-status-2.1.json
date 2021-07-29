@@ -182,10 +182,10 @@
         ]
     },
     "links": {
-        "self": "https://openbanking.banrisul.com.br/open-banking/discovery/v1/status?page=1&page-size=4",
-        "first": "https://openbanking.banrisul.com.br/open-banking/discovery/v1/status?page=1&page-size=4",
-        "next": "https://openbanking.banrisul.com.br/open-banking/discovery/v1/status?page=2&page-size=4",
-        "last": "https://openbanking.banrisul.com.br/open-banking/discovery/v1/status?page=2&page-size=4"
+        "self": "https://openbanking.banrisul.com.br/open-banking/discovery/v1/status?page=1&page-size=5",
+        "first": "https://openbanking.banrisul.com.br/open-banking/discovery/v1/status?page=1&page-size=5",
+        "next": "https://openbanking.banrisul.com.br/open-banking/discovery/v1/status?page=2&page-size=5",
+        "last": "https://openbanking.banrisul.com.br/open-banking/discovery/v1/status?page=2&page-size=5"
     },
     "meta": {
         "totalRecords": 8,
