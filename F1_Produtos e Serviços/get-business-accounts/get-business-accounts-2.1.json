@@ -119,7 +119,6 @@
                             "openingClosingChannels": [
                                 "DEPENDENCIAS_PROPRIAS"
                             ],
-                            "additionalInfo": "NA",
                             "transactionMethods": [
                                 "MOVIMENTACAO_CARTAO"
                             ],
@@ -130,10 +129,6 @@
                                 },
                                 "elegibilityCriteriaInfo": "http://banrisul.com.br/bob/link/bobw27hn_conteudo_detalhe_cartoes_credito_ss.aspx?secao_id=3454",
                                 "closingProcessInfo": "http://banrisul.com.br/bob/link/bobw27hn_conteudo_detalhe_cartoes_credito_ss.aspx?secao_id=3454"
-                            },
-                            "incomeRate": {
-                                "savingAccount": "NA",
-                                "prepaidPaymentAccount": "NA"
                             }
                         },
                         {
@@ -401,7 +396,7 @@
                                                 "value": "1.36",
                                                 "currency": "BRL",
                                                 "customers": {
-                                                    "rate": "0.0000"
+                                                    "rate": "0.0080"
                                                 }
                                             },
                                             {
@@ -2819,7 +2814,7 @@
         }
     },
     "links": {
-        "self": "https://api.banco.com.br/open-banking/products-services/v1/business-accounts"
+        "self": "https://openbanking.banrisul.com.br/open-banking/products-services/v1/business-accounts"
     },
     "meta": {
         "totalRecords": 1,
