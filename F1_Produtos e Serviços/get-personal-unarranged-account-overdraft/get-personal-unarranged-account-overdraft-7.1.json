@@ -17,7 +17,7 @@
                     "prices": [
                       {
                         "interval": "1_FAIXA",
-                        "value": "0.0000",
+                        "value": "0.00",
                         "currency": "BRL",
                         "customers": {
                           "rate": "0.1500"
@@ -25,7 +25,7 @@
                       },
                       {
                         "interval": "2_FAIXA",
-                        "value": "0.0000",
+                        "value": "0.00",
                         "currency": "BRL",
                         "customers": {
                           "rate": "0.3500"
@@ -33,7 +33,7 @@
                       },
                       {
                         "interval": "3_FAIXA",
-                        "value": "0.0000",
+                        "value": "0.00",
                         "currency": "BRL",
                         "customers": {
                           "rate": "0.2000"
@@ -41,7 +41,7 @@
                       },
                       {
                         "interval": "4_FAIXA",
-                        "value": "0.0000",
+                        "value": "0.00",
                         "currency": "BRL",
                         "customers": {
                           "rate": "0.3000"
@@ -49,11 +49,11 @@
                       }
                     ],
                     "minimum": {
-                      "value": "0.0000",
+                      "value": "0.00",
                       "currency": "BRL"
                     },
                     "maximum": {
-                      "value": "0.0000",
+                      "value": "0.00",
                       "currency": "BRL"
                     }
                   }
