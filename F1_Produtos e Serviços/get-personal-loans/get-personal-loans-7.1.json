@@ -1250,7 +1250,7 @@
         "last": "https://api.baninter.com/open-banking/products-services/v1/personal-loans?page=2&page-size=1"
     },
     "meta": {
-        "totalRecords": 2,
+        "totalRecords": 1,
         "totalPages": 2
     }
 }
