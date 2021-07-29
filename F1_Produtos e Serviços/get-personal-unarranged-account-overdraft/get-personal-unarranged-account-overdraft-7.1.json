@@ -62,7 +62,7 @@
               "interestRates": [
                 {
                   "referentialRateIndexer": "PRE_FIXADO",
-                  "rate": "0.0130",
+                  "rate": "0.01",
                   "applications": [
                     {
                       "interval": "1_FAIXA",
@@ -168,7 +168,7 @@
               "interestRates": [
                 {
                   "referentialRateIndexer": "PRE_FIXADO",
-                  "rate": "0.0130",
+                  "rate": "0.01",
                   "applications": [
                     {
                       "interval": "1_FAIXA",
@@ -274,7 +274,7 @@
               "interestRates": [
                 {
                   "referentialRateIndexer": "PRE_FIXADO",
-                  "rate": "0.0130",
+                  "rate": "0.01",
                   "applications": [
                     {
                       "interval": "1_FAIXA",
@@ -380,7 +380,7 @@
               "interestRates": [
                 {
                   "referentialRateIndexer": "PRE_FIXADO",
-                  "rate": "0.0130",
+                  "rate": "0.01",
                   "applications": [
                     {
                       "interval": "1_FAIXA",
@@ -486,7 +486,7 @@
               "interestRates": [
                 {
                   "referentialRateIndexer": "PRE_FIXADO",
-                  "rate": "0.0130",
+                  "rate": "0.01",
                   "applications": [
                     {
                       "interval": "1_FAIXA",
@@ -592,7 +592,7 @@
               "interestRates": [
                 {
                   "referentialRateIndexer": "PRE_FIXADO",
-                  "rate": "0.0130",
+                  "rate": "0.01",
                   "applications": [
                     {
                       "interval": "1_FAIXA",
@@ -698,7 +698,7 @@
               "interestRates": [
                 {
                   "referentialRateIndexer": "PRE_FIXADO",
-                  "rate": "0.0130",
+                  "rate": "0.01",
                   "applications": [
                     {
                       "interval": "1_FAIXA",
@@ -804,7 +804,7 @@
               "interestRates": [
                 {
                   "referentialRateIndexer": "PRE_FIXADO",
-                  "rate": "0.0130",
+                  "rate": "0.01",
                   "applications": [
                     {
                       "interval": "1_FAIXA",
@@ -910,7 +910,7 @@
               "interestRates": [
                 {
                   "referentialRateIndexer": "PRE_FIXADO",
-                  "rate": "0.0130",
+                  "rate": "0.01",
                   "applications": [
                     {
                       "interval": "1_FAIXA",
@@ -1016,7 +1016,7 @@
               "interestRates": [
                 {
                   "referentialRateIndexer": "PRE_FIXADO",
-                  "rate": "0.0130",
+                  "rate": "0.01",
                   "applications": [
                     {
                       "interval": "1_FAIXA",
@@ -1073,7 +1073,7 @@
         "last": "https://api.baninter.com/open-banking/products-services/v1/personal-unarranged-account-overdraft?page=10&page-size=10"
   },
   "meta": {
-    "totalRecords": 10,
+    "totalRecords": 100,
     "totalPages": 10
   }
 }

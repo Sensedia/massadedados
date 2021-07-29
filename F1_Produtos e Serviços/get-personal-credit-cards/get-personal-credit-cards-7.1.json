@@ -10993,7 +10993,7 @@
         "last": "https://api.baninter.com/open-banking/products-services/v1/personal-credit-cards?page=10&page-size=10"
     },
     "meta": {
-        "totalRecords": 10,
+        "totalRecords": 100,
         "totalPages": 10
     }
 }

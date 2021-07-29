@@ -392,7 +392,7 @@
                             "interestRates": [
                                 {
                                     "referentialRateIndexer": "PRE_FIXADO",
-                                    "rate": "0.0300",
+                                    "rate": "0.03",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -957,7 +957,7 @@
                             "interestRates": [
                                 {
                                     "referentialRateIndexer": "PRE_FIXADO",
-                                    "rate": "0.0300",
+                                    "rate": "0.03",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -1528,7 +1528,7 @@
                             "interestRates": [
                                 {
                                     "referentialRateIndexer": "PRE_FIXADO",
-                                    "rate": "0.0300",
+                                    "rate": "0.03",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -2093,7 +2093,7 @@
                             "interestRates": [
                                 {
                                     "referentialRateIndexer": "PRE_FIXADO",
-                                    "rate": "0.0300",
+                                    "rate": "0.03",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -2664,7 +2664,7 @@
                             "interestRates": [
                                 {
                                     "referentialRateIndexer": "PRE_FIXADO",
-                                    "rate": "0.0300",
+                                    "rate": "0.03",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -3229,7 +3229,7 @@
                             "interestRates": [
                                 {
                                     "referentialRateIndexer": "PRE_FIXADO",
-                                    "rate": "0.0300",
+                                    "rate": "0.03",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -3800,7 +3800,7 @@
                             "interestRates": [
                                 {
                                     "referentialRateIndexer": "PRE_FIXADO",
-                                    "rate": "0.0300",
+                                    "rate": "0.03",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -4365,7 +4365,7 @@
                             "interestRates": [
                                 {
                                     "referentialRateIndexer": "PRE_FIXADO",
-                                    "rate": "0.0300",
+                                    "rate": "0.03",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -4936,7 +4936,7 @@
                             "interestRates": [
                                 {
                                     "referentialRateIndexer": "PRE_FIXADO",
-                                    "rate": "0.0300",
+                                    "rate": "0.03",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -5501,7 +5501,7 @@
                             "interestRates": [
                                 {
                                     "referentialRateIndexer": "PRE_FIXADO",
-                                    "rate": "0.0300",
+                                    "rate": "0.03",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -6072,7 +6072,7 @@
                             "interestRates": [
                                 {
                                     "referentialRateIndexer": "PRE_FIXADO",
-                                    "rate": "0.0300",
+                                    "rate": "0.03",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -6637,7 +6637,7 @@
                             "interestRates": [
                                 {
                                     "referentialRateIndexer": "PRE_FIXADO",
-                                    "rate": "0.0300",
+                                    "rate": "0.03",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -7208,7 +7208,7 @@
                             "interestRates": [
                                 {
                                     "referentialRateIndexer": "PRE_FIXADO",
-                                    "rate": "0.0300",
+                                    "rate": "0.03",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -7773,7 +7773,7 @@
                             "interestRates": [
                                 {
                                     "referentialRateIndexer": "PRE_FIXADO",
-                                    "rate": "0.0300",
+                                    "rate": "0.03",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -8344,7 +8344,7 @@
                             "interestRates": [
                                 {
                                     "referentialRateIndexer": "PRE_FIXADO",
-                                    "rate": "0.0300",
+                                    "rate": "0.03",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -8909,7 +8909,7 @@
                             "interestRates": [
                                 {
                                     "referentialRateIndexer": "PRE_FIXADO",
-                                    "rate": "0.0300",
+                                    "rate": "0.03",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -9480,7 +9480,7 @@
                             "interestRates": [
                                 {
                                     "referentialRateIndexer": "PRE_FIXADO",
-                                    "rate": "0.0300",
+                                    "rate": "0.03",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -10045,7 +10045,7 @@
                             "interestRates": [
                                 {
                                     "referentialRateIndexer": "PRE_FIXADO",
-                                    "rate": "0.0300",
+                                    "rate": "0.03",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -10616,7 +10616,7 @@
                             "interestRates": [
                                 {
                                     "referentialRateIndexer": "PRE_FIXADO",
-                                    "rate": "0.0300",
+                                    "rate": "0.03",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -11181,7 +11181,7 @@
                             "interestRates": [
                                 {
                                     "referentialRateIndexer": "PRE_FIXADO",
-                                    "rate": "0.0300",
+                                    "rate": "0.03",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -11373,7 +11373,7 @@
         "last": "https://api.baninter.com/open-banking/products-services/v1/personal-financings?page=10&page-size=10"
     },
     "meta": {
-        "totalRecords": 10,
+        "totalRecords": 100,
         "totalPages": 10
     }
 }
