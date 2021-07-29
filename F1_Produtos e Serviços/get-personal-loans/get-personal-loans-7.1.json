@@ -530,7 +530,7 @@
                                 },
                                 {
                                     "referentialRateIndexer": "FLUTUANTE_CDI",
-                                    "rate": "0.0300",
+                                    "rate": "0.03",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -574,7 +574,7 @@
                                 },
                                 {
                                     "referentialRateIndexer": "FLUTUANTE_SELIC",
-                                    "rate": "0.0300",
+                                    "rate": "0.03",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -1101,7 +1101,7 @@
                                 },
                                 {
                                     "referentialRateIndexer": "POS_FIXADO_TR_TBF",
-                                    "rate": "0.0787",
+                                    "rate": "0.07",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -1145,7 +1145,7 @@
                                 },
                                 {
                                     "referentialRateIndexer": "FLUTUANTES_CDI",
-                                    "rate": "0.0432",
+                                    "rate": "0.04",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -1189,7 +1189,7 @@
                                 },
                                 {
                                     "referentialRateIndexer": "FLUTUANTES_SELIC",
-                                    "rate": "0.7610",
+                                    "rate": "0.76",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -1767,7 +1767,7 @@
                                 },
                                 {
                                     "referentialRateIndexer": "FLUTUANTE_CDI",
-                                    "rate": "0.0300",
+                                    "rate": "0.03",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -1811,7 +1811,7 @@
                                 },
                                 {
                                     "referentialRateIndexer": "FLUTUANTE_SELIC",
-                                    "rate": "0.0300",
+                                    "rate": "0.03",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -2338,7 +2338,7 @@
                                 },
                                 {
                                     "referentialRateIndexer": "POS_FIXADO_TR_TBF",
-                                    "rate": "0.0787",
+                                    "rate": "0.07",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -2382,7 +2382,7 @@
                                 },
                                 {
                                     "referentialRateIndexer": "FLUTUANTES_CDI",
-                                    "rate": "0.0432",
+                                    "rate": "0.04",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -2426,7 +2426,7 @@
                                 },
                                 {
                                     "referentialRateIndexer": "FLUTUANTES_SELIC",
-                                    "rate": "0.7610",
+                                    "rate": "0.76",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -3004,7 +3004,7 @@
                                 },
                                 {
                                     "referentialRateIndexer": "FLUTUANTE_CDI",
-                                    "rate": "0.0300",
+                                    "rate": "0.03",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -3048,7 +3048,7 @@
                                 },
                                 {
                                     "referentialRateIndexer": "FLUTUANTE_SELIC",
-                                    "rate": "0.0300",
+                                    "rate": "0.03",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -3575,7 +3575,7 @@
                                 },
                                 {
                                     "referentialRateIndexer": "POS_FIXADO_TR_TBF",
-                                    "rate": "0.0787",
+                                    "rate": "0.07",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -3619,7 +3619,7 @@
                                 },
                                 {
                                     "referentialRateIndexer": "FLUTUANTES_CDI",
-                                    "rate": "0.0432",
+                                    "rate": "0.04",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -3663,7 +3663,7 @@
                                 },
                                 {
                                     "referentialRateIndexer": "FLUTUANTES_SELIC",
-                                    "rate": "0.7610",
+                                    "rate": "0.76",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -4241,7 +4241,7 @@
                                 },
                                 {
                                     "referentialRateIndexer": "FLUTUANTE_CDI",
-                                    "rate": "0.0300",
+                                    "rate": "0.03",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -4285,7 +4285,7 @@
                                 },
                                 {
                                     "referentialRateIndexer": "FLUTUANTE_SELIC",
-                                    "rate": "0.0300",
+                                    "rate": "0.03",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -4812,7 +4812,7 @@
                                 },
                                 {
                                     "referentialRateIndexer": "POS_FIXADO_TR_TBF",
-                                    "rate": "0.0787",
+                                    "rate": "0.07",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -4856,7 +4856,7 @@
                                 },
                                 {
                                     "referentialRateIndexer": "FLUTUANTES_CDI",
-                                    "rate": "0.0432",
+                                    "rate": "0.04",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -4900,7 +4900,7 @@
                                 },
                                 {
                                     "referentialRateIndexer": "FLUTUANTES_SELIC",
-                                    "rate": "0.7610",
+                                    "rate": "0.76",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -5478,7 +5478,7 @@
                                 },
                                 {
                                     "referentialRateIndexer": "FLUTUANTE_CDI",
-                                    "rate": "0.0300",
+                                    "rate": "0.03",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -5522,7 +5522,7 @@
                                 },
                                 {
                                     "referentialRateIndexer": "FLUTUANTE_SELIC",
-                                    "rate": "0.0300",
+                                    "rate": "0.03",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -6049,7 +6049,7 @@
                                 },
                                 {
                                     "referentialRateIndexer": "POS_FIXADO_TR_TBF",
-                                    "rate": "0.0787",
+                                    "rate": "0.07",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -6093,7 +6093,7 @@
                                 },
                                 {
                                     "referentialRateIndexer": "FLUTUANTES_CDI",
-                                    "rate": "0.0432",
+                                    "rate": "0.04",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -6137,7 +6137,7 @@
                                 },
                                 {
                                     "referentialRateIndexer": "FLUTUANTES_SELIC",
-                                    "rate": "0.7610",
+                                    "rate": "0.76",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -6715,7 +6715,7 @@
                                 },
                                 {
                                     "referentialRateIndexer": "FLUTUANTE_CDI",
-                                    "rate": "0.0300",
+                                    "rate": "0.03",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -6759,7 +6759,7 @@
                                 },
                                 {
                                     "referentialRateIndexer": "FLUTUANTE_SELIC",
-                                    "rate": "0.0300",
+                                    "rate": "0.03",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -7286,7 +7286,7 @@
                                 },
                                 {
                                     "referentialRateIndexer": "POS_FIXADO_TR_TBF",
-                                    "rate": "0.0787",
+                                    "rate": "0.07",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -7330,7 +7330,7 @@
                                 },
                                 {
                                     "referentialRateIndexer": "FLUTUANTES_CDI",
-                                    "rate": "0.0432",
+                                    "rate": "0.04",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -7374,7 +7374,7 @@
                                 },
                                 {
                                     "referentialRateIndexer": "FLUTUANTES_SELIC",
-                                    "rate": "0.7610",
+                                    "rate": "0.76",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -7952,7 +7952,7 @@
                                 },
                                 {
                                     "referentialRateIndexer": "FLUTUANTE_CDI",
-                                    "rate": "0.0300",
+                                    "rate": "0.03",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -7996,7 +7996,7 @@
                                 },
                                 {
                                     "referentialRateIndexer": "FLUTUANTE_SELIC",
-                                    "rate": "0.0300",
+                                    "rate": "0.03",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -8523,7 +8523,7 @@
                                 },
                                 {
                                     "referentialRateIndexer": "POS_FIXADO_TR_TBF",
-                                    "rate": "0.0787",
+                                    "rate": "0.07",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -8567,7 +8567,7 @@
                                 },
                                 {
                                     "referentialRateIndexer": "FLUTUANTES_CDI",
-                                    "rate": "0.0432",
+                                    "rate": "0.04",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -8611,7 +8611,7 @@
                                 },
                                 {
                                     "referentialRateIndexer": "FLUTUANTES_SELIC",
-                                    "rate": "0.7610",
+                                    "rate": "0.76",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -9189,7 +9189,7 @@
                                 },
                                 {
                                     "referentialRateIndexer": "FLUTUANTE_CDI",
-                                    "rate": "0.0300",
+                                    "rate": "0.03",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -9233,7 +9233,7 @@
                                 },
                                 {
                                     "referentialRateIndexer": "FLUTUANTE_SELIC",
-                                    "rate": "0.0300",
+                                    "rate": "0.03",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -9760,7 +9760,7 @@
                                 },
                                 {
                                     "referentialRateIndexer": "POS_FIXADO_TR_TBF",
-                                    "rate": "0.0787",
+                                    "rate": "0.07",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -9804,7 +9804,7 @@
                                 },
                                 {
                                     "referentialRateIndexer": "FLUTUANTES_CDI",
-                                    "rate": "0.0432",
+                                    "rate": "0.04",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -9848,7 +9848,7 @@
                                 },
                                 {
                                     "referentialRateIndexer": "FLUTUANTES_SELIC",
-                                    "rate": "0.7610",
+                                    "rate": "0.76",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -10426,7 +10426,7 @@
                                 },
                                 {
                                     "referentialRateIndexer": "FLUTUANTE_CDI",
-                                    "rate": "0.0300",
+                                    "rate": "0.03",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -10470,7 +10470,7 @@
                                 },
                                 {
                                     "referentialRateIndexer": "FLUTUANTE_SELIC",
-                                    "rate": "0.0300",
+                                    "rate": "0.03",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -10997,7 +10997,7 @@
                                 },
                                 {
                                     "referentialRateIndexer": "POS_FIXADO_TR_TBF",
-                                    "rate": "0.0787",
+                                    "rate": "0.07",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -11041,7 +11041,7 @@
                                 },
                                 {
                                     "referentialRateIndexer": "FLUTUANTES_CDI",
-                                    "rate": "0.0432",
+                                    "rate": "0.04",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -11085,7 +11085,7 @@
                                 },
                                 {
                                     "referentialRateIndexer": "FLUTUANTES_SELIC",
-                                    "rate": "0.7610",
+                                    "rate": "0.76",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -11663,7 +11663,7 @@
                                 },
                                 {
                                     "referentialRateIndexer": "FLUTUANTE_CDI",
-                                    "rate": "0.0300",
+                                    "rate": "0.03",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -11707,7 +11707,7 @@
                                 },
                                 {
                                     "referentialRateIndexer": "FLUTUANTE_SELIC",
-                                    "rate": "0.0300",
+                                    "rate": "0.03",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -12234,7 +12234,7 @@
                                 },
                                 {
                                     "referentialRateIndexer": "POS_FIXADO_TR_TBF",
-                                    "rate": "0.0787",
+                                    "rate": "0.07",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -12278,7 +12278,7 @@
                                 },
                                 {
                                     "referentialRateIndexer": "FLUTUANTES_CDI",
-                                    "rate": "0.0432",
+                                    "rate": "0.04",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -12322,7 +12322,7 @@
                                 },
                                 {
                                     "referentialRateIndexer": "FLUTUANTES_SELIC",
-                                    "rate": "0.7610",
+                                    "rate": "0.76",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
