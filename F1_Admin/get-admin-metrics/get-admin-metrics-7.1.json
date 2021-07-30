@@ -252,150 +252,54 @@
         "invocations": {
             "unauthenticated": {
                 "currentDay": 100,
-                "previousDays": [
-                    100,
-                    50,
-                    1,
-                    1,
-                    1000,
-                    1,
-                    10
-                ]
+                "previousDays": []
             },
             "highPriority": {
                 "currentDay": 204,
-                "previousDays": [
-                    345,
-                    123,
-                    662,
-                    674,
-                    125,
-                    873,
-                    158
-                ]
+                "previousDays": []
             },
             "mediumPriority": {
                 "currentDay": 61,
-                "previousDays": [
-                    20,
-                    25,
-                    12,
-                    23,
-                    26,
-                    43,
-                    31
-                ]
+                "previousDays": []
             },
             "unattended": {
                 "currentDay": 0,
-                "previousDays": [
-                    1,
-                    2,
-                    3,
-                    0,
-                    3,
-                    2,
-                    3
-                ]
+                "previousDays": []
             }
         },
         "averageResponse": {
             "unauthenticated": {
                 "currentDay": 1,
-                "previousDays": [
-                    1,
-                    1,
-                    1,
-                    1,
-                    1,
-                    1,
-                    1
-                ]
+                "previousDays": []
             },
             "highPriority": {
                 "currentDay": 1,
-                "previousDays": [
-                    1,
-                    1,
-                    1,
-                    1,
-                    1,
-                    1,
-                    1
-                ]
+                "previousDays": []
             },
             "mediumPriority": {
                 "currentDay": 20,
-                "previousDays": [
-                    20,
-                    20,
-                    3,
-                    3,
-                    20,
-                    20,
-                    20
-                ]
+                "previousDays": []
             },
             "unattended": {
                 "currentDay": 15,
-                "previousDays": [
-                    15,
-                    23,
-                    20,
-                    20,
-                    24,
-                    28,
-                    35
-                ]
+                "previousDays": []
             }
         },
         "averageTps": {
             "currentDay": 1,
-            "previousDays": [
-                1,
-                1,
-                1,
-                1,
-                1,
-                1,
-                1
-            ]
+            "previousDays": []
         },
         "peakTps": {
             "currentDay": 3,
-            "previousDays": [
-                3,
-                3,
-                2,
-                2,
-                3,
-                3,
-                2
-            ]
+            "previousDays": []
         },
         "errors": {
             "currentDay": 100,
-            "previousDays": [
-                120,
-                100,
-                5,
-                5,
-                6,
-                89,
-                92
-            ]
+            "previousDays": []
         },
         "rejections": {
             "currentDay": 150,
-            "previousDays": [
-                160,
-                35,
-                80,
-                1,
-                13,
-                80,
-                8
-            ]
+            "previousDays": []
         }
     },
     "links": {
