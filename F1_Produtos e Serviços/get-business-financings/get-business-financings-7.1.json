@@ -14,7 +14,7 @@
                                     {
                                         "name": "Financiamento de um apartamento para moradia",
                                         "code": "APTO101",
-                                        "chargingTriggerInfo": "R$ 700.0000 Por solicitação",
+                                        "chargingTriggerInfo": "R$ 700.00 Por solicitação",
                                         "prices": [
                                             {
                                                 "interval": "1_FAIXA",

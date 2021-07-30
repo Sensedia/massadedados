@@ -592,7 +592,7 @@
                                     "prices": [
                                         {
                                             "interval": "1_FAIXA",
-                                            "monthlyFee": "0.0000",
+                                            "monthlyFee": "0.00",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.6000"
@@ -600,7 +600,7 @@
                                         },
                                         {
                                             "interval": "2_FAIXA",
-                                            "monthlyFee": "2.5000",
+                                            "monthlyFee": "2.50",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.2000"
@@ -608,7 +608,7 @@
                                         },
                                         {
                                             "interval": "3_FAIXA",
-                                            "monthlyFee": "3.7500",
+                                            "monthlyFee": "3.75",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.1500"
@@ -616,7 +616,7 @@
                                         },
                                         {
                                             "interval": "4_FAIXA",
-                                            "monthlyFee": "5.0000",
+                                            "monthlyFee": "5.00",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.0500"
@@ -628,7 +628,7 @@
                                         "currency": "BRL"
                                     },
                                     "maximum": {
-                                        "value": "5.0000",
+                                        "value": "5.00",
                                         "currency": "BRL"
                                     }
                                 },
@@ -693,7 +693,7 @@
                                     "prices": [
                                         {
                                             "interval": "1_FAIXA",
-                                            "monthlyFee": "0.0000",
+                                            "monthlyFee": "0.00",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.6000"
@@ -701,7 +701,7 @@
                                         },
                                         {
                                             "interval": "2_FAIXA",
-                                            "monthlyFee": "0.75000",
+                                            "monthlyFee": "0.75",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.2000"
@@ -709,7 +709,7 @@
                                         },
                                         {
                                             "interval": "3_FAIXA",
-                                            "monthlyFee": "1.7500",
+                                            "monthlyFee": "1.75",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.1500"
@@ -717,7 +717,7 @@
                                         },
                                         {
                                             "interval": "4_FAIXA",
-                                            "monthlyFee": "2.0000",
+                                            "monthlyFee": "2.00",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.0500"
@@ -2917,7 +2917,7 @@
                                     "prices": [
                                         {
                                             "interval": "1_FAIXA",
-                                            "monthlyFee": "0.0000",
+                                            "monthlyFee": "0.00",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.6000"
@@ -2925,7 +2925,7 @@
                                         },
                                         {
                                             "interval": "2_FAIXA",
-                                            "monthlyFee": "2.5000",
+                                            "monthlyFee": "2.50",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.2000"
@@ -2933,7 +2933,7 @@
                                         },
                                         {
                                             "interval": "3_FAIXA",
-                                            "monthlyFee": "3.7500",
+                                            "monthlyFee": "3.75",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.1500"
@@ -2941,7 +2941,7 @@
                                         },
                                         {
                                             "interval": "4_FAIXA",
-                                            "monthlyFee": "5.0000",
+                                            "monthlyFee": "5.00",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.0500"
@@ -2953,7 +2953,7 @@
                                         "currency": "BRL"
                                     },
                                     "maximum": {
-                                        "value": "5.0000",
+                                        "value": "5.00",
                                         "currency": "BRL"
                                     }
                                 },
@@ -3018,7 +3018,7 @@
                                     "prices": [
                                         {
                                             "interval": "1_FAIXA",
-                                            "monthlyFee": "0.0000",
+                                            "monthlyFee": "0.00",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.6000"
@@ -3026,7 +3026,7 @@
                                         },
                                         {
                                             "interval": "2_FAIXA",
-                                            "monthlyFee": "0.75000",
+                                            "monthlyFee": "0.75",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.2000"
@@ -3034,7 +3034,7 @@
                                         },
                                         {
                                             "interval": "3_FAIXA",
-                                            "monthlyFee": "1.7500",
+                                            "monthlyFee": "1.75",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.1500"
@@ -3042,7 +3042,7 @@
                                         },
                                         {
                                             "interval": "4_FAIXA",
-                                            "monthlyFee": "2.0000",
+                                            "monthlyFee": "2.00",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.0500"
@@ -5242,7 +5242,7 @@
                                     "prices": [
                                         {
                                             "interval": "1_FAIXA",
-                                            "monthlyFee": "0.0000",
+                                            "monthlyFee": "0.00",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.6000"
@@ -5250,7 +5250,7 @@
                                         },
                                         {
                                             "interval": "2_FAIXA",
-                                            "monthlyFee": "2.5000",
+                                            "monthlyFee": "2.50",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.2000"
@@ -5258,7 +5258,7 @@
                                         },
                                         {
                                             "interval": "3_FAIXA",
-                                            "monthlyFee": "3.7500",
+                                            "monthlyFee": "3.75",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.1500"
@@ -5266,7 +5266,7 @@
                                         },
                                         {
                                             "interval": "4_FAIXA",
-                                            "monthlyFee": "5.0000",
+                                            "monthlyFee": "5.00",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.0500"
@@ -5278,7 +5278,7 @@
                                         "currency": "BRL"
                                     },
                                     "maximum": {
-                                        "value": "5.0000",
+                                        "value": "5.00",
                                         "currency": "BRL"
                                     }
                                 },
@@ -5343,7 +5343,7 @@
                                     "prices": [
                                         {
                                             "interval": "1_FAIXA",
-                                            "monthlyFee": "0.0000",
+                                            "monthlyFee": "0.00",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.6000"
@@ -5351,7 +5351,7 @@
                                         },
                                         {
                                             "interval": "2_FAIXA",
-                                            "monthlyFee": "0.75000",
+                                            "monthlyFee": "0.75",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.2000"
@@ -5359,7 +5359,7 @@
                                         },
                                         {
                                             "interval": "3_FAIXA",
-                                            "monthlyFee": "1.7500",
+                                            "monthlyFee": "1.75",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.1500"
@@ -5367,7 +5367,7 @@
                                         },
                                         {
                                             "interval": "4_FAIXA",
-                                            "monthlyFee": "2.0000",
+                                            "monthlyFee": "2.00",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.0500"
@@ -7567,7 +7567,7 @@
                                     "prices": [
                                         {
                                             "interval": "1_FAIXA",
-                                            "monthlyFee": "0.0000",
+                                            "monthlyFee": "0.00",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.6000"
@@ -7575,7 +7575,7 @@
                                         },
                                         {
                                             "interval": "2_FAIXA",
-                                            "monthlyFee": "2.5000",
+                                            "monthlyFee": "2.50",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.2000"
@@ -7583,7 +7583,7 @@
                                         },
                                         {
                                             "interval": "3_FAIXA",
-                                            "monthlyFee": "3.7500",
+                                            "monthlyFee": "3.75",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.1500"
@@ -7591,7 +7591,7 @@
                                         },
                                         {
                                             "interval": "4_FAIXA",
-                                            "monthlyFee": "5.0000",
+                                            "monthlyFee": "5.00",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.0500"
@@ -7603,7 +7603,7 @@
                                         "currency": "BRL"
                                     },
                                     "maximum": {
-                                        "value": "5.0000",
+                                        "value": "5.00",
                                         "currency": "BRL"
                                     }
                                 },
@@ -7668,7 +7668,7 @@
                                     "prices": [
                                         {
                                             "interval": "1_FAIXA",
-                                            "monthlyFee": "0.0000",
+                                            "monthlyFee": "0.00",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.6000"
@@ -7676,7 +7676,7 @@
                                         },
                                         {
                                             "interval": "2_FAIXA",
-                                            "monthlyFee": "0.75000",
+                                            "monthlyFee": "0.75",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.2000"
@@ -7684,7 +7684,7 @@
                                         },
                                         {
                                             "interval": "3_FAIXA",
-                                            "monthlyFee": "1.7500",
+                                            "monthlyFee": "1.75",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.1500"
@@ -7692,7 +7692,7 @@
                                         },
                                         {
                                             "interval": "4_FAIXA",
-                                            "monthlyFee": "2.0000",
+                                            "monthlyFee": "2.00",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.0500"
@@ -9892,7 +9892,7 @@
                                     "prices": [
                                         {
                                             "interval": "1_FAIXA",
-                                            "monthlyFee": "0.0000",
+                                            "monthlyFee": "0.00",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.6000"
@@ -9900,7 +9900,7 @@
                                         },
                                         {
                                             "interval": "2_FAIXA",
-                                            "monthlyFee": "2.5000",
+                                            "monthlyFee": "2.50",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.2000"
@@ -9908,7 +9908,7 @@
                                         },
                                         {
                                             "interval": "3_FAIXA",
-                                            "monthlyFee": "3.7500",
+                                            "monthlyFee": "3.75",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.1500"
@@ -9916,7 +9916,7 @@
                                         },
                                         {
                                             "interval": "4_FAIXA",
-                                            "monthlyFee": "5.0000",
+                                            "monthlyFee": "5.00",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.0500"
@@ -9928,7 +9928,7 @@
                                         "currency": "BRL"
                                     },
                                     "maximum": {
-                                        "value": "5.0000",
+                                        "value": "5.00",
                                         "currency": "BRL"
                                     }
                                 },
@@ -9993,7 +9993,7 @@
                                     "prices": [
                                         {
                                             "interval": "1_FAIXA",
-                                            "monthlyFee": "0.0000",
+                                            "monthlyFee": "0.00",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.6000"
@@ -10001,7 +10001,7 @@
                                         },
                                         {
                                             "interval": "2_FAIXA",
-                                            "monthlyFee": "0.75000",
+                                            "monthlyFee": "0.75",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.2000"
@@ -10009,7 +10009,7 @@
                                         },
                                         {
                                             "interval": "3_FAIXA",
-                                            "monthlyFee": "1.7500",
+                                            "monthlyFee": "1.75",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.1500"
@@ -10017,7 +10017,7 @@
                                         },
                                         {
                                             "interval": "4_FAIXA",
-                                            "monthlyFee": "2.0000",
+                                            "monthlyFee": "2.00",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.0500"
@@ -12217,7 +12217,7 @@
                                     "prices": [
                                         {
                                             "interval": "1_FAIXA",
-                                            "monthlyFee": "0.0000",
+                                            "monthlyFee": "0.00",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.6000"
@@ -12225,7 +12225,7 @@
                                         },
                                         {
                                             "interval": "2_FAIXA",
-                                            "monthlyFee": "2.5000",
+                                            "monthlyFee": "2.50",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.2000"
@@ -12233,7 +12233,7 @@
                                         },
                                         {
                                             "interval": "3_FAIXA",
-                                            "monthlyFee": "3.7500",
+                                            "monthlyFee": "3.75",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.1500"
@@ -12241,7 +12241,7 @@
                                         },
                                         {
                                             "interval": "4_FAIXA",
-                                            "monthlyFee": "5.0000",
+                                            "monthlyFee": "5.00",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.0500"
@@ -12253,7 +12253,7 @@
                                         "currency": "BRL"
                                     },
                                     "maximum": {
-                                        "value": "5.0000",
+                                        "value": "5.00",
                                         "currency": "BRL"
                                     }
                                 },
@@ -12318,7 +12318,7 @@
                                     "prices": [
                                         {
                                             "interval": "1_FAIXA",
-                                            "monthlyFee": "0.0000",
+                                            "monthlyFee": "0.00",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.6000"
@@ -12326,7 +12326,7 @@
                                         },
                                         {
                                             "interval": "2_FAIXA",
-                                            "monthlyFee": "0.75000",
+                                            "monthlyFee": "0.75",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.2000"
@@ -12334,7 +12334,7 @@
                                         },
                                         {
                                             "interval": "3_FAIXA",
-                                            "monthlyFee": "1.7500",
+                                            "monthlyFee": "1.75",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.1500"
@@ -12342,7 +12342,7 @@
                                         },
                                         {
                                             "interval": "4_FAIXA",
-                                            "monthlyFee": "2.0000",
+                                            "monthlyFee": "2.00",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.0500"
@@ -14542,7 +14542,7 @@
                                     "prices": [
                                         {
                                             "interval": "1_FAIXA",
-                                            "monthlyFee": "0.0000",
+                                            "monthlyFee": "0.00",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.6000"
@@ -14550,7 +14550,7 @@
                                         },
                                         {
                                             "interval": "2_FAIXA",
-                                            "monthlyFee": "2.5000",
+                                            "monthlyFee": "2.50",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.2000"
@@ -14558,7 +14558,7 @@
                                         },
                                         {
                                             "interval": "3_FAIXA",
-                                            "monthlyFee": "3.7500",
+                                            "monthlyFee": "3.75",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.1500"
@@ -14566,7 +14566,7 @@
                                         },
                                         {
                                             "interval": "4_FAIXA",
-                                            "monthlyFee": "5.0000",
+                                            "monthlyFee": "5.00",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.0500"
@@ -14578,7 +14578,7 @@
                                         "currency": "BRL"
                                     },
                                     "maximum": {
-                                        "value": "5.0000",
+                                        "value": "5.00",
                                         "currency": "BRL"
                                     }
                                 },
@@ -14643,7 +14643,7 @@
                                     "prices": [
                                         {
                                             "interval": "1_FAIXA",
-                                            "monthlyFee": "0.0000",
+                                            "monthlyFee": "0.00",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.6000"
@@ -14651,7 +14651,7 @@
                                         },
                                         {
                                             "interval": "2_FAIXA",
-                                            "monthlyFee": "0.75000",
+                                            "monthlyFee": "0.75",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.2000"
@@ -14659,7 +14659,7 @@
                                         },
                                         {
                                             "interval": "3_FAIXA",
-                                            "monthlyFee": "1.7500",
+                                            "monthlyFee": "1.75",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.1500"
@@ -14667,7 +14667,7 @@
                                         },
                                         {
                                             "interval": "4_FAIXA",
-                                            "monthlyFee": "2.0000",
+                                            "monthlyFee": "2.00",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.0500"
@@ -16867,7 +16867,7 @@
                                     "prices": [
                                         {
                                             "interval": "1_FAIXA",
-                                            "monthlyFee": "0.0000",
+                                            "monthlyFee": "0.00",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.6000"
@@ -16875,7 +16875,7 @@
                                         },
                                         {
                                             "interval": "2_FAIXA",
-                                            "monthlyFee": "2.5000",
+                                            "monthlyFee": "2.50",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.2000"
@@ -16883,7 +16883,7 @@
                                         },
                                         {
                                             "interval": "3_FAIXA",
-                                            "monthlyFee": "3.7500",
+                                            "monthlyFee": "3.75",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.1500"
@@ -16891,7 +16891,7 @@
                                         },
                                         {
                                             "interval": "4_FAIXA",
-                                            "monthlyFee": "5.0000",
+                                            "monthlyFee": "5.00",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.0500"
@@ -16903,7 +16903,7 @@
                                         "currency": "BRL"
                                     },
                                     "maximum": {
-                                        "value": "5.0000",
+                                        "value": "5.00",
                                         "currency": "BRL"
                                     }
                                 },
@@ -16968,7 +16968,7 @@
                                     "prices": [
                                         {
                                             "interval": "1_FAIXA",
-                                            "monthlyFee": "0.0000",
+                                            "monthlyFee": "0.00",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.6000"
@@ -16976,7 +16976,7 @@
                                         },
                                         {
                                             "interval": "2_FAIXA",
-                                            "monthlyFee": "0.75000",
+                                            "monthlyFee": "0.75",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.2000"
@@ -16984,7 +16984,7 @@
                                         },
                                         {
                                             "interval": "3_FAIXA",
-                                            "monthlyFee": "1.7500",
+                                            "monthlyFee": "1.75",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.1500"
@@ -16992,7 +16992,7 @@
                                         },
                                         {
                                             "interval": "4_FAIXA",
-                                            "monthlyFee": "2.0000",
+                                            "monthlyFee": "2.00",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.0500"
@@ -19192,7 +19192,7 @@
                                     "prices": [
                                         {
                                             "interval": "1_FAIXA",
-                                            "monthlyFee": "0.0000",
+                                            "monthlyFee": "0.00",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.6000"
@@ -19200,7 +19200,7 @@
                                         },
                                         {
                                             "interval": "2_FAIXA",
-                                            "monthlyFee": "2.5000",
+                                            "monthlyFee": "2.50",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.2000"
@@ -19208,7 +19208,7 @@
                                         },
                                         {
                                             "interval": "3_FAIXA",
-                                            "monthlyFee": "3.7500",
+                                            "monthlyFee": "3.75",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.1500"
@@ -19216,7 +19216,7 @@
                                         },
                                         {
                                             "interval": "4_FAIXA",
-                                            "monthlyFee": "5.0000",
+                                            "monthlyFee": "5.00",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.0500"
@@ -19228,7 +19228,7 @@
                                         "currency": "BRL"
                                     },
                                     "maximum": {
-                                        "value": "5.0000",
+                                        "value": "5.00",
                                         "currency": "BRL"
                                     }
                                 },
@@ -19293,7 +19293,7 @@
                                     "prices": [
                                         {
                                             "interval": "1_FAIXA",
-                                            "monthlyFee": "0.0000",
+                                            "monthlyFee": "0.00",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.6000"
@@ -19301,7 +19301,7 @@
                                         },
                                         {
                                             "interval": "2_FAIXA",
-                                            "monthlyFee": "0.75000",
+                                            "monthlyFee": "0.75",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.2000"
@@ -19309,7 +19309,7 @@
                                         },
                                         {
                                             "interval": "3_FAIXA",
-                                            "monthlyFee": "1.7500",
+                                            "monthlyFee": "1.75",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.1500"
@@ -19317,7 +19317,7 @@
                                         },
                                         {
                                             "interval": "4_FAIXA",
-                                            "monthlyFee": "2.0000",
+                                            "monthlyFee": "2.00",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.0500"
@@ -21517,7 +21517,7 @@
                                     "prices": [
                                         {
                                             "interval": "1_FAIXA",
-                                            "monthlyFee": "0.0000",
+                                            "monthlyFee": "0.00",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.6000"
@@ -21525,7 +21525,7 @@
                                         },
                                         {
                                             "interval": "2_FAIXA",
-                                            "monthlyFee": "2.5000",
+                                            "monthlyFee": "2.50",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.2000"
@@ -21533,7 +21533,7 @@
                                         },
                                         {
                                             "interval": "3_FAIXA",
-                                            "monthlyFee": "3.7500",
+                                            "monthlyFee": "3.75",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.1500"
@@ -21541,7 +21541,7 @@
                                         },
                                         {
                                             "interval": "4_FAIXA",
-                                            "monthlyFee": "5.0000",
+                                            "monthlyFee": "5.00",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.0500"
@@ -21553,7 +21553,7 @@
                                         "currency": "BRL"
                                     },
                                     "maximum": {
-                                        "value": "5.0000",
+                                        "value": "5.00",
                                         "currency": "BRL"
                                     }
                                 },
@@ -21618,7 +21618,7 @@
                                     "prices": [
                                         {
                                             "interval": "1_FAIXA",
-                                            "monthlyFee": "0.0000",
+                                            "monthlyFee": "0.00",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.6000"
@@ -21626,7 +21626,7 @@
                                         },
                                         {
                                             "interval": "2_FAIXA",
-                                            "monthlyFee": "0.75000",
+                                            "monthlyFee": "0.75",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.2000"
@@ -21634,7 +21634,7 @@
                                         },
                                         {
                                             "interval": "3_FAIXA",
-                                            "monthlyFee": "1.7500",
+                                            "monthlyFee": "1.75",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.1500"
@@ -21642,7 +21642,7 @@
                                         },
                                         {
                                             "interval": "4_FAIXA",
-                                            "monthlyFee": "2.0000",
+                                            "monthlyFee": "2.00",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.0500"

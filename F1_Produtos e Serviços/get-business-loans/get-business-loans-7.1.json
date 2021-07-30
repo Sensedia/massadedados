@@ -90,8 +90,8 @@
                                         }
                                     },
                                     {
-                                        "name": "Taxa de Cadastro",
-                                        "code": "CADASTRO",
+                                        "name": "Taxa de Cadastro Única",
+                                        "code": "CADASTRO_UNICA",
                                         "chargingTriggerInfo": "Taxa única de cadastro",
                                         "prices": [
                                             {

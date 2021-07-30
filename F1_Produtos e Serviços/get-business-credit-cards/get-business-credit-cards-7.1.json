@@ -20,8 +20,7 @@
                                 }
                             },
                             "rewardsProgram": {
-                                "hasRewardProgram": false,
-                                "rewardProgramInfo": "NA"
+                                "hasRewardProgram": false
                             },
                             "fees": {
                                 "services": [
