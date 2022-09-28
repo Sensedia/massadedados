@@ -2,7 +2,9 @@
   "data": {
     "name": "Gold Mastercard",
     "productType": "GOLD",
+    "productAdditionalInfo": "NA",
     "creditCardNetwork": "MASTERCARD",
+    "networkAdditionalInfo": "NA",
     "paymentMethod": {
       "identificationNumber": "0896",
       "isMultipleCreditCard": true
@@ -14,6 +16,6 @@
   "meta": {
     "totalRecords": 1,
     "totalPages": 1,
-    "requestDateTime": "2022-09-12T09:37:00Z"
+    "requestDateTime": "2021-12-10T09:51:00Z"
   }
 }

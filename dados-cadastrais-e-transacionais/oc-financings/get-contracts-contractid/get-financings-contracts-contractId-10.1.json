@@ -6,16 +6,17 @@
     "productType": "FINANCIAMENTOS_RURAIS",
     "productSubType": "INVESTIMENTO",
     "contractDate": "2021-06-25",
-    "disbursementDate": [
-      "2021-07-02"
-    ],
-    "contractAmount": "120000.0000",
+    "disbursementDate": "2021-07-02",
+    "settlementDate": "NA",
+    "contractAmount": 120000.0000,
     "currency": "BRL",
     "dueDate": "2031-08-02",
     "instalmentPeriodicity": "MENSAL",
+    "instalmentPeriodicityAdditionalInfo": "NA",
     "firstInstalmentDueDate": "2021-08-02",
-    "CET": "0.0625",
+    "CET": 0.0625,
     "amortizationScheduled": "PRICE",
+    "amortizationScheduledAdditionalInfo": "NA",
     "interestRates": [
       {
         "taxType": "NOMINAL",
@@ -24,8 +25,10 @@
         "calculation": "21/252",
         "referentialRateIndexerType": "FLUTUANTES",
         "referentialRateIndexerSubType": "SELIC",
-        "preFixedRate": "0.0000",
-        "postFixedRate": "0.0425"
+        "referentialRateIndexerAdditionalInfo": "NA",
+        "preFixedRate": 0.0000,
+        "postFixedRate": 0.0425,
+        "additionalInfo": "NA"
       }
     ],
     "contractedFees": [
@@ -34,26 +37,30 @@
         "feeCode": "ADMINISTRACAO",
         "feeChargeType": "POR_PARCELA",
         "feeCharge": "Percentual",
-        "feeAmount": "0.0000",
-        "feeRate": "0.0002"
+        "feeAmount": 0.0000,
+        "feeRate": 0.0002
       }
     ],
     "contractedFinanceCharges": [
       {
         "chargeType": "JUROS_REMUNERATORIOS_POR_ATRASO",
-        "chargeRate": "0.0557"
+        "chargeAdditionalInfo": "NA",
+        "chargeRate": 0.0557
       },
       {
         "chargeType": "JUROS_MORA_ATRASO",
-        "chargeRate": "0.0207"
+        "chargeAdditionalInfo": "NA",
+        "chargeRate": 0.0207
       },
       {
         "chargeType": "IOF_CONTRATACAO",
-        "chargeRate": "0.0000"
+        "chargeAdditionalInfo": "NA",
+        "chargeRate": 0.0000
       },
       {
         "chargeType": "IOF_POR_ATRASO",
-        "chargeRate": "0.0197"
+        "chargeAdditionalInfo": "NA",
+        "chargeRate": 0.0197
       }
     ]
   },
@@ -63,6 +70,6 @@
   "meta": {
     "totalRecords": 1,
     "totalPages": 1,
-    "requestDateTime": "2022-08-31T09:37:00Z"
+    "requestDateTime": "2021-06-25T10:02:00Z"
   }
 }
