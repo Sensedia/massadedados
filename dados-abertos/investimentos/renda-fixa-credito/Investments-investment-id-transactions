@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "type": "SAIDA",
+      "transactionType": "PAGAMENTO_JUROS",
+      "transactionDate": "2023-05-19",
+      "transactionGrossValue": {
+        "amount": "27663.4553",
+        "currency": "BRL"
+      },
+      "incomeTax": {
+        "amount": "3425.01",
+        "currency": "BRL"
+      },
+      "financialTransactionTax": {
+        "amount": "34.9204",
+        "currency": "BRL"
+      },
+      "transactionNetValue": {
+        "amount": "24203.5249",
+        "currency": "BRL"
+      },
+      "transactionId": "BR103482LSF0012302"
+    }
+  ],
+  "links": {
+    "self": "https://api.itau/open-banking/resources/v1/resources",
+    "first": "https://api.itau/open-banking/resources/v1/resources",
+    "prev": "https://api.itau/open-banking/resources/v1/resources",
+    "next": "https://api.itau/open-banking/resources/v1/resources"
+  },
+  "meta": {
+    "requestDateTime": "2023-05-29T10:32:43Z"
+  }
+}

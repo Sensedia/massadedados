@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "type": "SAIDA",
+      "transactionType": "VENDA",
+      "transactionDate": "2023-05-26",
+      "transactionUnitPrice": {
+        "amount": "54354.31",
+        "currency": "BRL"
+      },
+      "transactionQuantity": "56.00",
+      "transactionGrossValue": {
+        "amount": "423423.0393",
+        "currency": "BRL"
+      },
+      "incomeTax": {
+        "amount": "84930.04",
+        "currency": "BRL"
+      },
+      "financialTransactionTax": {
+        "amount": "434.90",
+        "currency": "BRL"
+      },
+      "transactionNetValue": {
+        "amount": "338058.0993",
+        "currency": "BRL"
+      },
+      "remunerationTransactionRate": "2.184903",
+      "indexerPercentage": "0.000011",
+      "transactionId": "BRL4354459RS00193303"
+    }
+  ],
+  "links": {
+    "self": "https://api.itau/open-banking/resources/v1/resources",
+    "first": "https://api.itau/open-banking/resources/v1/resources",
+    "prev": "https://api.itau/open-banking/resources/v1/resources",
+    "next": "https://api.itau/open-banking/resources/v1/resources"
+  },
+  "meta": {
+    "requestDateTime": "2023-05-29T10:33:00Z"
+  }
+}

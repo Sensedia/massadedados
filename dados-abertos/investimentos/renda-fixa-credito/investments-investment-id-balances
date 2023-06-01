@@ -1,0 +1,55 @@
+{
+  "data": {
+    "referenceDateTime": "2023-05-29T10:28:20Z",
+    "updatedUnitPrice": {
+      "amount": "7548.0129",
+      "currency": "BRL"
+    },
+    "quantity": "30.00",
+    "grossAmount": {
+      "amount": "3842.04",
+      "currency": "BRL"
+    },
+    "netAmount": {
+      "amount": "2313214.04",
+      "currency": "BRL"
+    },
+    "incomeTax": {
+      "amount": "12.0494",
+      "currency": "BRL"
+    },
+    "financialTransactionTax": {
+      "amount": "484.00",
+      "currency": "BRL"
+    },
+    "blockedBalance": {
+      "amount": "21314.9320",
+      "currency": "BRL"
+    },
+    "purchaseUnitPrice": {
+      "amount": "343432.000018",
+      "currency": "BRL"
+    },
+    "preFixedRate": "0.011092",
+    "postFixedIndexerPercentage": "5.340290",
+    "fine": {
+      "amount": "34514543.0293",
+      "currency": "BRL"
+    },
+    "latePayment": {
+      "amount": "12.234098",
+      "currency": "BRL"
+    }
+  },
+  "links": {
+    "self": "https://api.itau/open-banking/resources/v1/resources",
+    "first": "https://api.itau/open-banking/resources/v1/resources",
+    "prev": "https://api.itau/open-banking/resources/v1/resources",
+    "next": "https://api.itau/open-banking/resources/v1/resources"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2023-05-29T10:31:20Z"
+  }
+}

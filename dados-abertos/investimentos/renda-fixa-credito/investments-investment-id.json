@@ -1,0 +1,40 @@
+{
+  "data": {
+    "issuerInstitutionCnpjNumber": "60701190000104",
+    "isinCode": "BR001942LP20",
+    "investmentType": "CRA",
+    "debtorCnpjNumber": "30780335000130",
+    "debtorName": "Tobias Marinho",
+    "taxExemptProduct": "NAO",
+    "remuneration": {
+      "preFixedRate": "2.195609",
+      "postFixedIndexerPercentage": "0.100019",
+      "rateType": "EXPONENCIAL",
+      "ratePeriodicity": "DIARIO",
+      "calculation": "DIAS_UTEIS",
+      "indexer": "SELIC"
+    },
+    "issueUnitPrice": {
+      "amount": "189505.0054",
+      "currency": "BRL"
+    },
+    "issueDate": "2022-03-16",
+    "dueDate": "2030-03-16",
+    "voucherPaymentIndicator": "SIM",
+    "voucherPaymentPeriodicity": "IRREGULAR",
+    "clearingCode": "CDB102020231056BR",
+    "purchaseDate": "2023-05-18",
+    "gracePeriodDate": "2025-05-18"
+  },
+  "links": {
+    "self": "https://api.itau/open-banking/resources/v1/resources",
+    "first": "https://api.itau/open-banking/resources/v1/resources",
+    "prev": "https://api.itau/open-banking/resources/v1/resources",
+    "next": "https://api.itau/open-banking/resources/v1/resources"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2023-05-29T10:30:20Z"
+  }
+}
