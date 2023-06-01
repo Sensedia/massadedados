@@ -1,0 +1,21 @@
+{
+  "data": [
+    {
+      "brandName": "Caixa Econômica Federal",
+      "companyCnpj": "00360305000104",
+      "investmentType": "RDB",
+      "investmentId": "RDB20230601394203"
+    }
+  ],
+  "links": {
+    "self": "https://api.caixa.gov.br/open-banking/resources/v1/resources",
+    "first": "https://api.caixa.gov.br/open-banking/resources/v1/resources",
+    "prev": "https://api.caixa.gov.br/open-banking/resources/v1/resources",
+    "next": "https://api.caixa.gov.br/open-banking/resources/v1/resources"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2023-05-31T14:30:00Z"
+  }
+}

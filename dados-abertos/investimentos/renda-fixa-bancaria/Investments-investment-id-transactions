@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+      "type": "ENTRADA",
+      "transactionType": "APLICACAO",
+      "transactionDate": "2023-05-31",
+      "transactionUnitPrice": {
+        "amount": "5840.78",
+        "currency": "BRL"
+      },
+      "transactionQuantity": "1.38",
+      "transactionGrossValue": {
+        "amount": "6758.0374",
+        "currency": "BRL"
+      },
+      "transactionNetValue": {
+        "amount": "5849.0198",
+        "currency": "BRL"
+      },
+      "remunerationTransactionRate": "4.000087",
+      "indexerPercentage": "2.000948",
+      "transactionId": "RSB038320LF00139"
+    }
+  ],
+  "links": {
+    "self": "https://api.caixa.gov.br/open-banking/resources/v1/resources",
+    "first": "https://api.caixa.gov.br/open-banking/resources/v1/resources",
+    "prev": "https://api.caixa.gov.br/open-banking/resources/v1/resources",
+    "next": "https://api.caixa.gov.br/open-banking/resources/v1/resources"
+  },
+  "meta": {
+    "requestDateTime": "2023-05-31T15:00:00Z"
+  }
+}

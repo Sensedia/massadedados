@@ -1,0 +1,35 @@
+{
+  "data": {
+    "issuerInstitutionCnpjNumber": "00360305000104",
+    "isinCode": "BRSPL4GTF009",
+    "investmentType": "RDB",
+    "remuneration": {
+      "preFixedRate": "1.015609",
+      "postFixedIndexerPercentage": "5.300000",
+      "rateType": "LINEAR",
+      "ratePeriodicity": "DIARIO",
+      "calculation": "DIAS_UTEIS",
+      "indexer": "IGP_DI"
+    },
+    "issueUnitPrice": {
+      "amount": "540.55304290",
+      "currency": "BRL"
+    },
+    "dueDate": "2028-03-15",
+    "issueDate": "2022-03-16",
+    "clearingCode": "RDB0039992",
+    "purchaseDate": "2023-05-31",
+    "gracePeriodDate": "2024-05-31"
+  },
+  "links": {
+    "self": "https://api.caixa.gov.br/open-banking/resources/v1/resources",
+    "first": "https://api.caixa.gov.br/open-banking/resources/v1/resources",
+    "prev": "https://api.caixa.gov.br/open-banking/resources/v1/resources",
+    "next": "https://api.caixa.gov.br/open-banking/resources/v1/resources"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2023-05-31T14:30:33Z"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "data": {
+    "referenceDateTime": "2023-05-31T14:35:00Z",
+    "quantity": "856.0067",
+    "updatedUnitPrice": {
+      "amount": "342454.000004",
+      "currency": "BRL"
+    },
+    "grossAmount": {
+      "amount": "9537395.78",
+      "currency": "BRL"
+    },
+    "netAmount": {
+      "amount": "850964.0053",
+      "currency": "BRL"
+    },
+    "incomeTax": {
+      "amount": "103430.4394",
+      "currency": "BRL"
+    },
+    "financialTransactionTax": {
+      "amount": "56843.9203",
+      "currency": "BRL"
+    },
+    "blockedBalance": {
+      "amount": "6537395.78",
+      "currency": "BRL"
+    },
+    "purchaseUnitPrice": {
+      "amount": "7537395.78",
+      "currency": "BRL"
+    },
+    "preFixedRate": "1.015609",
+    "postFixedIndexerPercentage": "5.300000"
+  },
+  "links": {
+    "self": "https://api.banco.com.br/open-banking/api/v1/resource",
+    "first": "https://api.banco.com.br/open-banking/api/v1/resource",
+    "prev": "https://api.banco.com.br/open-banking/api/v1/resource",
+    "next": "https://api.banco.com.br/open-banking/api/v1/resource"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2023-05-31T14:35:58Z"
+  }
+}
