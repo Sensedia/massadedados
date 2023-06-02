@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "brandName": "Banco Santander (BRASIL) S.A.",
+      "companyCnpj": "90400888000142",
+      "operationId": "STD20230023239-0"
+    }
+  ],
+  "links": {
+    "self": "https://openbanking.api.santander.com.br/open-banking/resource/v1/resource",
+    "first": "https://openbanking.api.santander.com.br/open-banking/resource/v1/resource",
+    "prev": "https://openbanking.api.santander.com.br/open-banking/resource/v1/resource",
+    "next": "https://openbanking.api.santander.com.br/open-banking/resource/v1/resource",
+    "last": "https://openbanking.api.santander.com.br/open-banking/resource/v1/resource"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1
+  }
+}

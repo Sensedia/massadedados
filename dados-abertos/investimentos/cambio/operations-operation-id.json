@@ -1,0 +1,47 @@
+{
+  "data": {
+    "authorizedInstitutionCnpjNumber": "90400888000142",
+    "authorizedInstitutionName": "Banco Santander (BRASIL) S.A.",
+    "operationNumber": "984302843848",
+    "operationType": "VENDA",
+    "operationDate": "2023-05-29T11:09:00Z",
+    "dueDate": "2024-05-29",
+    "localCurrencyOperationTax": {
+      "amount": "1.930000339",
+      "currency": "BRL"
+    },
+    "localCurrencyOperationValue": {
+      "amount": "2344.04",
+      "currency": "BRL"
+    },
+    "foreignOperationValue": {
+      "amount": "983023.03",
+      "currency": "EUR"
+    },
+    "operationOutstandingBalance": {
+      "amount": "323241141.04",
+      "currency": "EUR"
+    },
+    "vetAmount": {
+      "amount": "2434355.4935044001",
+      "currency": "BRL"
+    },
+    "localCurrencyAdvancePercentage": "5.000432",
+    "deliveryForeignCurrency": "CARTAO_PREPAGO",
+    "operationCategoryCode": "80502",
+    "relationshipCode": "51",
+    "foreignPartieName": "Marlene Menezes",
+    "foreignPartieCountryCode": "RO"
+  },
+  "links": {
+    "self": "https://openbanking.api.santander.com.br/open-banking/resource/v1/resource",
+    "first": "https://openbanking.api.santander.com.br/open-banking/resource/v1/resource",
+    "prev": "https://openbanking.api.santander.com.br/open-banking/resource/v1/resource",
+    "next": "https://openbanking.api.santander.com.br/open-banking/resource/v1/resource",
+    "last": "https://openbanking.api.santander.com.br/open-banking/resource/v1/resource"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1
+  }
+}
